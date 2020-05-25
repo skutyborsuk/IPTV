@@ -2,317 +2,58 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="CANAL+ NOW">
     <display-name lang="pl">PL - CANAL+ NOW</display-name>
-    <icon src="http://ocdn.eu/program-tv-transforms/1/dXCktlEYWRtL2IzNzk5OGMwYTExODlhNWNmYzA4ZWY5OTQwNTllNTQ4N2Q3N2U2Y2RkMWVlMTIxMGU4NTRmYjdiYzllNmNmNjKSlQJkAMLDlQIAKMLD" />
-    <url>http://www.programtv.onet.pl</url>
+    <icon src="https://wpcdn.pl/ptv-stage/logo/dark/128/683.png" />
+    <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="CBS Action">
     <display-name lang="pl">PL - CBS ACTION</display-name>
-    <icon src="http://ocdn.eu/program-tv-transforms/1/VoNktkpTURBXy84YTZmZTBlZTcxOTdiZGYyOWMxMmM2YWI4YzJhMWY5NS5wbmeSlQJkAMLDlQIAKMLD" />
-    <url>http://www.programtv.onet.pl</url>
+    <icon src="https://wpcdn.pl/ptv-stage/logo/dark/128/78.png" />
+    <url>http://www.tv.wp.pl</url>
   </channel>
-  <channel id="POLSAT Sport Fight">
-    <display-name lang="pl">PL - POLSAT SPORT FIGHT HD</display-name>
-    <icon src="http://ocdn.eu/program-tv-transforms/1/xoxktlEYWRtLzllZjU0ZmM5MGRiOTBiNTczYTYzYmU2MDAzNTIxY2U5NmI0ZmVjNjFkOWM5NmVjOGM2M2E5N2E0NTQ3MmYxODWSlQJkAMLDlQIAKMLD" />
-    <url>http://www.programtv.onet.pl</url>
-  </channel>
-  <programme start="20200525100000 +0200" stop="20200525100000 +0200" channel="CANAL+ NOW">
+  <programme start="20200525100000 +0200" stop="20200526100000 +0200" channel="CANAL+ NOW">
     <title lang="pl">Turbokozak</title>
     <desc lang="pl">Bartosz Ignacik i Grzegorz Jędrzejewski w zabawnym teście sprawdzają umiejętności piłkarskie zawodników z Ekstraklasy. Czasem w programie pojawiają się reprezentanci innych dyscyplin i znane osoby.(n)</desc>
     <credits>
-      <presenter>Grzegorz Jędrzejewski</presenter>
       <presenter>Bartosz Ignacik</presenter>
+      <presenter>Grzegorz Jędrzejewski</presenter>
     </credits>
     <category lang="pl">Magazyn Piłkarski</category>
-    <rating system="PL">
-      <value>12+</value>
-    </rating>
   </programme>
-  <programme start="20200525100000 +0200" stop="20200525105500 +0200" channel="CANAL+ NOW">
-    <title lang="pl">Dobry Wieczór. EKSTRAKLASA</title>
-    <desc lang="pl">Program podsumowuje wydarzenia związane z Ekstraklasą w obliczu walki z koronowirusem. Prowadzący łączą się za pomocą nowoczesnych technologii ze piłkarzami, trenerami i dziennikarzami. Prezentowane są również opinie widzów.(n)</desc>
-    <category lang="pl">Magazyn Sportowy</category>
-    <rating system="PL">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20200525100000 +0200" stop="20200525105500 +0200" channel="CANAL+ NOW">
-    <title lang="pl">R1. Rezerwowy program żużlowy</title>
-    <desc lang="pl">Epidemia koronawirusa sparaliżowała cały sport. Twórcy programu zaprezentują widzom najnowsze wieści ze świata żużla i motosportu. Tomasz Dryła i Mirosław Jabłoński w studiu, a także za pośrednictwem połączeń telefonicznych i internetowych porozmawiają o obecnej sytuacji z zawodnikami, trenerami i ekspertami. Udział w dyskusji będą mogli wziąć też widzowie. Zaprezentowane zostaną materiały archiwalne oraz niepublikowane dotąd nagrania, pokazujące "czarny sport" od kuchni. Program wzbogacą liczne anegdoty i konkursy z nagrodami.(n)</desc>
-    <date>2020</date>
-    <category lang="pl">Magazyn Sportowy</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-7398dbc4-1ce6-4680-bd4a-1164b6fda087" />
-    <country lang="pl">Polska</country>
-    <rating system="PL">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20200525100000 +0200" stop="20200525105500 +0200" channel="CANAL+ NOW">
-    <title lang="pl">Dobry Wieczór. LA LIGA</title>
-    <desc lang="pl">Program podsumowuje najnowsze wydarzenia związane z La Ligą w obliczu walki z koronowirusem. Prowadzący łączą się za pomocą nowoczesnych technologii z ekspertami piłkarskimi i dziennikarzami. Prezentowane są również opinie widzów.(n)</desc>
-    <category lang="pl">Magazyn Sportowy</category>
-    <rating system="PL">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20200525100000 +0200" stop="20200525105500 +0200" channel="CANAL+ NOW">
+  <programme start="20200526100000 +0200" stop="20200526105500 +0200" channel="CANAL+ NOW">
     <title lang="pl">Dobry Wieczór. PREMIER LEAGUE</title>
     <desc lang="pl">Program podsumowuje wydarzenia związane z Premier League w obliczu walki z koronowirusem. Prowadzący łączą się za pomocą nowoczesnych technologii z ekspertami piłkarskimi i dziennikarzami. Prezentowane są również opinie widzów.(n)</desc>
     <category lang="pl">Magazyn Sportowy</category>
-    <rating system="PL">
-      <value>12+</value>
-    </rating>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4194027.jpg" />
   </programme>
-  <programme start="20200525035000 +0200" stop="20200525070000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Radomiu - waga superpółśrednia: Rafał Jackiewicz - Stilian Kostow 27.02.2016</title>
-    <desc lang="pl">Wydarzeniem imprezy w hali MOSiR będzie starcie byłego mistrza Europy i pretendenta do tytułu mistrza świata Rafała Jackiewicza ze Stilianem Kostowem. Dla Polaka to już 64. walka w karierze. W swoim ostatnim pojedynku, 12 grudnia 2015 roku w Ełku, Wojownik pokonał przez techniczny nokaut Michała Syrowatkę. Emocji nie powinno też zabraknąć w walce pochodzącego z Radomia Michała Żeromińskiego z Marcinem Cybulskim.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
+  <programme start="20200526105500 +0200" stop="20200527100000 +0200" channel="CANAL+ NOW">
+    <title lang="pl">Zakończenie programu</title>
   </programme>
-  <programme start="20200525070000 +0200" stop="20200525104000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: Mistrzostwa Świata Amatorskiego MMA - Bahrajn 2019 - zawody juniorów</title>
-    <category lang="pl">Sporty Walki</category>
+  <programme start="20200527100000 +0200" stop="20200527105500 +0200" channel="CANAL+ NOW">
+    <title lang="pl">Dobry Wieczór. LA LIGA</title>
+    <desc lang="pl">Program podsumowuje najnowsze wydarzenia związane z La Ligą w obliczu walki z koronowirusem. Prowadzący łączą się za pomocą nowoczesnych technologii z ekspertami piłkarskimi i dziennikarzami. Prezentowane są również opinie widzów.(n)</desc>
+    <category lang="pl">Magazyn Sportowy</category>
   </programme>
-  <programme start="20200525104000 +0200" stop="20200525132000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala Rocky Boxing Night w Stężycy - waga ciężka: Paweł Sowik - Shi Yun Long 29.02.2020</title>
-    <desc lang="pl">Walką wieczoru podczas gali w Stężycy będzie pojedynek wagi ciężkiej pomiędzy Pawłem Sowikiem a byłym mistrzem Chin Shi Yun Longiem. Dla pięściarza z Państwa Środka będzie to debiut w zawodowym ringu. Oprócz nich rękawice skrzyżują m.in. Kacper Meyna i Andras Csomor.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
+  <programme start="20200527105500 +0200" stop="20200528100000 +0200" channel="CANAL+ NOW">
+    <title lang="pl">Zakończenie programu</title>
   </programme>
-  <programme start="20200525132000 +0200" stop="20200525165500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: KSW 27 - walka: Mamed Khalidov - Maiquel Falcao 17.05.2014</title>
-    <category lang="pl">Sporty Walki</category>
-  </programme>
-  <programme start="20200525165500 +0200" stop="20200525201500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: Gala Babilon MMA 3 w Radomiu - walka: Szymon Kołecki - Łukasz Borowski 16.03.2018</title>
-    <desc lang="pl">Wydarzeniem zawodów w Radomiu jest starcie Szymona Kołeckiego z Łukaszem Borowskim. Dla mistrza olimpijskiego w podnoszeniu ciężarów będzie to piąta walka w MMA. Cztery poprzednie wygrał przez nokaut. Podczas dzisiejszej gali jako zawodnik sportów walki zadebiutuje zapaśnik Dawid Pepłowski. Wystąpią również m.in. Rafał Haratyk i Michał Orkowski.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-  </programme>
-  <programme start="20200525201500 +0200" stop="20200525232500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Liverpoolu - waga superśrednia: Anthony Fowler - Brian Rose 02.08.2019</title>
-    <desc lang="pl">Stawką pojedynku Anthony'ego Fowlera z Brianem Rosem był mistrzowski pas WBO w wadze superśredniej.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200525232500 +0200" stop="20200526000000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Z archiwum UFC: UFC 189: Mendes vs. McGregor - walka: Chad Mendes - Conor McGregor 11.07.2015</title>
-    <desc lang="pl">Przegląd najciekawszych pojedynków zorganizowanych przez federację UFC ze szczególnym uwzględnieniem walk polskich zawodników. W programie m.in. starcia z udziałem Joanny Jędrzejczyk czy Jana Błachowicza.(n)</desc>
-    <category lang="pl">Magazyn Sportów Walki</category>
-  </programme>
-  <programme start="20200526000000 +0200" stop="20200526002500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Z archiwum UFC: UFC 160: Velasquez vs. Bigfoot 2 - walka: Khabib Nurmagomedov - Abel Trujillo 25.05.2013</title>
-    <desc lang="pl">Przegląd najciekawszych pojedynków zorganizowanych przez federację UFC ze szczególnym uwzględnieniem walk polskich zawodników. W programie m.in. starcia z udziałem Joanny Jędrzejczyk czy Jana Błachowicza.(n)</desc>
-    <category lang="pl">Magazyn Sportów Walki</category>
-  </programme>
-  <programme start="20200526002500 +0200" stop="20200526031000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Jastrzębiu-Zdroju - waga średnia: Damian Jonak - Kris Carslaw 23.11.2013</title>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200526031000 +0200" stop="20200526070000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: FEN 12 we Wrocławiu - walka: Michał Michalski - Davy Gallon 20.05.2016</title>
-    <category lang="pl">Sporty Walki</category>
-  </programme>
-  <programme start="20200526070000 +0200" stop="20200526104000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Dzierżoniowie - waga junior ciężka: Mateusz Masternak - Aleksander Kubich 04.03.2017</title>
-    <desc lang="pl">Pomimo trzydziestu lat rywal Polaka nie jest doświadczonym pięściarzem. Na zawodowym ringu debiutował przed niespełna pięcioma laty i jak dotąd stoczył jedenaście walk, z czego dziewięć wygrał. W ubiegłym roku Rosjanin mierzył się w Szczecinie z Michałem Cieślakiem i przegrał w 9 rundzie przez techniczny nokaut.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200526104000 +0200" stop="20200526144500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Walka o pas WBO World Female w Jeleniej Górze - waga superpiórkowa: Ewa Brodnicka - Janeth Perez 25.05.2019</title>
-    <desc lang="pl">Stawką walki w wadze superpiórkowej w Jeleniej Górze jest pas WBO World Female. Już po raz trzeci broni go polska pięściarka. W ubiegłym roku pokonała Sarah Pucek i Nozipho Bell. Teraz jej przeciwniczką jest doświadczona Meksykanka, Janeth Perez, która wygrała 24 pojedynki. Z ringu pokonana schodziła tylko cztery razy.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200526144500 +0200" stop="20200526181500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: KSW 30 - walka: Borys Mańkowski - Mohsen Bahari 21.02.2015</title>
-    <desc lang="pl">Najciekawsze walki z gali KSW, która odbyła się 21 lutego 2015 roku w Poznaniu. Kibice zobaczyli w akcji m.in. Borysa Mańkowskiego, Aslambeka Saidova, Karolinę Kowalkiewicz i Mateusza Gamrota.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200526181500 +0200" stop="20200526184000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Grom Challenge 2019</title>
-    <category lang="pl">Reportaż</category>
-  </programme>
-  <programme start="20200526184000 +0200" stop="20200526205000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Nowym Jorku - waga ciężka: Robert Helenius - Adam Kownacki 07.03.2020</title>
-    <desc lang="pl">Niepokonany na zawodowym ringu Adam Kownacki w swoim 21 pojedynku zmierzy się z dwumetrowym Robertem Heleniusem. Doświadczony Fin stoczył w karierze 32 walki, z czego 29 wygrał. Ostatnio The Nordic Nightmare pokonał w drugiej rundzie Brazylijczyka Mateusa Roberto Osorio. Przedtem przegrał z Geraldem Washingtonem podczas gali w Minnesocie. Ewentualne zwycięstwo popularnego Baby Face ma przybliżyć go do upragnionej walki o mistrzostwo świata w królewskiej dywizji.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200526205000 +0200" stop="20200526224500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: UFC Fight Night 169 w Norfolk - walka: Joseph Benavidez - Deiveson Figueiredo 29.02.2020</title>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200526224500 +0200" stop="20200527003500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Żyrardowie - waga ciężka: Siergiej Werwejko - Marcelo Luis Nascimento 17.03.2017</title>
-    <desc lang="pl">W walce wieczoru obejrzymy pojedynek walczącego pod polską flagą Ukraińca Siergieja Werwejki z doświadczonym Brazylijczykiem. Dla reprezentującego Polskę boksera to dopiero szósta walka na zawodowym ringu, a przeciwnik całkiem wymagający. Przekonał się o tym były pretendent do mistrzowskiego pasa Mariusz Wach, który stoczył z Marcelem Luizem Nascimentem ciężki bój w ubiegłym roku w Kędzierzynie-Koźlu. Ostatecznie Wach po przeboksowaniu dziesięciu rund wygrał tę walkę na punkty.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200527003500 +0200" stop="20200527042000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: MMA Attack 3 w Katowicach - walka: Dawid Ozdoba - Robert Burneika 27.04.2013</title>
-    <desc lang="pl">W pojedynku wieczoru na gali w katowickim Spodku Tomasz Drwal zmierzy się z Wesem Swoffordem. Dla Polaka to dwudziesty piąty pojedynek w formule MMA w karierze. Z wcześniejszych walk aż dziewiętnaście kończyło się jego zwycięstwami, w tym dwie ostatnie z Garym Padillą i Leonardo Nascimento. Drwal to pierwszy Polak, który walczył w UFC, najbardziej prestiżowej organizacji MMA na świecie. W sumie stoczył w niej pięć walk - wygrał dwie z nich, w trzech musiał uznać wyższość rywali.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200527042000 +0200" stop="20200527070000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Walka o tytuł mistrza Polski w Białymstoku - waga średnia: Robert Świerzbiński - Rafał Jackiewicz 14.09.2018</title>
-    <desc lang="pl">Główną atrakcją wieczoru w będzie walka rewanżowa czterdziestoletniego Rafała Jackiewicza z pięć lat młodszym Robertem Świerzbińskim pochodzącym z Białegostoku. Pod koniec maja dość niespodziewanie zwyciężył Świerzbiński. Przed własną publicznością, będzie chciał znów rozstrzygnąć pojedynek na swoją korzyść.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200527070000 +0200" stop="20200527113000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: KSW 29 - walka: Mamed Khalidov - Brett Cooper 06.12.2014</title>
-    <desc lang="pl">36. walka w karierze Mameda Khalidova, która odbyła się w grudniu 2014 roku podczas gali w Krakowie.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200527113000 +0200" stop="20200527153000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: POLSAT Boxing Night: Adamek vs Molina - waga ciężka: Tomasz Adamek - Eric Molina 02.04.2016</title>
-    <desc lang="pl">Podczas gali w TAURON Arenie Kraków zostało rozegranych sześć pojedynków. W walce wieczoru o pas federacji IBF Intercontinental w wadze ciężkiej zmierzyli się Tomasz Adamek i Eric Molina. Góral we wrześniu 2015 r. pokonał Przemysława Saletę, a niecały rok wcześniej przegrał z Arturem Szpilką.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200527153000 +0200" stop="20200527185500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sztuki walki: Gala Armia Fight Night 7 w Lublinie - walka: Piotr Wawrzyniak - Ioannis Palaiologos 05.10.2019</title>
-    <desc lang="pl">Podczas gali w Lublinie wystąpią reprezentanci wszystkich formacji Wojska Polskiego. Zobaczymy także zawodników z innych państw. Walki odbędą się w formule MMA i K-1.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200527185500 +0200" stop="20200527192000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Strzał w dziesiątkę</title>
+  <programme start="20200528100000 +0200" stop="20200528105500 +0200" channel="CANAL+ NOW">
+    <title lang="pl">R1. Rezerwowy program żużlowy</title>
+    <desc lang="pl">Epidemia koronawirusa sparaliżowała cały sport. Twórcy programu zaprezentują widzom najnowsze wieści ze świata żużla i motosportu. Tomasz Dryła i Mirosław Jabłoński w studiu, a także za pośrednictwem połączeń telefonicznych i internetowych porozmawiają o obecnej sytuacji z zawodnikami, trenerami i ekspertami. Udział w dyskusji będą mogli wziąć też widzowie. Zaprezentowane zostaną materiały archiwalne oraz niepublikowane dotąd nagrania, pokazujące.(n)</desc>
     <date>2020</date>
-    <category lang="pl">Reportaż</category>
+    <category lang="pl">Magazyn Sportowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3877492.jpg" />
     <country lang="pl">Polska</country>
   </programme>
-  <programme start="20200527192000 +0200" stop="20200527201000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">KOTV Classics</title>
-    <desc lang="pl">Przypomnienie i analiza największych pojedynków bokserskich w historii tej dyscypliny sportu. Prezentowane są w nim m.in. pamiętne walki takich bokserów jak: Joe Louis, Muhammad Ali czy Mike Tyson. Najlepsze fragmenty walk są opatrzone współczesnym komentarzem, oceniającym tamte wydarzenia z perspektywy czasu.(n)</desc>
-    <category lang="pl">Magazyn Bokserski</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
+  <programme start="20200528105500 +0200" stop="20200529100000 +0200" channel="CANAL+ NOW">
+    <title lang="pl">Zakończenie programu</title>
   </programme>
-  <programme start="20200527201000 +0200" stop="20200527203500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Z archiwum UFC: UFC on FX: Guillard vs. Miller - walka: Khabib Nurmagomedov - Kamal Shalorus 20.01.2012</title>
-    <desc lang="pl">Przegląd najciekawszych pojedynków zorganizowanych przez federację UFC ze szczególnym uwzględnieniem walk polskich zawodników. W programie m.in. starcia z udziałem Joanny Jędrzejczyk czy Jana Błachowicza.(n)</desc>
-    <category lang="pl">Magazyn Sportów Walki</category>
+  <programme start="20200529100000 +0200" stop="20200529105500 +0200" channel="CANAL+ NOW">
+    <title lang="pl">Dobry Wieczór. EKSTRAKLASA</title>
+    <desc lang="pl">Program podsumowuje wydarzenia związane z Ekstraklasą w obliczu walki z koronowirusem. Prowadzący łączą się za pomocą nowoczesnych technologii ze piłkarzami, trenerami i dziennikarzami. Prezentowane są również opinie widzów.(n)</desc>
+    <category lang="pl">Magazyn Sportowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4165889.jpg" />
   </programme>
-  <programme start="20200527203500 +0200" stop="20200527210500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Z archiwum UFC: UFC 165: Jones vs. Gustafsson - walka: Khabib Nurmagomedov - Pat Healy 21.09.2013</title>
-    <desc lang="pl">Przegląd najciekawszych pojedynków zorganizowanych przez federację UFC ze szczególnym uwzględnieniem walk polskich zawodników. W programie m.in. starcia z udziałem Joanny Jędrzejczyk czy Jana Błachowicza.(n)</desc>
-    <category lang="pl">Magazyn Sportów Walki</category>
-  </programme>
-  <programme start="20200527210500 +0200" stop="20200528001000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Raszynie - waga średnia: Robert Talarek - Oleksandr Stretsky 30.11.2019</title>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200528001000 +0200" stop="20200528034500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: Mistrzostwa Świata Amatorskiego MMA - Bahrajn 2019 - zawody seniorów</title>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200528034500 +0200" stop="20200528070000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Legionowie - waga ciężka: Marcin Rekowski - Oliver McCall 26.04.2014</title>
-    <desc lang="pl">W najciekawszej walce wieczoru Marcin Rekowski zmierzy się z doświadczonym Oliverem McCallem, jedynym pięściarzem, który do tej pory zdołał go pokonać na zawodowym ringu. Polak przegrał z nim na lutowej gali w Opolu.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200528070000 +0200" stop="20200528103500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: FEN 27 w Szczecinie - walka: Mateusz Rębecki - Magomed Magomedov 18.01.2020</title>
-    <desc lang="pl">Podczas gali FEN 27 w Szczecinie Polak po raz trzeci będzie bronił pasa mistrzowskiego w kategorii lekkiej. Rywal Rębeckiego wygrał pięć pojedynków z rzędu i z pewnością postawi mu trudne warunki. Kibice zobaczą w akcji także m.in. Wojciecha Janusza i Adama Kowalskiego.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200528103500 +0200" stop="20200528124500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala Babilon Promotion w Nowym Dworze Mazowieckim - waga półśrednia: Przemysław Runowski - Sergiej Mołczanow</title>
-    <desc lang="pl">Przeciwnikiem Przemysława Runowskiego w walce wieczoru jest pięściarz z Ukrainy. Sergiej Mołczanow jest niepokonany na zawodowym ringu. Stoczył dotychczas dziesięć pojedynków i osiem z nich zakończył przed czasem.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200528124500 +0200" stop="20200528162500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: KSW 50 - walka: Philip De Fries - Luis Henrique 14.09.2019</title>
-    <desc lang="pl">Na zakończenie jubileuszowej gali KSW Phil De Fries zmierzył się z Luisem Henrique. Brytyjczyk był niepokonany od października 2017 roku. W swoim ostatnim pojedynku okazał się lepszy od Tomasza Narkuna.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200528162500 +0200" stop="20200528200500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Legionowie - waga półciężka: Michał Cieślak - Youri Kalenga 01.03.2019</title>
-    <desc lang="pl">Michała Cieślaka czeka najtrudniejszy pojedynek w karierze. Jego rywalem będzie były tymczasowy mistrz świata WBA w wadze junior ciężkiej, Youri Kayembre Kalenga. Podczas gali w Legionowie dojdzie także do walki Piotra Gudela z Wiktorem Kotoczigowem.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200528200500 +0200" stop="20200528230000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Olsztynie - waga półciężka: Dariusz Sęk - Farouk Daku 10.05.2013</title>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200528230000 +0200" stop="20200529021000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Walka o tytuł Mistrza Wielkiej Brytanii w Londynie - waga lekkociężka: Richard Riakporhe - Jack Massey 19.12.2019</title>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200529021000 +0200" stop="20200529044500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: Gala Babilon MMA 2 w Legionowie - walka: Szymon Kołecki - Michał Orkowski 02.12.2017</title>
-    <desc lang="pl">Dla Szymona Kołeckiego to dopiero czwarty pojedynek w MMA - trzy poprzednie wygrał. Podczas zawodów w Legionowie kibice zobaczą też starcia m.in. Rafała Haratyka z Łukaszem Bieńkowskim i Adama Niedźwiedzia z Pawłem Pawlakiem.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-3cfffc09-7c85-485d-9edc-5d60869e4af9" />
-  </programme>
-  <programme start="20200529044500 +0200" stop="20200529070000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Gala w Kaliszu - walka: Ewa Brodnicka - Lela Terashvili 24.09.2016</title>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200529070000 +0200" stop="20200529100500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: Babilon MMA 12 w Łomży - walka: Paweł Pawlak - Adrian Błeszyński 07.02.2020</title>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-155611bf-fa2b-4c43-b852-5e9017ada146" />
-  </programme>
-  <programme start="20200529100500 +0200" stop="20200529131000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: Rocky Boxing Night w Kościerzynie: Turniej wagi ciężkiej 10.05.2019</title>
-    <desc lang="pl">Gala inaugurująca turniej wagi ciężkiej, którego zwycięzca dostanie 100 tys. zł oraz podpisze kontrakt promotorski z grupą Rocky Boxing Night. W Kościerzynie odbędą się walki ćwierćfinałowe. Naprzeciw siebie staną m.in. Paweł Sowik i Michał Bołoz oraz Mateusz Cielepała i Roger Hryniuk.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200529131000 +0200" stop="20200529140000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">KOTV Classics</title>
-    <desc lang="pl">Przypomnienie i analiza największych pojedynków bokserskich w historii tej dyscypliny sportu. Prezentowane są w nim m.in. pamiętne walki takich bokserów jak: Joe Louis, Muhammad Ali czy Mike Tyson. Najlepsze fragmenty walk są opatrzone współczesnym komentarzem, oceniającym tamte wydarzenia z perspektywy czasu.(n)</desc>
-    <category lang="pl">Magazyn Bokserski</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200529140000 +0200" stop="20200529175000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: POLSAT Boxing Night 7: Nowe rozdanie - waga ciężka: Tomasz Adamek - Solomon Haumono 24.06.2017</title>
-    <desc lang="pl">Walka wieczoru w trójmiejskiej Ergo Arenie było starcie Tomasza Adamka z Solomonem Haumono. Góral powracał wówczas na ring po przegranej w 2016 roku z Erikiem Moliną.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
-  </programme>
-  <programme start="20200529175000 +0200" stop="20200529181500 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: FEN 23 w Lubinie - walka: Mateusz Rębecki - Daguir Imavov 12.01.2019</title>
-    <desc lang="pl">W pojedynku wieczoru Mateusz Rębecki po raz drugi stanie do obrony tytułu mistrzowskiego w kategorii lekkiej. Jego rywalem będzie Daguir Imawow, który w Polsce walczył do tej pory dwa razy, oba starcia wygrywając. Podczas gali kibice zobaczą też w akcji m.in. Adama Brzezowskiego i Łukasza Charzewskiego.(n)</desc>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-155611bf-fa2b-4c43-b852-5e9017ada146" />
-  </programme>
-  <programme start="20200529181500 +0200" stop="20200529193000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Koloseum</title>
-    <desc lang="pl">Program poświęcony sportom walki. Fani znajdą w nim m.in. najświeższe informacje ze świata MMA i boksu, ciekawostki dotyczące zawodników i interesujące wywiady. Sami również będą mogli się w nim wypowiedzieć. Nie będzie tematów tabu. Magazyn prowadzą Łukasz Jurkowski i Patrycja Zahorska, a grono ekspertów tworzą m.in. Andrzej Kostyra, Tomasz Marciniak i Dominik Durniat.(n)</desc>
-    <credits>
-      <presenter>Patrycja Zahorska</presenter>
-      <presenter>Łukasz Jurkowski</presenter>
-    </credits>
-    <category lang="pl">Magazyn Sportów Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-e94ab427-cf31-4886-bb9f-69b5ba335f1c" />
-    <country lang="pl">Polska</country>
-  </programme>
-  <programme start="20200529193000 +0200" stop="20200529230000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Sporty walki: Gala Babilon MMA 13 - walka: Łukasz Brzeski - Michał Piwowarski</title>
-    <category lang="pl">Sporty Walki</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-155611bf-fa2b-4c43-b852-5e9017ada146" />
-  </programme>
-  <programme start="20200529230000 +0200" stop="20200530005000 +0200" channel="POLSAT Sport Fight">
-    <title lang="pl">Boks: MB Boxing Night w Radomiu - waga półciężka: Dariusz Sęk - Robert Parzęczewski 22.12.2018</title>
-    <desc lang="pl">Popularny Arab o raz czwarty stanął między linami w 2018 roku. Trzy poprzednie pojedynki Robert Parzęczewski wygrał bez większych problemów. Pokonał kolejno Andrzeja Sołdrę, Tima Cronina i Jacksona Juniora, pierwszego i ostatniego rywala z wymienionych znokautował już w pierwszej rundzie. Doświadczony Dariusz Sęk miał być dużo trudniejszą przeszkodą dla 25-letniego Parzęczewskiego.(n)</desc>
-    <category lang="pl">Boks</category>
-    <icon src="https://ocdn.eu/program-tv/new-upload-images/images-d98e2485-3b97-49bb-a945-aafdc9eb75b0" />
+  <programme start="20200529105500 +0200" stop="20200601100000 +0200" channel="CANAL+ NOW">
+    <title lang="pl">Zakończenie programu</title>
   </programme>
 </tv>
