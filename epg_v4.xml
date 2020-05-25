@@ -2,217 +2,1509 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Polonia 1">
     <display-name lang="pl">PL - POLONIA 1</display-name>
-    <icon src="https://media.teleman.pl/logos/m/103.png" />
-    <url>http://www.teleman.pl</url>
+    <icon src="https://wpcdn.pl/ptv-stage/logo/dark/128/8.png" />
+    <url>http://www.tv.wp.pl</url>
   </channel>
+  <programme start="20200525060000 +0200" stop="20200525064000 +0200" channel="Polonia 1">
+    <title lang="pl">Muzyka na start</title>
+    <desc lang="pl">Porcja dobrej muzyki na początek dnia.(n)</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525064000 +0200" stop="20200525070500 +0200" channel="Polonia 1">
+    <title lang="pl">Yattaman</title>
+    <sub-title lang="pl">Czerwony wieloryb.</sub-title>
+    <desc lang="pl">Yattaman i jego odważni przyjaciele chronią magiczny kamień, przy pomocy którego można odnaleźć wielki skarb.(n)</desc>
+    <credits>
+      <director>Hiroshi Sasagawa</director>
+    </credits>
+    <date>1977</date>
+    <category lang="pl">Serial Animowany</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3275743.jpg" />
+    <country lang="pl">Japonia</country>
+    <episode-num system="onscreen">E54</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525070500 +0200" stop="20200525075500 +0200" channel="Polonia 1">
+    <title lang="pl">Klinika Nadzieja</title>
+    <title lang="en">Krowinuszka</title>
+    <desc lang="pl">Małżonkowie Olga (Jelena Łaguta) i Siergiej (Stanisław Nikołajew) pracują w klinice.(n)</desc>
+    <credits>
+      <actor role="Sofija Zimowiec">Marina Maniachina</actor>
+      <actor role="Siergiej">Stanisław Nikołajew</actor>
+      <actor role="Olga">Jelena Łaguta</actor>
+      <actor role="Galina Wjaziemskaja">Diana Maksimowa</actor>
+      <actor role="Michaił Wjaziemskij">Dmitrij Warszawskij</actor>
+      <actor role="Michaił Wjaziemskij">Aristarch Liwanow</actor>
+      <actor role="Griszka Zimowiec">Anatolij Zawjałow</actor>
+      <actor role="Oksana">Tatjana Borisowa</actor>
+      <actor role="mąż Oksany">Jurij Sazonow</actor>
+      <actor role="Tarasik">Iwan Niepomniaszczij</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pl">Serial Obyczajowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3975468.jpg" />
+    <country lang="pl">Rosja</country>
+    <episode-num system="onscreen">E12</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525075500 +0200" stop="20200525084500 +0200" channel="Polonia 1">
+    <title lang="pl">Czynnik PSI</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <sub-title lang="en">The Light</sub-title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <director>Milan Cheylov</director>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa165485.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525084500 +0200" stop="20200525094500 +0200" channel="Polonia 1">
+    <title lang="pl">Niesamowite tajemnice</title>
+    <title lang="en">Realna Mistyka</title>
+    <sub-title lang="pl">Spotkanie z perepłutem.</sub-title>
+    <desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.(n)</desc>
+    <credits>
+      <actor>Andrij Debrin</actor>
+      <actor>Ludmiła Ardieljan</actor>
+      <actor>Jewhen Beltiukow</actor>
+      <actor>Ołena Bondarewa-Riepina</actor>
+      <actor>Timur Ibraimow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">Serial Grozy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4017594.jpg" />
+    <country lang="pl">Ukraina</country>
+    <episode-num system="onscreen">E8</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525094500 +0200" stop="20200525131500 +0200" channel="Polonia 1">
+    <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525131500 +0200" stop="20200525143000 +0200" channel="Polonia 1">
+    <title lang="pl">Mango</title>
+    <desc lang="pl">W programie prezentowane są różnorodne produkty. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525143000 +0200" stop="20200525162000 +0200" channel="Polonia 1">
+    <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200525162000 +0200" stop="20200525210000 +0200" channel="Polonia 1">
+    <title lang="pl">Klejnot TV</title>
+    <desc lang="pl">Interaktywne pasmo telezakupów, w którym widzowie mogą nabyć ekskluzywną biżuterię z wielu kolekcji. Program prowadzą: Marzena Ziarek, Ksenia Chlebicka, Beata Kacprzyk i Sylwia Sokołowska.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3087427.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
   <programme start="20200525210000 +0200" stop="20200525230000 +0200" channel="Polonia 1">
     <title lang="pl">Pościg</title>
+    <title lang="en">In Pursuit</title>
+    <desc lang="pl">Rick Alvarez (Daniel Baldwin) jako dziecko był świadkiem śmierci matki, którą zamordował jego ojciec. Choć od tragedii minęło już wiele lat, postanawia wyruszyć na poszukiwania rodzica, aby się na nim zemścić. Kiedy wreszcie odnajduje ojca, poznaje także jego młodą żonę, Cathy (Claudia Schiffer). Rick sprytnie uwodzi atrakcyjną macochę. Wkrótce jego ojciec ginie w zamachu bombowym. Głównym podejrzanym o jego dokonanie staje się Rick. Zostaje aresztowany, a jedyną osobą, która może udowodnić jego niewinność, jest Cathy. Problem jednak w tym, że dziewczyna nieoczekiwanie zniknęła. Rick nie ma więc wyboru - ucieka z więzienia, aby ją odnaleźć.(n)</desc>
+    <credits>
+      <director>Peter Pistor</director>
+      <actor role="Rick Alvarez">Daniel Baldwin</actor>
+      <actor role="Cathy">Claudia Schiffer</actor>
+      <actor role="Abby Berkhoff">Sarah Lassez</actor>
+      <actor role="Charles Welz">Dean Stockwell</actor>
+      <actor role="Ann Sutton">Kim Rhodes</actor>
+      <actor role="pani Alexander">Zina Ponder</actor>
+      <actor role="Enrique Machado">Cristos</actor>
+      <actor role="Booking Officer">Marty Ryan</actor>
+      <actor role="Admissions Officer">Kevin Loomis</actor>
+      <actor role="Bailiff">Samantha Adams</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pl">Thriller</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa176149.jpg" />
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>3/10</value>
+    </star-rating>
   </programme>
   <programme start="20200525230000 +0200" stop="20200526000000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526000000 +0200" stop="20200526020000 +0200" channel="Polonia 1">
     <title lang="pl">Fala ognia</title>
+    <title lang="en">Firequake</title>
+    <desc lang="pl">Czechy. Helios to zaawansowane technologicznie źródło energii skonstruowane przez koncern Promethean Kinetics. Rewolucyjny projekt daje nadzieję na zażegnanie światowego kryzysu energetycznego i ograniczenie emisji dwutlenku węgla do atmosfery. Niesie jednak ryzyko potężnych eksplozji. Rząd oszczędza na zabezpieczeniach przed awarią. Zaniedbanie prowadzi do katastrofy. Trzęsienia ziemi obracają kolejne miasta w gruzy. Doktor Eve Carter (Alexandra Paul), jedna z twórczyń Heliosa, rozpoczyna wyścig z czasem, by zapobiec zagładzie. Jednocześnie usiłuje naprawić swoje relacje z córką (Zoë Barker).(n)</desc>
+    <credits>
+      <director>Geoff Browne</director>
+      <actor role="Dr. Eve Carter">Alexandra Paul</actor>
+      <actor role="Slater Cappilla">Kirsty Mitchell</actor>
+      <actor role="Goldman">Luke Cousins</actor>
+      <actor role="Nikki Carter">Zoë Barker</actor>
+      <actor role="Declan Glas">Nigel Barber</actor>
+      <actor role="Killian">James Weber Brown</actor>
+      <actor role="Copper">Kicker Robinson</actor>
+      <actor role="Captain Hill">Derek Morse</actor>
+      <actor role="Henrich">Terry Randall</actor>
+      <actor role="Olivia">Marianne Stanicheva</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pl">Film Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4101687.jpg" />
+    <country lang="pl">Kanada</country>
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20200526020000 +0200" stop="20200526022500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (43)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E43</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526022500 +0200" stop="20200526025500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (44)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E44</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526025500 +0200" stop="20200526034500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI 3 (8)</title>
+    <title lang="pl">Czynnik PSI 3</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3157977.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526034500 +0200" stop="20200526043000 +0200" channel="Polonia 1">
-    <title lang="pl">10 Extra Mocnych (24)</title>
+    <title lang="pl">10 Extra Mocnych</title>
+    <desc lang="pl">Program stworzony z myślą o miłośnikach silnych emocji i wrażeń. W każdym odcinku odbywać się będzie ranking dziesięciu najlepszych znalezionych w Internecie filmów z pieprzykiem. Prowadząca Iwona Rejzner w sposób niebanalny i z humorem wprowadzi widzów w świat rozrywki prosto z globalnej sieci.(n)</desc>
+    <credits>
+      <presenter>Iwona Rejzner</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3088167.jpg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E24</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526043000 +0200" stop="20200526060000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526060000 +0200" stop="20200526064000 +0200" channel="Polonia 1">
     <title lang="pl">Muzyka na start</title>
+    <desc lang="pl">Porcja dobrej muzyki na początek dnia.(n)</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526064000 +0200" stop="20200526070500 +0200" channel="Polonia 1">
-    <title lang="pl">Yattaman: Pojedynek (55)</title>
+    <title lang="pl">Yattaman</title>
+    <sub-title lang="pl">Pojedynek.</sub-title>
+    <desc lang="pl">Yattaman i jego odważni przyjaciele chronią magiczny kamień, przy pomocy którego można odnaleźć wielki skarb.(n)</desc>
+    <credits>
+      <director>Hiroshi Sasagawa</director>
+    </credits>
+    <date>1977</date>
+    <category lang="pl">Serial Animowany</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3275743.jpg" />
+    <country lang="pl">Japonia</country>
+    <episode-num system="onscreen">E55</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526070500 +0200" stop="20200526075500 +0200" channel="Polonia 1">
-    <title lang="pl">Klinika Nadzieja (13)</title>
+    <title lang="pl">Klinika Nadzieja</title>
+    <title lang="en">Krowinuszka</title>
+    <desc lang="pl">Małżonkowie Olga (Jelena Łaguta) i Siergiej (Stanisław Nikołajew) pracują w klinice.(n)</desc>
+    <credits>
+      <actor role="Sofija Zimowiec">Marina Maniachina</actor>
+      <actor role="Siergiej">Stanisław Nikołajew</actor>
+      <actor role="Olga">Jelena Łaguta</actor>
+      <actor role="Galina Wjaziemskaja">Diana Maksimowa</actor>
+      <actor role="Michaił Wjaziemskij">Dmitrij Warszawskij</actor>
+      <actor role="Michaił Wjaziemskij">Aristarch Liwanow</actor>
+      <actor role="Griszka Zimowiec">Anatolij Zawjałow</actor>
+      <actor role="Oksana">Tatjana Borisowa</actor>
+      <actor role="mąż Oksany">Jurij Sazonow</actor>
+      <actor role="Tarasik">Iwan Niepomniaszczij</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pl">Serial Obyczajowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3975468.jpg" />
+    <country lang="pl">Rosja</country>
+    <episode-num system="onscreen">E13</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526075500 +0200" stop="20200526084500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI (17)</title>
+    <title lang="pl">Czynnik PSI</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <sub-title lang="en">13th Floor, The/The Believer</sub-title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.Olivia Vega (Leah Pinsent), mieszkanka jednego z apartamentowców na Manhattanie, jedzie na górę. Nagle zatrzymuje się na 13. piętrze. Kobieta niespodziewanie wpada w szał i rzuca się na windziarza. Ten, w wyniku odniesionych obrażeń, traci przytomność. Po chwili Olivia, nieświadoma tego co zaszło, opuszcza windę. W mieszkaniu zastaje swojego męża w dwuznacznej sytuacji. Ponownie wpada w szał. Sąsiedzi wzywają policję, a ta zawiadamia O.S.I.R. Sprawą Olivii zajmują się Conner Doyle i Lindsay Donner.(n)</desc>
+    <credits>
+      <director>Clay Borris</director>
+      <director>Craig Pryce</director>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa165485.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526084500 +0200" stop="20200526094500 +0200" channel="Polonia 1">
-    <title lang="pl">Niesamowite tajemnice: Niema zemsta (9)</title>
+    <title lang="pl">Niesamowite tajemnice</title>
+    <title lang="en">Realna Mistyka</title>
+    <sub-title lang="pl">Niema zemsta.</sub-title>
+    <desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.(n)</desc>
+    <credits>
+      <actor>Andrij Debrin</actor>
+      <actor>Ludmiła Ardieljan</actor>
+      <actor>Jewhen Beltiukow</actor>
+      <actor>Ołena Bondarewa-Riepina</actor>
+      <actor>Timur Ibraimow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">Serial Grozy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4017594.jpg" />
+    <country lang="pl">Ukraina</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526094500 +0200" stop="20200526131500 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526131500 +0200" stop="20200526143000 +0200" channel="Polonia 1">
     <title lang="pl">Mango</title>
+    <desc lang="pl">W programie prezentowane są różnorodne produkty. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526143000 +0200" stop="20200526162000 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526162000 +0200" stop="20200526210000 +0200" channel="Polonia 1">
     <title lang="pl">Klejnot TV</title>
+    <desc lang="pl">Interaktywne pasmo telezakupów, w którym widzowie mogą nabyć ekskluzywną biżuterię z wielu kolekcji. Program prowadzą: Marzena Ziarek, Ksenia Chlebicka, Beata Kacprzyk i Sylwia Sokołowska.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3087427.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200526210000 +0200" stop="20200526230000 +0200" channel="Polonia 1">
     <title lang="pl">Ciche układy</title>
+    <title lang="en">Secret Liaison</title>
+    <desc lang="pl">Była prokurator okręgowa, Samantha Simms (Meredith Monroe), przyjeżdża z Los Angeles, by pomóc oskarżonej o brutalne morderstwo siostrze, Brendzie (Nicole LaPlaca). Na miejscu próbuje ustalić szczegóły zbrodni i znaleźć dowody świadczące o niewinności krewnej. W toku prywatnego śledztwa wpada na trop skandalu politycznego dotyczącego jednych z najważniejszych osób w mieście. Tym samym naraża się na śmiertelne niebezpieczeństwo. Sytuacja komplikuje się jeszcze bardziej, gdy jej siostra znika w tajemniczych okolicznościach.(n)</desc>
+    <credits>
+      <director>Andrew de Villiers</director>
+      <actor role="Samantha Simms">Meredith Monroe</actor>
+      <actor role="Brad Mortensen">Rick Ravanello</actor>
+      <actor role="Brenda Simms">Nicole LaPlaca</actor>
+      <actor role="Mark Carey">Lochlyn Munro</actor>
+      <actor role="Alice Walters">Julia Benson</actor>
+      <actor role="Wayne">Paul Lazenby</actor>
+      <actor role="Trevor">Tommy Douglas</actor>
+      <actor role="Caylene Ledha">Tracy Trueman</actor>
+      <actor role="Gina Horton">Rebecca Rifai</actor>
+      <actor role="Richard">Nelson Wong</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Thriller</category>
+    <country lang="pl">Kanada</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
   </programme>
   <programme start="20200526230000 +0200" stop="20200527000000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527000000 +0200" stop="20200527020000 +0200" channel="Polonia 1">
     <title lang="pl">Pościg</title>
+    <title lang="en">In Pursuit</title>
+    <desc lang="pl">Rick Alvarez (Daniel Baldwin) jako dziecko był świadkiem śmierci matki, którą zamordował jego ojciec. Choć od tragedii minęło już wiele lat, postanawia wyruszyć na poszukiwania rodzica, aby się na nim zemścić. Kiedy wreszcie odnajduje ojca, poznaje także jego młodą żonę, Cathy (Claudia Schiffer). Rick sprytnie uwodzi atrakcyjną macochę. Wkrótce jego ojciec ginie w zamachu bombowym. Głównym podejrzanym o jego dokonanie staje się Rick. Zostaje aresztowany, a jedyną osobą, która może udowodnić jego niewinność, jest Cathy. Problem jednak w tym, że dziewczyna nieoczekiwanie zniknęła. Rick nie ma więc wyboru - ucieka z więzienia, aby ją odnaleźć.(n)</desc>
+    <credits>
+      <director>Peter Pistor</director>
+      <actor role="Rick Alvarez">Daniel Baldwin</actor>
+      <actor role="Cathy">Claudia Schiffer</actor>
+      <actor role="Abby Berkhoff">Sarah Lassez</actor>
+      <actor role="Charles Welz">Dean Stockwell</actor>
+      <actor role="Ann Sutton">Kim Rhodes</actor>
+      <actor role="pani Alexander">Zina Ponder</actor>
+      <actor role="Enrique Machado">Cristos</actor>
+      <actor role="Booking Officer">Marty Ryan</actor>
+      <actor role="Admissions Officer">Kevin Loomis</actor>
+      <actor role="Bailiff">Samantha Adams</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pl">Thriller</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa176149.jpg" />
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>3/10</value>
+    </star-rating>
   </programme>
   <programme start="20200527020000 +0200" stop="20200527022500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (44)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E44</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527022500 +0200" stop="20200527025500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (45)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E45</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527025500 +0200" stop="20200527034500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI 3 (9)</title>
+    <title lang="pl">Czynnik PSI 3</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3157977.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527034500 +0200" stop="20200527043000 +0200" channel="Polonia 1">
-    <title lang="pl">10 Extra Mocnych (25)</title>
+    <title lang="pl">10 Extra Mocnych</title>
+    <desc lang="pl">Program stworzony z myślą o miłośnikach silnych emocji i wrażeń. W każdym odcinku odbywać się będzie ranking dziesięciu najlepszych znalezionych w Internecie filmów z pieprzykiem. Prowadząca Iwona Rejzner w sposób niebanalny i z humorem wprowadzi widzów w świat rozrywki prosto z globalnej sieci.(n)</desc>
+    <credits>
+      <presenter>Iwona Rejzner</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3088167.jpg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E25</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527043000 +0200" stop="20200527060000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527060000 +0200" stop="20200527064000 +0200" channel="Polonia 1">
     <title lang="pl">Muzyka na start</title>
+    <desc lang="pl">Porcja dobrej muzyki na początek dnia.(n)</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527064000 +0200" stop="20200527070500 +0200" channel="Polonia 1">
-    <title lang="pl">Yattaman: Wielkie spotkanie (55)</title>
+    <title lang="pl">Yattaman</title>
+    <sub-title lang="pl">Wielkie spotkanie.</sub-title>
+    <desc lang="pl">Yattaman i jego odważni przyjaciele chronią magiczny kamień, przy pomocy którego można odnaleźć wielki skarb.(n)</desc>
+    <credits>
+      <director>Hiroshi Sasagawa</director>
+    </credits>
+    <date>1977</date>
+    <category lang="pl">Serial Animowany</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3275743.jpg" />
+    <country lang="pl">Japonia</country>
+    <episode-num system="onscreen">E55</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527070500 +0200" stop="20200527075500 +0200" channel="Polonia 1">
-    <title lang="pl">Klinika Nadzieja (14)</title>
+    <title lang="pl">Klinika Nadzieja</title>
+    <title lang="en">Krowinuszka</title>
+    <desc lang="pl">Małżonkowie Olga (Jelena Łaguta) i Siergiej (Stanisław Nikołajew) pracują w klinice.(n)</desc>
+    <credits>
+      <actor role="Sofija Zimowiec">Marina Maniachina</actor>
+      <actor role="Siergiej">Stanisław Nikołajew</actor>
+      <actor role="Olga">Jelena Łaguta</actor>
+      <actor role="Galina Wjaziemskaja">Diana Maksimowa</actor>
+      <actor role="Michaił Wjaziemskij">Dmitrij Warszawskij</actor>
+      <actor role="Michaił Wjaziemskij">Aristarch Liwanow</actor>
+      <actor role="Griszka Zimowiec">Anatolij Zawjałow</actor>
+      <actor role="Oksana">Tatjana Borisowa</actor>
+      <actor role="mąż Oksany">Jurij Sazonow</actor>
+      <actor role="Tarasik">Iwan Niepomniaszczij</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pl">Serial Obyczajowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3975468.jpg" />
+    <country lang="pl">Rosja</country>
+    <episode-num system="onscreen">E14</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527075500 +0200" stop="20200527084500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI (18)</title>
+    <title lang="pl">Czynnik PSI</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <sub-title lang="en">Fog, The/House on Garden Street</sub-title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <director>Clay Borris</director>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa165485.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527084500 +0200" stop="20200527094500 +0200" channel="Polonia 1">
-    <title lang="pl">Niesamowite tajemnice: Uczeń czarnoksiężnika (10)</title>
+    <title lang="pl">Niesamowite tajemnice</title>
+    <title lang="en">Realna Mistyka</title>
+    <sub-title lang="pl">Uczeń czarnoksiężnika.</sub-title>
+    <desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.(n)</desc>
+    <credits>
+      <actor>Andrij Debrin</actor>
+      <actor>Ludmiła Ardieljan</actor>
+      <actor>Jewhen Beltiukow</actor>
+      <actor>Ołena Bondarewa-Riepina</actor>
+      <actor>Timur Ibraimow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">Serial Grozy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4017594.jpg" />
+    <country lang="pl">Ukraina</country>
+    <episode-num system="onscreen">E10</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527094500 +0200" stop="20200527131500 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527131500 +0200" stop="20200527143000 +0200" channel="Polonia 1">
     <title lang="pl">Mango</title>
+    <desc lang="pl">W programie prezentowane są różnorodne produkty. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527143000 +0200" stop="20200527162000 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527162000 +0200" stop="20200527210000 +0200" channel="Polonia 1">
     <title lang="pl">Klejnot TV</title>
+    <desc lang="pl">Interaktywne pasmo telezakupów, w którym widzowie mogą nabyć ekskluzywną biżuterię z wielu kolekcji. Program prowadzą: Marzena Ziarek, Ksenia Chlebicka, Beata Kacprzyk i Sylwia Sokołowska.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3087427.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200527210000 +0200" stop="20200527230000 +0200" channel="Polonia 1">
     <title lang="pl">Atak morderczych mrówek</title>
+    <title lang="en">Marabunta</title>
+    <desc lang="pl">Małe miasteczko na Alasce zostaje zaatakowane przez mięsożerne mrówki, które zbudziły się na skutek zmian klimatycznych. Przerażające insekty stają się śmiertelnym zagrożeniem dla ludzi. Jeśli wydostaną się z miasteczka, mogą spustoszyć cały kraj. Sprawą interesuje się entomolog Jim Conrad (Eric Lutes), który spędza urlop na Alasce. Pomaga mu miejscowa nauczycielka Laura Sills (Julia Campbell). Wkrótce władze zarządzają ewakuację mieszkańców, a Jim próbuje znaleźć sposób na powstrzymanie ekspansji żarłocznych owadów.(n)</desc>
+    <credits>
+      <director>Jim Charleston</director>
+      <director>George Manasse</director>
+      <actor role="Dr. Jim Conrad">Eric Lutes</actor>
+      <actor role="Laura Sills">Julia Campbell</actor>
+      <actor role="Police Chief Jeff Croy">Mitch Pileggi</actor>
+      <actor role="Chad Croy">Jeremy Foley</actor>
+      <actor role="Officer Dave Blount">Bill Osborn</actor>
+      <actor role="Bob Hazzard">Dallen Gettling</actor>
+      <actor role="Scott Blount">Patrick Fugit</actor>
+      <actor role="Maynerd Perth">H.E.D. Redford</actor>
+      <actor role="Hunter #2">Rob Greyhill</actor>
+      <actor role="Sarah">Kim Landry</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pl">Horror</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3170832.jpg" />
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20200527230000 +0200" stop="20200528000000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528000000 +0200" stop="20200528020000 +0200" channel="Polonia 1">
     <title lang="pl">Ciche układy</title>
+    <title lang="en">Secret Liaison</title>
+    <desc lang="pl">Była prokurator okręgowa, Samantha Simms (Meredith Monroe), przyjeżdża z Los Angeles, by pomóc oskarżonej o brutalne morderstwo siostrze, Brendzie (Nicole LaPlaca). Na miejscu próbuje ustalić szczegóły zbrodni i znaleźć dowody świadczące o niewinności krewnej. W toku prywatnego śledztwa wpada na trop skandalu politycznego dotyczącego jednych z najważniejszych osób w mieście. Tym samym naraża się na śmiertelne niebezpieczeństwo. Sytuacja komplikuje się jeszcze bardziej, gdy jej siostra znika w tajemniczych okolicznościach.(n)</desc>
+    <credits>
+      <director>Andrew de Villiers</director>
+      <actor role="Samantha Simms">Meredith Monroe</actor>
+      <actor role="Brad Mortensen">Rick Ravanello</actor>
+      <actor role="Brenda Simms">Nicole LaPlaca</actor>
+      <actor role="Mark Carey">Lochlyn Munro</actor>
+      <actor role="Alice Walters">Julia Benson</actor>
+      <actor role="Wayne">Paul Lazenby</actor>
+      <actor role="Trevor">Tommy Douglas</actor>
+      <actor role="Caylene Ledha">Tracy Trueman</actor>
+      <actor role="Gina Horton">Rebecca Rifai</actor>
+      <actor role="Richard">Nelson Wong</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Thriller</category>
+    <country lang="pl">Kanada</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
   </programme>
   <programme start="20200528020000 +0200" stop="20200528022500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (45)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E45</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528022500 +0200" stop="20200528025500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (46)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E46</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528025500 +0200" stop="20200528034500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI 3 (10)</title>
+    <title lang="pl">Czynnik PSI 3</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3157977.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528034500 +0200" stop="20200528043000 +0200" channel="Polonia 1">
-    <title lang="pl">10 Extra Mocnych (26)</title>
+    <title lang="pl">10 Extra Mocnych</title>
+    <desc lang="pl">Program stworzony z myślą o miłośnikach silnych emocji i wrażeń. W każdym odcinku odbywać się będzie ranking dziesięciu najlepszych znalezionych w Internecie filmów z pieprzykiem. Prowadząca Iwona Rejzner w sposób niebanalny i z humorem wprowadzi widzów w świat rozrywki prosto z globalnej sieci.(n)</desc>
+    <credits>
+      <presenter>Iwona Rejzner</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3088167.jpg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E26</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528043000 +0200" stop="20200528060000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528060000 +0200" stop="20200528064000 +0200" channel="Polonia 1">
     <title lang="pl">Muzyka na start</title>
+    <desc lang="pl">Porcja dobrej muzyki na początek dnia.(n)</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528064000 +0200" stop="20200528070500 +0200" channel="Polonia 1">
-    <title lang="pl">Yattaman: Chochliki z rzeki Kappa (57)</title>
+    <title lang="pl">Yattaman</title>
+    <sub-title lang="pl">Chochliki z rzeki Kappa.</sub-title>
+    <desc lang="pl">Yattaman i jego odważni przyjaciele chronią magiczny kamień, przy pomocy którego można odnaleźć wielki skarb.(n)</desc>
+    <credits>
+      <director>Hiroshi Sasagawa</director>
+    </credits>
+    <date>1977</date>
+    <category lang="pl">Serial Animowany</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3275743.jpg" />
+    <country lang="pl">Japonia</country>
+    <episode-num system="onscreen">E57</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528070500 +0200" stop="20200528075500 +0200" channel="Polonia 1">
-    <title lang="pl">Klinika Nadzieja (15)</title>
+    <title lang="pl">Klinika Nadzieja</title>
+    <title lang="en">Krowinuszka</title>
+    <desc lang="pl">Małżonkowie Olga (Jelena Łaguta) i Siergiej (Stanisław Nikołajew) pracują w klinice.(n)</desc>
+    <credits>
+      <actor role="Sofija Zimowiec">Marina Maniachina</actor>
+      <actor role="Siergiej">Stanisław Nikołajew</actor>
+      <actor role="Olga">Jelena Łaguta</actor>
+      <actor role="Galina Wjaziemskaja">Diana Maksimowa</actor>
+      <actor role="Michaił Wjaziemskij">Dmitrij Warszawskij</actor>
+      <actor role="Michaił Wjaziemskij">Aristarch Liwanow</actor>
+      <actor role="Griszka Zimowiec">Anatolij Zawjałow</actor>
+      <actor role="Oksana">Tatjana Borisowa</actor>
+      <actor role="mąż Oksany">Jurij Sazonow</actor>
+      <actor role="Tarasik">Iwan Niepomniaszczij</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pl">Serial Obyczajowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3975468.jpg" />
+    <country lang="pl">Rosja</country>
+    <episode-num system="onscreen">E15</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528075500 +0200" stop="20200528084500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI (19)</title>
+    <title lang="pl">Czynnik PSI</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <sub-title lang="en">Second Sight/Chocolate Soldier</sub-title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.Jill Starling uciekła do sekty, której przywódcą jest charyzmatyczny Bruce Farrell. Rodzice dziewczyny, Shawn i Carolyn, od wielu miesięcy jej poszukują, chcąc sprowadzić do domu. Pewnego dnia udaje im się odnaleźć Farella oraz jego wyznawców. Jest wśród nich również i Jill. Shawn przekonuje córkę, aby wróciła z nimi do domu. Do rozmowy jednak przyłącza się Farrell. Przerażony Shawn stwierdza, że nie tylko jego córka, ale też i żona słuchają słów mężczyzny w nabożnym niemal skupieniu. Obydwie też zachowują się dziwnie, jakby zostały wprowadzone w trans. Shawn zabiera natychmiast żonę do samochodu. Postanawia, że przy najbliższej okazji porwie Jill i powierzy ją opiece psychologów. Prosi też o pomoc O.S.I.R. Lindsay Donner przyjeżdża, by rozejrzeć się w sytuacji. Niestety, i ona szybko ulega wpływowi Bruce'a Farrella.(n)</desc>
+    <credits>
+      <director>Milan Cheylov</director>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa165485.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528084500 +0200" stop="20200528094500 +0200" channel="Polonia 1">
-    <title lang="pl">Niesamowite tajemnice: Kukułka (11)</title>
+    <title lang="pl">Niesamowite tajemnice</title>
+    <title lang="en">Realna Mistyka</title>
+    <sub-title lang="pl">Kukułka.</sub-title>
+    <desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.(n)</desc>
+    <credits>
+      <actor>Andrij Debrin</actor>
+      <actor>Ludmiła Ardieljan</actor>
+      <actor>Jewhen Beltiukow</actor>
+      <actor>Ołena Bondarewa-Riepina</actor>
+      <actor>Timur Ibraimow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">Serial Grozy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4017594.jpg" />
+    <country lang="pl">Ukraina</country>
+    <episode-num system="onscreen">E11</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528094500 +0200" stop="20200528131500 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528131500 +0200" stop="20200528143000 +0200" channel="Polonia 1">
     <title lang="pl">Mango</title>
+    <desc lang="pl">W programie prezentowane są różnorodne produkty. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528143000 +0200" stop="20200528162000 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528162000 +0200" stop="20200528210000 +0200" channel="Polonia 1">
     <title lang="pl">Klejnot TV</title>
+    <desc lang="pl">Interaktywne pasmo telezakupów, w którym widzowie mogą nabyć ekskluzywną biżuterię z wielu kolekcji. Program prowadzą: Marzena Ziarek, Ksenia Chlebicka, Beata Kacprzyk i Sylwia Sokołowska.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3087427.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200528210000 +0200" stop="20200528230000 +0200" channel="Polonia 1">
     <title lang="pl">W rękach szaleńca</title>
+    <title lang="en">Under Pressure</title>
+    <desc lang="pl">Catherine (Mare Winningham) i Reese Bravertonowie (David Andrews) są szczęśliwym małżeństwem. Mają dwoje dzieci, Zacha (Noah Fleiss) i Marcie (Chelsea Russo). Mieszkają w wygodnym domu na przedmieściach Los Angeles. Reese jest architektem, a Catherine zajmuje się dziećmi i domem. Ich sąsiadem jest Lyle Wilder (Charlie Sheen), rozwiedziony, trzydziestokilkuletni mężczyzna, typ człowieka, któremu wszystko przeszkadza. Ciągle wszczyna awantury i zatruwa Bravertonom życie. Catherine, która przez cały dzień przebywa w domu z dziećmi, stara się być wobec niego nieustępliwa. Jednak jej opór tylko potęguje agresję Lyle'a. Pewnego dnia Zach przez przypadek wybija okno w jego sypialni. Lyle wbiega do domu Bravertonów i urządza awanturę. Catherine wzywa policję. Funkcjonariusze jednak jej nie wierzą. Lyle Wilder jest znaną osobą - doświadczonym, opromienionym sławą bohatera strażakiem. Wielokrotnie odznaczany był za odwagę.(n)</desc>
+    <credits>
+      <director>Craig R. Baxley</director>
+      <actor role="Lyle Wilder">Charlie Sheen</actor>
+      <actor role="Catherine Braverton">Mare Winningham</actor>
+      <actor role="Reese Braverton">David Andrews</actor>
+      <actor role="Zach Braverton">Noah Fleiss</actor>
+      <actor role="Sandy Tierra">Dawnn Lewis</actor>
+      <actor role="Marcie Braverton">Chelsea Russo</actor>
+      <actor role="Al Calavito">John Ratzenberger</actor>
+      <actor role="Ron the Repairman">Keone Young</actor>
+      <actor role="Himself">Reggie Jackson</actor>
+      <actor role="D.J.">Cody Jones</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">Thriller</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa273297.jpg" />
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
   </programme>
   <programme start="20200528230000 +0200" stop="20200529000000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529000000 +0200" stop="20200529020000 +0200" channel="Polonia 1">
     <title lang="pl">Atak morderczych mrówek</title>
+    <title lang="en">Marabunta</title>
+    <desc lang="pl">Małe miasteczko na Alasce zostaje zaatakowane przez mięsożerne mrówki, które zbudziły się na skutek zmian klimatycznych. Przerażające insekty stają się śmiertelnym zagrożeniem dla ludzi. Jeśli wydostaną się z miasteczka, mogą spustoszyć cały kraj. Sprawą interesuje się entomolog Jim Conrad (Eric Lutes), który spędza urlop na Alasce. Pomaga mu miejscowa nauczycielka Laura Sills (Julia Campbell). Wkrótce władze zarządzają ewakuację mieszkańców, a Jim próbuje znaleźć sposób na powstrzymanie ekspansji żarłocznych owadów.(n)</desc>
+    <credits>
+      <director>Jim Charleston</director>
+      <director>George Manasse</director>
+      <actor role="Dr. Jim Conrad">Eric Lutes</actor>
+      <actor role="Laura Sills">Julia Campbell</actor>
+      <actor role="Police Chief Jeff Croy">Mitch Pileggi</actor>
+      <actor role="Chad Croy">Jeremy Foley</actor>
+      <actor role="Officer Dave Blount">Bill Osborn</actor>
+      <actor role="Bob Hazzard">Dallen Gettling</actor>
+      <actor role="Scott Blount">Patrick Fugit</actor>
+      <actor role="Maynerd Perth">H.E.D. Redford</actor>
+      <actor role="Hunter #2">Rob Greyhill</actor>
+      <actor role="Sarah">Kim Landry</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pl">Horror</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3170832.jpg" />
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20200529020000 +0200" stop="20200529022500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (46)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E46</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529022500 +0200" stop="20200529025500 +0200" channel="Polonia 1">
-    <title lang="pl">Heheszki na całego (47)</title>
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E47</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529025500 +0200" stop="20200529034500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI 3 (11)</title>
+    <title lang="pl">Czynnik PSI 3</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3157977.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529034500 +0200" stop="20200529043000 +0200" channel="Polonia 1">
-    <title lang="pl">10 Extra Mocnych (27)</title>
+    <title lang="pl">10 Extra Mocnych</title>
+    <desc lang="pl">Program stworzony z myślą o miłośnikach silnych emocji i wrażeń. W każdym odcinku odbywać się będzie ranking dziesięciu najlepszych znalezionych w Internecie filmów z pieprzykiem. Prowadząca Iwona Rejzner w sposób niebanalny i z humorem wprowadzi widzów w świat rozrywki prosto z globalnej sieci.(n)</desc>
+    <credits>
+      <presenter>Iwona Rejzner</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3088167.jpg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E27</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529043000 +0200" stop="20200529060000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529060000 +0200" stop="20200529064000 +0200" channel="Polonia 1">
     <title lang="pl">Muzyka na start</title>
+    <desc lang="pl">Porcja dobrej muzyki na początek dnia.(n)</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529064000 +0200" stop="20200529070500 +0200" channel="Polonia 1">
-    <title lang="pl">Yattaman: Dom Makao (58)</title>
+    <title lang="pl">Yattaman</title>
+    <sub-title lang="pl">Dom Makao.</sub-title>
+    <desc lang="pl">Yattaman i jego odważni przyjaciele chronią magiczny kamień, przy pomocy którego można odnaleźć wielki skarb.(n)</desc>
+    <credits>
+      <director>Hiroshi Sasagawa</director>
+    </credits>
+    <date>1977</date>
+    <category lang="pl">Serial Animowany</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3275743.jpg" />
+    <country lang="pl">Japonia</country>
+    <episode-num system="onscreen">E58</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529070500 +0200" stop="20200529075500 +0200" channel="Polonia 1">
-    <title lang="pl">Klinika Nadzieja (16)</title>
+    <title lang="pl">Klinika Nadzieja</title>
+    <title lang="en">Krowinuszka</title>
+    <desc lang="pl">Małżonkowie Olga (Jelena Łaguta) i Siergiej (Stanisław Nikołajew) pracują w klinice.(n)</desc>
+    <credits>
+      <actor role="Sofija Zimowiec">Marina Maniachina</actor>
+      <actor role="Siergiej">Stanisław Nikołajew</actor>
+      <actor role="Olga">Jelena Łaguta</actor>
+      <actor role="Galina Wjaziemskaja">Diana Maksimowa</actor>
+      <actor role="Michaił Wjaziemskij">Dmitrij Warszawskij</actor>
+      <actor role="Michaił Wjaziemskij">Aristarch Liwanow</actor>
+      <actor role="Griszka Zimowiec">Anatolij Zawjałow</actor>
+      <actor role="Oksana">Tatjana Borisowa</actor>
+      <actor role="mąż Oksany">Jurij Sazonow</actor>
+      <actor role="Tarasik">Iwan Niepomniaszczij</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pl">Serial Obyczajowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3975468.jpg" />
+    <country lang="pl">Rosja</country>
+    <episode-num system="onscreen">E16</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529075500 +0200" stop="20200529084500 +0200" channel="Polonia 1">
-    <title lang="pl">Czynnik PSI (20)</title>
+    <title lang="pl">Czynnik PSI</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa165485.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529084500 +0200" stop="20200529094500 +0200" channel="Polonia 1">
-    <title lang="pl">Niesamowite tajemnice: Duch lasu (12)</title>
+    <title lang="pl">Niesamowite tajemnice</title>
+    <title lang="en">Realna Mistyka</title>
+    <sub-title lang="pl">Duch lasu.</sub-title>
+    <desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.(n)</desc>
+    <credits>
+      <actor>Andrij Debrin</actor>
+      <actor>Ludmiła Ardieljan</actor>
+      <actor>Jewhen Beltiukow</actor>
+      <actor>Ołena Bondarewa-Riepina</actor>
+      <actor>Timur Ibraimow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">Serial Grozy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4017594.jpg" />
+    <country lang="pl">Ukraina</country>
+    <episode-num system="onscreen">E12</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529094500 +0200" stop="20200529131500 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529131500 +0200" stop="20200529143000 +0200" channel="Polonia 1">
     <title lang="pl">Mango</title>
+    <desc lang="pl">W programie prezentowane są różnorodne produkty. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529143000 +0200" stop="20200529162000 +0200" channel="Polonia 1">
     <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529162000 +0200" stop="20200529210000 +0200" channel="Polonia 1">
     <title lang="pl">Klejnot TV</title>
+    <desc lang="pl">Interaktywne pasmo telezakupów, w którym widzowie mogą nabyć ekskluzywną biżuterię z wielu kolekcji. Program prowadzą: Marzena Ziarek, Ksenia Chlebicka, Beata Kacprzyk i Sylwia Sokołowska.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3087427.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
   <programme start="20200529210000 +0200" stop="20200529230000 +0200" channel="Polonia 1">
     <title lang="pl">Korupcja</title>
+    <title lang="en">Corrupt</title>
+    <desc lang="pl">Jako audytor Kate MacIntyre (Nicole de Boer) liczy się z tym, że jej działania pociągają za sobą poważne, czasem tragiczne konsekwencje. Kobieta czuje się winna samobójstwa człowieka, który zginął w wyniku jej postępowania. Musi jednak szybko zapomnieć o wyrzutach sumienia - po śmierci swojego głównego świadka prokurator okręgowy Frank Murphy (Andrew Moodie) zwraca się do Kate z prośbą o pomoc w sprawie pewnego niezwykle wpływowego i niebezpiecznego człowieka. Ona i Greg Nolan (Peter Michael Dillon), jej kolega po fachu, muszą się spieszyć, by doprowadzić przestępcę przed oblicze sprawiedliwości. Kate szybko się orientuje, że podczas tego śledztwa nie wolno jej nikomu zaufać.(n)</desc>
+    <credits>
+      <director>Curtis Crawford</director>
+      <actor role="Kate MacIntyre">Nicole de Boer</actor>
+      <actor role="Det. Daniel Leaton">Scott Gibson</actor>
+      <actor role="Greg Nealand">Peter Michael Dillon</actor>
+      <actor role="Rocco">Steve Baran</actor>
+      <actor role="Vivian">Allison Brennan</actor>
+      <actor role="Det. Tucker">Victor Cornfoot</actor>
+      <actor role="Classroom Student">Tristan Crigger</actor>
+      <actor role="High School Student">Vanessa Fournier</actor>
+      <actor role="Mr. Vargano">Douglas Kidd</actor>
+      <actor role="Janitor">Dennis Lafond</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pl">Thriller</category>
+    <country lang="pl">Kanada</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
   </programme>
   <programme start="20200529230000 +0200" stop="20200530000000 +0200" channel="Polonia 1">
     <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530000000 +0200" stop="20200530020000 +0200" channel="Polonia 1">
+    <title lang="pl">W rękach szaleńca</title>
+    <title lang="en">Under Pressure</title>
+    <desc lang="pl">Catherine (Mare Winningham) i Reese Bravertonowie (David Andrews) są szczęśliwym małżeństwem. Mają dwoje dzieci, Zacha (Noah Fleiss) i Marcie (Chelsea Russo). Mieszkają w wygodnym domu na przedmieściach Los Angeles. Reese jest architektem, a Catherine zajmuje się dziećmi i domem. Ich sąsiadem jest Lyle Wilder (Charlie Sheen), rozwiedziony, trzydziestokilkuletni mężczyzna, typ człowieka, któremu wszystko przeszkadza. Ciągle wszczyna awantury i zatruwa Bravertonom życie. Catherine, która przez cały dzień przebywa w domu z dziećmi, stara się być wobec niego nieustępliwa. Jednak jej opór tylko potęguje agresję Lyle'a. Pewnego dnia Zach przez przypadek wybija okno w jego sypialni. Lyle wbiega do domu Bravertonów i urządza awanturę. Catherine wzywa policję. Funkcjonariusze jednak jej nie wierzą. Lyle Wilder jest znaną osobą - doświadczonym, opromienionym sławą bohatera strażakiem. Wielokrotnie odznaczany był za odwagę.(n)</desc>
+    <credits>
+      <director>Craig R. Baxley</director>
+      <actor role="Lyle Wilder">Charlie Sheen</actor>
+      <actor role="Catherine Braverton">Mare Winningham</actor>
+      <actor role="Reese Braverton">David Andrews</actor>
+      <actor role="Zach Braverton">Noah Fleiss</actor>
+      <actor role="Sandy Tierra">Dawnn Lewis</actor>
+      <actor role="Marcie Braverton">Chelsea Russo</actor>
+      <actor role="Al Calavito">John Ratzenberger</actor>
+      <actor role="Ron the Repairman">Keone Young</actor>
+      <actor role="Himself">Reggie Jackson</actor>
+      <actor role="D.J.">Cody Jones</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">Thriller</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa273297.jpg" />
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530020000 +0200" stop="20200530022500 +0200" channel="Polonia 1">
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E47</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530022500 +0200" stop="20200530025000 +0200" channel="Polonia 1">
+    <title lang="pl">Heheszki na całego</title>
+    <title lang="en">Hilarious Home Video</title>
+    <desc lang="pl">Zbiór najśmieszniejszych nagrań z domowego życia. Widzowie zobaczą zaskakujące sceny.(n)</desc>
+    <date>2011</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E48</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530025000 +0200" stop="20200530034500 +0200" channel="Polonia 1">
+    <title lang="pl">Czynnik PSI 3</title>
+    <title lang="en">PSI Factor: Chronicles of the Paranormal</title>
+    <desc lang="pl">PSI to grecka litera symbolizująca niewiadomą. Serial stanowi zbiór historii, nigdy wcześniej niepublikowanych raportów i badań naukowych, dla których próbowano znaleźć logiczne wytłumaczenie. Poszczególne odcinki przedstawiają wzruszające ludzkie przeżycia, uzupełnione efektami specjalnymi. Historie wykorzystane na potrzeby programu pochodzą z archiwów Biura Badań Naukowych (Office of Scientific Investigation and Research), jednego z pierwszych tego typu prywatnych organizacji zajmujących się profesjonalnymi badaniami nad zjawiskami paranormalnymi. Gdy sprawy nie znajdują logicznego wytłumaczenia, udokumentowanego faktami, wtedy poszukuje się argumentacji o podłożu paranormalnym.(n)</desc>
+    <credits>
+      <actor role="Lindsay Donner">Nancy Anne Sakovich</actor>
+      <actor role="Peter Axon">Barclay Hope</actor>
+      <actor role="Professor Anton Hendricks">Colin Fox</actor>
+      <actor role="Himself">Dan Aykroyd</actor>
+      <actor role="Dr. Claire Davison">Soo Garay</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pl">Serial Sf</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3157977.jpg" />
+    <country lang="pl">USA</country>
+    <country lang="pl">Kanada</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530034500 +0200" stop="20200530043000 +0200" channel="Polonia 1">
+    <title lang="pl">10 Extra Mocnych</title>
+    <desc lang="pl">Program stworzony z myślą o miłośnikach silnych emocji i wrażeń. W każdym odcinku odbywać się będzie ranking dziesięciu najlepszych znalezionych w Internecie filmów z pieprzykiem. Prowadząca Iwona Rejzner w sposób niebanalny i z humorem wprowadzi widzów w świat rozrywki prosto z globalnej sieci.(n)</desc>
+    <credits>
+      <presenter>Iwona Rejzner</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3088167.jpg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E28</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530043000 +0200" stop="20200530060000 +0200" channel="Polonia 1">
+    <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530060000 +0200" stop="20200530063000 +0200" channel="Polonia 1">
+    <title lang="pl">Grunt to rodzinka</title>
+    <title lang="en">Holding the Baby</title>
+    <desc lang="pl">Gordon, wygadany i sprytny sprzedawca, wpada w tarapaty kiedy żona porzuca go dla innego mężczyzny i wyjeżdża z nim do Tybetu. Teraz mężczyzna sam musi zająć się wychowaniem małego dziecka.(n)</desc>
+    <credits>
+      <director>Paul Jackson</director>
+      <director>Beryl Richards</director>
+      <actor role="Gordon Muir">Nick Hancock</actor>
+      <actor role="Laura">Sally Phillips</actor>
+      <actor role="Rob">Joe Duttine</actor>
+      <actor role="Ian">Paul Mark Elliott</actor>
+      <actor role="Claire">Lou Gish</actor>
+      <actor role="Daniel Muir">Adam Sandford</actor>
+      <actor role="Gordon Muir">Hugh Bonneville</actor>
+      <actor role="Daniel">Jacob Atherton</actor>
+      <actor role="Daniel">Joshua Atherton</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="pl">Serial Komediowy</category>
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530063000 +0200" stop="20200530072000 +0200" channel="Polonia 1">
+    <title lang="pl">Świat cyrku</title>
+    <desc lang="pl">Pokazy najciekawszych występów grup cyrkowych z całego świata.(n)</desc>
+    <category lang="pl">Program Rozrywkowy</category>
+    <episode-num system="onscreen">E20</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530072000 +0200" stop="20200530081500 +0200" channel="Polonia 1">
+    <title lang="pl">Niesamowite tajemnice</title>
+    <title lang="en">Realna Mistyka</title>
+    <sub-title lang="pl">Piekielne psy.</sub-title>
+    <desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.(n)</desc>
+    <credits>
+      <actor>Andrij Debrin</actor>
+      <actor>Ludmiła Ardieljan</actor>
+      <actor>Jewhen Beltiukow</actor>
+      <actor>Ołena Bondarewa-Riepina</actor>
+      <actor>Timur Ibraimow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">Serial Grozy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4017594.jpg" />
+    <country lang="pl">Ukraina</country>
+    <episode-num system="onscreen">E21</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530081500 +0200" stop="20200530091000 +0200" channel="Polonia 1">
+    <title lang="pl">Niesamowite tajemnice</title>
+    <title lang="en">Realna Mistyka</title>
+    <sub-title lang="pl">Czarne miejsce.</sub-title>
+    <desc lang="pl">Opowieści, w których pozornie niemożliwe do wyjaśnienia zagadki znajdują racjonalne wytłumaczenie. Każdy odcinek przybliża zaskakujące historie i tajemnicze wydarzenia. Cztery pierwsze sezony serii były rosyjskojęzyczne. W piątym pojawiły się postacie ukraińskie, a język ukraiński zdominował cykl.(n)</desc>
+    <credits>
+      <actor>Andrij Debrin</actor>
+      <actor>Ludmiła Ardieljan</actor>
+      <actor>Jewhen Beltiukow</actor>
+      <actor>Ołena Bondarewa-Riepina</actor>
+      <actor>Timur Ibraimow</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">Serial Grozy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4017594.jpg" />
+    <country lang="pl">Ukraina</country>
+    <episode-num system="onscreen">E22</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530091000 +0200" stop="20200530093500 +0200" channel="Polonia 1">
+    <title lang="pl">Yattaman</title>
+    <sub-title lang="pl">Gwiazda kina.</sub-title>
+    <desc lang="pl">Yattaman i jego odważni przyjaciele chronią magiczny kamień, przy pomocy którego można odnaleźć wielki skarb.(n)</desc>
+    <credits>
+      <director>Hiroshi Sasagawa</director>
+    </credits>
+    <date>1977</date>
+    <category lang="pl">Serial Animowany</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3275743.jpg" />
+    <country lang="pl">Japonia</country>
+    <episode-num system="onscreen">E59</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530093500 +0200" stop="20200530100000 +0200" channel="Polonia 1">
+    <title lang="pl">Yattaman</title>
+    <sub-title lang="pl">Morskie potwory.</sub-title>
+    <desc lang="pl">Yattaman i jego odważni przyjaciele chronią magiczny kamień, przy pomocy którego można odnaleźć wielki skarb.(n)</desc>
+    <credits>
+      <director>Hiroshi Sasagawa</director>
+    </credits>
+    <date>1977</date>
+    <category lang="pl">Serial Animowany</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3275743.jpg" />
+    <country lang="pl">Japonia</country>
+    <episode-num system="onscreen">E60</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530100000 +0200" stop="20200530110000 +0200" channel="Polonia 1">
+    <title lang="pl">Mango</title>
+    <desc lang="pl">W programie prezentowane są różnorodne produkty. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530110000 +0200" stop="20200530120000 +0200" channel="Polonia 1">
+    <title lang="pl">Mango</title>
+    <desc lang="pl">W programie prezentowane są różnorodne produkty. Po zapoznaniu się z ofertą widzowie mogą telefonicznie zamówić wybrane towary.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530120000 +0200" stop="20200530124500 +0200" channel="Polonia 1">
+    <title lang="pl">Wiatr w żagle</title>
+    <title lang="en">Inside Sailing</title>
+    <desc lang="pl">Autorzy przedstawiają różnorodne pomysły na uprawianie żeglarstwa. Widzowie poznają kulisy najtrudniejszych wyścigów świata, a także luksusową wersję tego sportu.(n)</desc>
+    <category lang="pl">Serial Dokumentalny</category>
+    <episode-num system="onscreen">E5</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530124500 +0200" stop="20200530155000 +0200" channel="Polonia 1">
+    <title lang="pl">Telesprzedaż</title>
+    <desc lang="pl">Magazyn reklamowy, w którym prezentowane są produkty codziennego użytku, takie jak artykuły gospodarstwa domowego czy urządzenia do poprawy kondycji i zdrowia. Widzowie mogą zamówić je bez konieczności wychodzenia z domu.(n)</desc>
+    <category lang="pl">Magazyn Reklamowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3711337.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530155000 +0200" stop="20200530204000 +0200" channel="Polonia 1">
+    <title lang="pl">Klejnot TV</title>
+    <desc lang="pl">Interaktywne pasmo telezakupów, w którym widzowie mogą nabyć ekskluzywną biżuterię z wielu kolekcji. Program prowadzą: Marzena Ziarek, Ksenia Chlebicka, Beata Kacprzyk i Sylwia Sokołowska.(n)</desc>
+    <category lang="pl">Telezakupy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3087427.jpg" />
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530204000 +0200" stop="20200530211000 +0200" channel="Polonia 1">
+    <title lang="pl">Uliczni magicy</title>
+    <desc lang="pl">Iluzjoniści wyszli na ulice, alby pokazywać swoje niebywałe sztuczki przypadkowym przechodniom. Podczas oglądania programu nieustannie towarzyszy nam pytanie: jak on to zrobił.(n)</desc>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3738635.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20200530211000 +0200" stop="20200530230000 +0200" channel="Polonia 1">
+    <title lang="pl">Plaga podziemnych pająków</title>
+    <desc lang="pl">Nowy Orlean nawiedza potężne trzęsienie ziemi. Powstaje rozpadlina, przez którą na powierzchnię wydostają się gigantyczne, ziejące ogniem pająki. Olbrzymie stworzenia atakują ludzi, siejąc w mieście spustoszenie. Kierowca autobusu wycieczkowego Paul (Bug Hall) wraz z kilkoma pasażerami musi zmierzyć się z bestiami. Muszą pokonać je jak najszybciej, ponieważ z każdą chwilą stają się coraz większe. Katelynn (Tracey Gold), która jest specjalistką od pająków, usiłuje wykorzystać swoją wiedzę do walki z olbrzymimi stworzeniami.(n)</desc>
+    <credits>
+      <director>Griff Furst</director>
+      <actor role="Katelynn">Tracey Gold</actor>
+      <actor role="Charlie">Edward Furlong</actor>
+      <actor role="Paul">Bug Hall</actor>
+      <actor role="Roy">Ethan Phillips</actor>
+      <actor role="Annabel">Megan Adelle</actor>
+      <actor role="Major Crandle">Gralen Bryant Banks</actor>
+      <actor role="Victor Tureau">Paul Boocock</actor>
+      <actor role="Tina">Tiara Gathright</actor>
+      <actor role="Petra">Olivia Hardt</actor>
+      <actor role="Gramps">Grant James</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pl">Film Sf</category>
+    <country lang="pl">USA</country>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20200530230000 +0200" stop="20200531000000 +0200" channel="Polonia 1">
+    <title lang="pl">Różowa noc</title>
+    <desc lang="pl">Nocne pasmo programowe Polonii 1 przeznaczone dla widzów dorosłych.(n)</desc>
+    <category lang="pl">Program Erotyczny</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
   </programme>
 </tv>
