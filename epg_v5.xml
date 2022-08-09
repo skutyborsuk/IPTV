@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TVP 1">
@@ -11,6 +10,10 @@
   </channel>
   <channel id="TVP HD">
     <display-name lang="pl">PL - TVP HD ◉</display-name>
+    <url>http://www.tv.wp.pl</url>
+  </channel>
+  <channel id="TVP 3">
+    <display-name lang="pl">PL - TVP 3</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <programme start="20220809051000 +0200" stop="20220809060000 +0200" channel="TVP 1">
@@ -7791,7 +7794,2564 @@ Noculowie przejęci zbliżającym się terminem porodu Agaty, zapominają opłac
     <date>1974</date>
     <category lang="pl">dramat obyczajowy</category>
   </programme>
+  <programme start="20220809060000 +0200" stop="20220809061500 +0200" channel="TVP 3">
+    <title lang="pl">Na zdrowie. Poradnik medyczny TVP 3</title>
+    <desc lang="pl">Program poświęcony zagadnieniom medycznym związanym z szeroko pojętą profilaktyką i poradnictwem. Prowadząca Danuta Holecka wraz z gośćmi odpowiada na sformułowane wcześniej pytania.</desc>
+    <category lang="pl">magazyn medyczny</category>
+  </programme>
+  <programme start="20220809061500 +0200" stop="20220809062000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809062000 +0200" stop="20220809063000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809063000 +0200" stop="20220809064500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes</title>
+    <desc lang="pl">Program adresowany do rolników: praktyczne rady dotyczące hodowli zwierząt oraz użyteczne informacje na temat uprawy różnych gatunków roślin. Także aktualności z branży rolno- spożywczej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220809064500 +0200" stop="20220809064700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809064700 +0200" stop="20220809070000 +0200" channel="TVP 3">
+    <title lang="pl">Magazyn rolniczy</title>
+    <desc lang="pl">Realizatorzy prezentują kolejne etapy tworzenia produktów spożywczych, m.in. jak powstają sery, wędliny, przetwory. Także o różnicach w produkcji żywności konwencjonalnej i ekologicznej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220809070000 +0200" stop="20220809071000 +0200" channel="TVP 3">
+    <title lang="pl">Agrorozmowa</title>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220809071000 +0200" stop="20220809073000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Kasztelan i czarna kura</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220809073000 +0200" stop="20220809074500 +0200" channel="TVP 3">
+    <title lang="pl">Info Wilno</title>
+    <desc lang="pl">Podsumowanie najważniejszych i najciekawszych wydarzeń dnia związanych z życiem Polaków na Litwie.</desc>
+    <category lang="pl">program informacyjny</category>
+    <episode-num system="onscreen">E729</episode-num>
+  </programme>
+  <programme start="20220809074500 +0200" stop="20220809080000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809080000 +0200" stop="20220809100000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220809100000 +0200" stop="20220809120000 +0200" channel="TVP 3">
+    <title lang="pl">Droga modlitewna z obozu koncentracyjnego Auschwitz-Birkenau</title>
+    <category lang="pl">reportaż</category>
+  </programme>
+  <programme start="20220809120000 +0200" stop="20220809121500 +0200" channel="TVP 3">
+    <title lang="pl">Czas reportażu</title>
+    <sub-title lang="pl">Fryzura za uśmiech</sub-title>
+    <category lang="pl">magazyn reporterów</category>
+    <episode-num system="onscreen">E87</episode-num>
+  </programme>
+  <programme start="20220809121500 +0200" stop="20220809123000 +0200" channel="TVP 3">
+    <title lang="pl">Moda na styl</title>
+    <desc lang="pl">Twórcy programu odwiedzą atelier Macieja Zienia, który przygotuje zestawy ubrań dla matki i córki. Jego propozycje są ponadczasowe. Projektant opowie także o własnym stylu ubierania.</desc>
+    <category lang="pl">magazyn poradnikowy</category>
+  </programme>
+  <programme start="20220809123000 +0200" stop="20220809124500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">To nie jest zwykła gra</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220809124500 +0200" stop="20220809125500 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809125500 +0200" stop="20220809131000 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809131000 +0200" stop="20220809131500 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809131500 +0200" stop="20220809141000 +0200" channel="TVP 3">
+    <title lang="pl">Janosik</title>
+    <sub-title lang="pl">Beczka okowity</sub-title>
+    <desc lang="pl">Każdy z 13 odcinków opowiada odrębną, zamkniętą historię. Razem stanowią one opowieść o przygodach zbójnickiej kompanii, do której trafia Janosik. Serial realizowany był w zamku w Pieskowej Skale, w okolicach Ojcowa i w różnych rejonach Podkarpacia, a także w atelier w Warszawie i Pradze. W praskim studiu urządzono według projektu scenografa filmu Jana Grandysa grotę skalną, w której nagrano niektóre sceny zbójnickie. Scenariusz filmu powstał na podstawie legend o tatrzańskim zbójniku. Ponieważ - jak twierdził reżyser Jerzy Passendorfer - legendy nie należy traktować zbyt poważnie, w filmie jest dużo humoru i zabawnych scen. Nie brak widowiskowych bójek i walk.</desc>
+    <credits>
+      <director>Jerzy Passendorfer</director>
+      <actor>Janosik - Marek Perepeczko</actor>
+      <actor>Klarysa, córka hrabiego - Anna Dziadyk-Dymna</actor>
+      <actor>Maryna - Ewa Lemańska</actor>
+      <actor>słowacka góralka - Barbara Rachwalska</actor>
+      <actor>Harnaś Bardos - Czesław Jaroszyński</actor>
+      <actor>generał austriacki - August Kowalczyk</actor>
+      <actor>Murgrabia - Marian Kociniak</actor>
+      <actor>słowacki dziedzic - Bernard Michalski</actor>
+      <actor>Hrabia Hortvath - Mieczysław Czechowicz</actor>
+    </credits>
+    <date>1973</date>
+    <category lang="pl">serial przygodowy</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20220809141000 +0200" stop="20220809143000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Już nic nie musimy..</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220809143000 +0200" stop="20220809144500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220809144500 +0200" stop="20220809150000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809150000 +0200" stop="20220809152000 +0200" channel="TVP 3">
+    <title lang="pl">Koronka do Miłosierdzia Bożego</title>
+    <desc lang="pl">Wspólna modlitwa różańcowa widzów TV Republika.</desc>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220809152000 +0200" stop="20220809155000 +0200" channel="TVP 3">
+    <title lang="pl">Kościół z bliska</title>
+    <desc lang="pl">Przegląd aktualnych wydarzeń z życia Kościoła. Twórcy programu m.in. szukają odpowiedzi na pytanie, czy nauki głoszone przez Watykan są przyjmowane i praktykowane przez wyznawców.</desc>
+    <date>2012</date>
+    <category lang="pl">magazyn religijny</category>
+  </programme>
+  <programme start="20220809155000 +0200" stop="20220809160000 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220809160000 +0200" stop="20220809163000 +0200" channel="TVP 3">
+    <title lang="pl">Qulszoł - kulinarne potyczki</title>
+    <desc lang="pl">Uczestnicy programu prezentują swoje kulinarne umiejętności. Opowiadają również w studiu o historii i tradycji rodzinnych miast.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220809163000 +0200" stop="20220809164500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220809164500 +0200" stop="20220809165000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809165000 +0200" stop="20220809170000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809170000 +0200" stop="20220809180000 +0200" channel="TVP 3">
+    <title lang="pl">Msza święta z okazji 80. rocznicy męczeńskiej śmierci św. Teresy Benedykty od Krzyża</title>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220809180000 +0200" stop="20220809203500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220809203500 +0200" stop="20220809212500 +0200" channel="TVP 3">
+    <title lang="pl">Tajemnice</title>
+    <desc lang="pl">Katia mieszka z ojcem w miasteczku Stanov. Przeprowadza się tam Mykoła. Przyjaźń tych dwojga młodych ludzi stopniowo przeradza się w miłość. Niespodziewana tragedia odmienia ich los.</desc>
+    <credits>
+      <director>Ewgienij Doronin</director>
+      <actor>Kateryna (Katia) Semeniwna Hryszczuk - Anastasija Pustowit</actor>
+      <actor>Mykoła Borysowycz Biusof, śledczy - Makar Tychomyrow</actor>
+      <actor>Iwan Fedorowycz Hryszczuk, dziadek Kati - Serhij Kałantaj</actor>
+      <actor>Wiktorija Łeonidiwna Hryszczuk - Iryna Nowak</actor>
+      <actor>Łora Hryszczuk - Natalija Babenko</actor>
+      <actor>Anatolij (Tołyk) Banach - Danyło Mireszkin</actor>
+      <actor>Borys Smirnow - Kostiantyn Danyluk</actor>
+      <actor>Zina - Łesia Samajewa</actor>
+      <actor>Hryhorij Wasylowycz Wyszniak - Kostiantyn Kostyszyn</actor>
+      <actor>Asia - Ołesia Hołub</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">serial kryminalny</category>
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20220809212500 +0200" stop="20220809212600 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów - zapowiedź</title>
+    <desc lang="pl">Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia ze wszystkich regionów Polski.</desc>
+    <date>2022</date>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220809212600 +0200" stop="20220809214500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220809214500 +0200" stop="20220809220000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809220000 +0200" stop="20220809221000 +0200" channel="TVP 3">
+    <title lang="pl">Studio LOTTO</title>
+    <desc lang="pl">Losowanie numerów gier i zakładów Totalizatora Sportowego. Prowadzący prezentują ich wyniki i przypominają zasady udziału w loterii.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809221000 +0200" stop="20220809222000 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220809222000 +0200" stop="20220809223000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220809223000 +0200" stop="20220809230000 +0200" channel="TVP 3">
+    <title lang="pl">Policja.pl</title>
+    <desc lang="pl">Kulisy pracy stróżów prawa. Policjanci wprowadzają widzów w mroczny świat przestępczości ulicznej. Wszystkie przedstawiane sytuacje zostały zaczerpnięte z życia. Program ma charakter prewencyjny.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220809230000 +0200" stop="20220809232500 +0200" channel="TVP 3">
+    <title lang="pl">Echa dnia</title>
+    <desc lang="pl">W studiu goszczą politycy, urzędnicy państwowi i działacze samorządowi. Dyskutują oni na temat bieżących wydarzeń.</desc>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220809232500 +0200" stop="20220810002000 +0200" channel="TVP 3">
+    <title lang="pl">Sprawa dla reportera</title>
+    <desc lang="pl">Pogram interwencyjny "Sprawa dla reportera" porusza sprawy trudne i kontrowersyjne. Elżbieta Jaworowicz otrzymuje miesięcznie setki listów z prośbą o pomoc. To z nich wybiera tematy, które następnie realizuje w terenie i omawia w studiu z udziałem gości prezentujących odmienne poglądy na daną kwestię. A nie brak w naszym kraju problemów wartych rozwiązania na forum publicznym. Dotyczą one m.in. wciąż rosnącego bezrobocia, opieszałości wymiaru sprawiedliwości czy też braku konkretnych uregulowań prawnych w wielu dziedzinach życia. Dzięki "Sprawie dla reportera" wiele interwencji znalazło swój szczęśliwy finał.</desc>
+    <category lang="pl">magazyn interwencyjny</category>
+  </programme>
+  <programme start="20220810002000 +0200" stop="20220810004500 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Koledzy</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20220810004500 +0200" stop="20220810014500 +0200" channel="TVP 3">
+    <title lang="pl">Promyk nadziei</title>
+    <desc lang="pl">Niesłusznie posądzony o kradzież Omer trafia do więzienia. Jego żona rodzi dziecko, które umiera zaraz po przyjściu na świat. Po jedenastu latach Omer wychodzi na wolność. Zamierza się zemścić.</desc>
+    <credits>
+      <actor>Omer, były mąż Ipek - Fatih Ayhan</actor>
+      <actor>Ipek, była żona Omera, kuzynka Halila - Gülsah Aydin</actor>
+      <actor>Bahar - Isabella Damla Güvenilir</actor>
+      <actor>Neslihan, żona Halila - Esin Civangil</actor>
+      <actor>Lokantaci - Nuray Serefoglu</actor>
+      <actor>Peri - Elif Tigli</actor>
+      <actor>Süheyla/Suhejla, siostra Neslihan - Hande Arisoy</actor>
+      <actor>Ozan - Ali Yagiz Durmus</actor>
+      <actor>Meliha - Alev Oraloglu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">serial obyczajowy</category>
+    <episode-num system="onscreen">E93</episode-num>
+  </programme>
+  <programme start="20220810014500 +0200" stop="20220810021000 +0200" channel="TVP 3">
+    <title lang="pl">Policja.pl</title>
+    <desc lang="pl">Kulisy pracy stróżów prawa. Policjanci wprowadzają widzów w mroczny świat przestępczości ulicznej. Wszystkie przedstawiane sytuacje zostały zaczerpnięte z życia. Program ma charakter prewencyjny.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810021000 +0200" stop="20220810022000 +0200" channel="TVP 3">
+    <title lang="pl">Bezbłędnie</title>
+    <sub-title lang="pl">Dżem</sub-title>
+    <date>2019</date>
+    <category lang="pl">magazyn językowy</category>
+    <episode-num system="onscreen">E98</episode-num>
+  </programme>
+  <programme start="20220810022000 +0200" stop="20220810031000 +0200" channel="TVP 3">
+    <title lang="pl">Więzień miłości</title>
+    <desc lang="pl">Omer (Erkan Meriç) nie zamierza nigdy się żenić. Jedyną kobietą, która się liczy w jego życiu, jest jego siostra Ajsze (Yaprak Durmaz). Dziewczyna jest wspaniałą romantyczką i pragnie, by jej brat był szczęśliwy i ułożył sobie życie u boku ukochanej. Kiedy Omer dowiaduje się, że jego siostrze zostało zaledwie kilka miesięcy życia, postanawia zawrzeć fikcyjny związek małżeński, by Ajsze zaznała szczęścia w ostatnich chwilach. Jego żoną ma zostać Zehra (Hazal Subasi), która desperacko potrzebuje pieniędzy. Ich małżeństwo ma potrwać jedynie pół roku, lecz sprawy zaczynają się komplikować.</desc>
+    <credits>
+      <actor>Zehra - Hazal Subasi</actor>
+      <actor>Ömer - Erkan Meriç</actor>
+      <actor>Ayse - Yaprak Durmaz</actor>
+      <actor>Nihat - Aykut Igdeli</actor>
+      <actor>Salim - Ali Çoban</actor>
+      <actor>Hediye - Derya Kurtulus</actor>
+      <actor>Koray - Erman Aksoy</actor>
+      <actor>Alev - Ezgi Baran</actor>
+      <actor>Leyla - Berna Üçkaleler</actor>
+      <actor>Yasemin - Sultan Elif Tas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pl">telenowela</category>
+    <episode-num system="onscreen">E250</episode-num>
+  </programme>
+  <programme start="20220810031000 +0200" stop="20220810040000 +0200" channel="TVP 3">
+    <title lang="pl">Sprawa dla reportera</title>
+    <desc lang="pl">Pogram interwencyjny "Sprawa dla reportera" porusza sprawy trudne i kontrowersyjne. Elżbieta Jaworowicz otrzymuje miesięcznie setki listów z prośbą o pomoc. To z nich wybiera tematy, które następnie realizuje w terenie i omawia w studiu z udziałem gości prezentujących odmienne poglądy na daną kwestię. A nie brak w naszym kraju problemów wartych rozwiązania na forum publicznym. Dotyczą one m.in. wciąż rosnącego bezrobocia, opieszałości wymiaru sprawiedliwości czy też braku konkretnych uregulowań prawnych w wielu dziedzinach życia. Dzięki "Sprawie dla reportera" wiele interwencji znalazło swój szczęśliwy finał.</desc>
+    <category lang="pl">magazyn interwencyjny</category>
+  </programme>
+  <programme start="20220810040000 +0200" stop="20220810041000 +0200" channel="TVP 3">
+    <title lang="pl">Godki fest ucieszne</title>
+    <sub-title lang="pl">Dzwony</sub-title>
+    <desc lang="pl">Marek Szołtysek opowiada w gwarze śląskiej interesujące historie, legendy, czasem bajki, związane z kulturą Górnego Śląska.</desc>
+    <date>2019</date>
+    <category lang="pl">cykl felietonów</category>
+  </programme>
+  <programme start="20220810041000 +0200" stop="20220810042500 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810042500 +0200" stop="20220810044000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810044000 +0200" stop="20220810044500 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810044500 +0200" stop="20220810045500 +0200" channel="TVP 3">
+    <title lang="pl">Turystyczna jazda</title>
+    <sub-title lang="pl">Estonia: Tallin</sub-title>
+    <desc lang="pl">Twórcy programu prezentują ciekawe miejsca w Polsce i za granicą. W każdym odcinku udają się do atrakcyjnej turystycznie miejscowości, poznają lokalne zwyczaje i smakują regionalnej kuchni.</desc>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E132</episode-num>
+  </programme>
+  <programme start="20220810045500 +0200" stop="20220810050000 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <sub-title lang="pl">Kotlety z kaszy gryczanej</sub-title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220810050000 +0200" stop="20220810053000 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Koledzy</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme start="20220810053000 +0200" stop="20220810054000 +0200" channel="TVP 3">
+    <title lang="pl">Na zdrowie. Poradnik medyczny TVP 3</title>
+    <desc lang="pl">Program poświęcony zagadnieniom medycznym związanym z szeroko pojętą profilaktyką i poradnictwem. Prowadząca Danuta Holecka wraz z gośćmi odpowiada na sformułowane wcześniej pytania.</desc>
+    <category lang="pl">magazyn medyczny</category>
+  </programme>
+  <programme start="20220810054000 +0200" stop="20220810055500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810055500 +0200" stop="20220810055700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810055700 +0200" stop="20220810060000 +0200" channel="TVP 3">
+    <title lang="pl">Zakończenie programu</title>
+  </programme>
+  <programme start="20220810060000 +0200" stop="20220810061500 +0200" channel="TVP 3">
+    <title lang="pl">Eko patent</title>
+    <desc lang="pl">Program poświęcony zdrowemu stylowi życia oraz promowaniu ekologii w życiu codziennym.</desc>
+    <category lang="pl">magazyn ekologiczny</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20220810061500 +0200" stop="20220810062000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810062000 +0200" stop="20220810063000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810063000 +0200" stop="20220810064500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes</title>
+    <desc lang="pl">Program adresowany do rolników: praktyczne rady dotyczące hodowli zwierząt oraz użyteczne informacje na temat uprawy różnych gatunków roślin. Także aktualności z branży rolno- spożywczej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220810064500 +0200" stop="20220810064700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810064700 +0200" stop="20220810070000 +0200" channel="TVP 3">
+    <title lang="pl">Magazyn rolniczy</title>
+    <desc lang="pl">Realizatorzy prezentują kolejne etapy tworzenia produktów spożywczych, m.in. jak powstają sery, wędliny, przetwory. Także o różnicach w produkcji żywności konwencjonalnej i ekologicznej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220810070000 +0200" stop="20220810071000 +0200" channel="TVP 3">
+    <title lang="pl">Agrorozmowa</title>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810071000 +0200" stop="20220810073000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Tangiem oczarowana</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220810073000 +0200" stop="20220810074500 +0200" channel="TVP 3">
+    <title lang="pl">Info Wilno</title>
+    <desc lang="pl">Podsumowanie najważniejszych i najciekawszych wydarzeń dnia związanych z życiem Polaków na Litwie.</desc>
+    <category lang="pl">program informacyjny</category>
+    <episode-num system="onscreen">E730</episode-num>
+  </programme>
+  <programme start="20220810074500 +0200" stop="20220810080000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810080000 +0200" stop="20220810100500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220810100500 +0200" stop="20220810103500 +0200" channel="TVP 3">
+    <title lang="pl">Telekurier</title>
+    <desc lang="pl">Sensacyjne zdarzenia, reporterskie interwencje, ludzkie dramaty i sukcesy. W każdym wydaniu relacja na żywo lub reportaż z kraju. Przedstawiany problem komentuje zaproszony do studia ekspert.</desc>
+    <category lang="pl">magazyn reporterów</category>
+  </programme>
+  <programme start="20220810103500 +0200" stop="20220810105500 +0200" channel="TVP 3">
+    <title lang="pl">Poradnik zakupowy</title>
+    <sub-title lang="pl">Dynie</sub-title>
+    <desc lang="pl">Program realizowany przez Redakcję Rolną TAI. Pojawiające się w nim porady dotyczą zdrowej żywności. Widzowie dowiedzą się, jak kupować i na co zwracać uwagę, by nie dać się oszukać.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn poradnikowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220810105500 +0200" stop="20220810111500 +0200" channel="TVP 3">
+    <title lang="pl">Zielnik regionalny</title>
+    <desc lang="pl">Cykl ukazuje możliwości wykorzystania ziół w kuchni, apteczce czy kosmetyce. Widzowie poznają babcine metody radzenia sobie z niektórymi schorzeniami przy pomocy ziołowych herbatek, naparów czy octów.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn poradnikowy</category>
+  </programme>
+  <programme start="20220810111500 +0200" stop="20220810114500 +0200" channel="TVP 3">
+    <title lang="pl">Słodka kuchnia Pszczółek</title>
+    <sub-title lang="pl">Desery bez pieczenia</sub-title>
+    <desc lang="pl">Prowadzące to miłośniczki słodkich wypieków, a także siostry, blogerki kulinarne i uczestniczki 2. edycji programu Bake Off - Ale Ciacho! Przedstawią przepisy na pyszne i efektowne wypieki lub desery.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220810114500 +0200" stop="20220810121500 +0200" channel="TVP 3">
+    <title lang="pl">Policja.pl</title>
+    <desc lang="pl">Kulisy pracy stróżów prawa. Policjanci wprowadzają widzów w mroczny świat przestępczości ulicznej. Wszystkie przedstawiane sytuacje zostały zaczerpnięte z życia. Program ma charakter prewencyjny.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810121500 +0200" stop="20220810123000 +0200" channel="TVP 3">
+    <title lang="pl">Rodzaj żeński</title>
+    <desc lang="pl">Anna Drynda i Katarzyna Ciesielska przybliżają zagadnienia dotyczące kobiet, unikając schematów i stereotypów. Szukają odpowiedzi na pytania, których panie niekiedy się wstydzą. Omawiają ich problemy.</desc>
+    <date>2020</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810123000 +0200" stop="20220810124500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Pszczółki moje</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220810124500 +0200" stop="20220810125500 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810125500 +0200" stop="20220810131000 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810131000 +0200" stop="20220810131500 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810131500 +0200" stop="20220810141000 +0200" channel="TVP 3">
+    <title lang="pl">Janosik</title>
+    <sub-title lang="pl">Dobra cena</sub-title>
+    <desc lang="pl">Każdy z 13 odcinków opowiada odrębną, zamkniętą historię. Razem stanowią one opowieść o przygodach zbójnickiej kompanii, do której trafia Janosik. Serial realizowany był w zamku w Pieskowej Skale, w okolicach Ojcowa i w różnych rejonach Podkarpacia, a także w atelier w Warszawie i Pradze. W praskim studiu urządzono według projektu scenografa filmu Jana Grandysa grotę skalną, w której nagrano niektóre sceny zbójnickie. Scenariusz filmu powstał na podstawie legend o tatrzańskim zbójniku. Ponieważ - jak twierdził reżyser Jerzy Passendorfer - legendy nie należy traktować zbyt poważnie, w filmie jest dużo humoru i zabawnych scen. Nie brak widowiskowych bójek i walk.</desc>
+    <credits>
+      <director>Jerzy Passendorfer</director>
+      <actor>Janosik - Marek Perepeczko</actor>
+      <actor>Maryna - Ewa Lemańska</actor>
+      <actor>Harnaś Bardos - Czesław Jaroszyński</actor>
+      <actor>Murgrabia - Marian Kociniak</actor>
+      <actor>Hrabia Hortvath - Mieczysław Czechowicz</actor>
+      <actor>Waluś Kwiczoł - Bogusz Bilewski</actor>
+      <actor>Jędruś Pyzdra - Witold Pyrkosz</actor>
+    </credits>
+    <date>1973</date>
+    <category lang="pl">serial przygodowy</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20220810141000 +0200" stop="20220810143000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Życie w barterze</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220810143000 +0200" stop="20220810144500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220810144500 +0200" stop="20220810150000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810150000 +0200" stop="20220810152000 +0200" channel="TVP 3">
+    <title lang="pl">Koronka do Miłosierdzia Bożego</title>
+    <desc lang="pl">Wspólna modlitwa różańcowa widzów TV Republika.</desc>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220810152000 +0200" stop="20220810155000 +0200" channel="TVP 3">
+    <title lang="pl">Okiem wiary</title>
+    <desc lang="pl">Najważniejsze informacje z minionego tygodnia na temat Kościoła w Polsce i na świecie. Twórcy omawiają m.in. nauczania papieża oraz przekazują najważniejsze chrześcijańskie wartości.</desc>
+    <category lang="pl">magazyn religijny</category>
+  </programme>
+  <programme start="20220810155000 +0200" stop="20220810160000 +0200" channel="TVP 3">
+    <title lang="pl">Składka. Emerytura. Przyszłość</title>
+    <date>2021</date>
+    <category lang="pl">cykl felietonów</category>
+  </programme>
+  <programme start="20220810160000 +0200" stop="20220810163000 +0200" channel="TVP 3">
+    <title lang="pl">Słodka kuchnia Pszczółek</title>
+    <sub-title lang="pl">Desery bez pieczenia</sub-title>
+    <desc lang="pl">Prowadzące to miłośniczki słodkich wypieków, a także siostry, blogerki kulinarne i uczestniczki 2. edycji programu Bake Off - Ale Ciacho! Przedstawią przepisy na pyszne i efektowne wypieki lub desery.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220810163000 +0200" stop="20220810164500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220810164500 +0200" stop="20220810165000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810165000 +0200" stop="20220810170000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810170000 +0200" stop="20220810173000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220810173000 +0200" stop="20220810180000 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810180000 +0200" stop="20220810203500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220810203500 +0200" stop="20220810212500 +0200" channel="TVP 3">
+    <title lang="pl">Przysięga</title>
+    <desc lang="pl">Po śmierci matki Reyhan (Özge Yagiz) jest zdana na siebie. Dziewczynę odwiedza przybrany wuj, bogaty Hikmet (Berkant Müftüler), i namawia do ślubu ze swoim synem Emirem (Gokberk Demirci).</desc>
+    <credits>
+      <director>Serkan Mut</director>
+      <director>Ayhan Özen</director>
+      <actor>Reyhan - Özge Yagiz</actor>
+      <actor>Emir Tarhun, syn Hikmeta i Cavidan - Gökberk Demirci</actor>
+      <actor>Jandarma - Aksel Yakup Bektas</actor>
+      <actor>Cavidan Hikmet - Gül Arcan</actor>
+      <actor>Hikmet Tarhun - Berkant Müftüler</actor>
+      <actor>Kemal - Can Verel</actor>
+      <actor>Masal - Cansin Mina Gür</actor>
+      <actor>Zafer - Ali Dereli</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">telenowela</category>
+    <episode-num system="onscreen">E95</episode-num>
+  </programme>
+  <programme start="20220810212500 +0200" stop="20220810212600 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów - zapowiedź</title>
+    <desc lang="pl">Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia ze wszystkich regionów Polski.</desc>
+    <date>2022</date>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220810212600 +0200" stop="20220810214500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220810214500 +0200" stop="20220810220000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810220000 +0200" stop="20220810221000 +0200" channel="TVP 3">
+    <title lang="pl">Studio LOTTO</title>
+    <desc lang="pl">Losowanie numerów gier i zakładów Totalizatora Sportowego. Prowadzący prezentują ich wyniki i przypominają zasady udziału w loterii.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810221000 +0200" stop="20220810222000 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810222000 +0200" stop="20220810223000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220810223000 +0200" stop="20220810230000 +0200" channel="TVP 3">
+    <title lang="pl">Lato na RODOS</title>
+    <desc lang="pl">Kulisy życia bywalców rodzinnych ogródkach działkowych. Widzowie poznają kilka familii działkowców z różnych zakątków Polski. Kamery rejestrują ich rozmowy, spotkania i codzienne aktywności.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+  </programme>
+  <programme start="20220810230000 +0200" stop="20220810232500 +0200" channel="TVP 3">
+    <title lang="pl">Echa dnia</title>
+    <desc lang="pl">W studiu goszczą politycy, urzędnicy państwowi i działacze samorządowi. Dyskutują oni na temat bieżących wydarzeń.</desc>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220810232500 +0200" stop="20220810235000 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220810235000 +0200" stop="20220811000500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Drukowane łapki</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220811000500 +0200" stop="20220811002000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Pszczółki moje</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220811002000 +0200" stop="20220811004500 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Spadek</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E55</episode-num>
+  </programme>
+  <programme start="20220811004500 +0200" stop="20220811014500 +0200" channel="TVP 3">
+    <title lang="pl">Promyk nadziei</title>
+    <desc lang="pl">Niesłusznie posądzony o kradzież Omer trafia do więzienia. Jego żona rodzi dziecko, które umiera zaraz po przyjściu na świat. Po jedenastu latach Omer wychodzi na wolność. Zamierza się zemścić.</desc>
+    <credits>
+      <actor>Omer, były mąż Ipek - Fatih Ayhan</actor>
+      <actor>Ipek, była żona Omera, kuzynka Halila - Gülsah Aydin</actor>
+      <actor>Bahar - Isabella Damla Güvenilir</actor>
+      <actor>Neslihan, żona Halila - Esin Civangil</actor>
+      <actor>Lokantaci - Nuray Serefoglu</actor>
+      <actor>Peri - Elif Tigli</actor>
+      <actor>Süheyla/Suhejla, siostra Neslihan - Hande Arisoy</actor>
+      <actor>Ozan - Ali Yagiz Durmus</actor>
+      <actor>Meliha - Alev Oraloglu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">serial obyczajowy</category>
+    <episode-num system="onscreen">E94</episode-num>
+  </programme>
+  <programme start="20220811014500 +0200" stop="20220811021000 +0200" channel="TVP 3">
+    <title lang="pl">Lato na RODOS</title>
+    <desc lang="pl">Kulisy życia bywalców rodzinnych ogródkach działkowych. Widzowie poznają kilka familii działkowców z różnych zakątków Polski. Kamery rejestrują ich rozmowy, spotkania i codzienne aktywności.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+  </programme>
+  <programme start="20220811021000 +0200" stop="20220811022000 +0200" channel="TVP 3">
+    <title lang="pl">Bezbłędnie</title>
+    <sub-title lang="pl">Kanister</sub-title>
+    <date>2019</date>
+    <category lang="pl">magazyn językowy</category>
+    <episode-num system="onscreen">E146</episode-num>
+  </programme>
+  <programme start="20220811022000 +0200" stop="20220811031000 +0200" channel="TVP 3">
+    <title lang="pl">Więzień miłości</title>
+    <desc lang="pl">Omer (Erkan Meriç) nie zamierza nigdy się żenić. Jedyną kobietą, która się liczy w jego życiu, jest jego siostra Ajsze (Yaprak Durmaz). Dziewczyna jest wspaniałą romantyczką i pragnie, by jej brat był szczęśliwy i ułożył sobie życie u boku ukochanej. Kiedy Omer dowiaduje się, że jego siostrze zostało zaledwie kilka miesięcy życia, postanawia zawrzeć fikcyjny związek małżeński, by Ajsze zaznała szczęścia w ostatnich chwilach. Jego żoną ma zostać Zehra (Hazal Subasi), która desperacko potrzebuje pieniędzy. Ich małżeństwo ma potrwać jedynie pół roku, lecz sprawy zaczynają się komplikować.</desc>
+    <credits>
+      <actor>Zehra - Hazal Subasi</actor>
+      <actor>Ömer - Erkan Meriç</actor>
+      <actor>Ayse - Yaprak Durmaz</actor>
+      <actor>Nihat - Aykut Igdeli</actor>
+      <actor>Salim - Ali Çoban</actor>
+      <actor>Hediye - Derya Kurtulus</actor>
+      <actor>Koray - Erman Aksoy</actor>
+      <actor>Alev - Ezgi Baran</actor>
+      <actor>Leyla - Berna Üçkaleler</actor>
+      <actor>Yasemin - Sultan Elif Tas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pl">telenowela</category>
+    <episode-num system="onscreen">E251</episode-num>
+  </programme>
+  <programme start="20220811031000 +0200" stop="20220811033500 +0200" channel="TVP 3">
+    <title lang="pl">Telekurier</title>
+    <desc lang="pl">Sensacyjne zdarzenia, reporterskie interwencje, ludzkie dramaty i sukcesy. W każdym wydaniu relacja na żywo lub reportaż z kraju. Przedstawiany problem komentuje zaproszony do studia ekspert.</desc>
+    <category lang="pl">magazyn reporterów</category>
+  </programme>
+  <programme start="20220811033500 +0200" stop="20220811035000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Drukowane łapki</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220811035000 +0200" stop="20220811040000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Pszczółki moje</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220811040000 +0200" stop="20220811041000 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <sub-title lang="pl">Maskaron penne z tuńczykiem</sub-title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220811041000 +0200" stop="20220811042500 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220811042500 +0200" stop="20220811044000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811044000 +0200" stop="20220811044500 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811044500 +0200" stop="20220811050000 +0200" channel="TVP 3">
+    <title lang="pl">Turystyczna jazda</title>
+    <sub-title lang="pl">Łęknica</sub-title>
+    <desc lang="pl">Twórcy programu prezentują ciekawe miejsca w Polsce i za granicą. W każdym odcinku udają się do atrakcyjnej turystycznie miejscowości, poznają lokalne zwyczaje i smakują regionalnej kuchni.</desc>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E116</episode-num>
+  </programme>
+  <programme start="20220811050000 +0200" stop="20220811053000 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Spadek</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E55</episode-num>
+  </programme>
+  <programme start="20220811053000 +0200" stop="20220811054000 +0200" channel="TVP 3">
+    <title lang="pl">Eko patent</title>
+    <desc lang="pl">Program poświęcony zdrowemu stylowi życia oraz promowaniu ekologii w życiu codziennym.</desc>
+    <category lang="pl">magazyn ekologiczny</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20220811054000 +0200" stop="20220811055500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811055500 +0200" stop="20220811055700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811055700 +0200" stop="20220811060000 +0200" channel="TVP 3">
+    <title lang="pl">Zakończenie programu</title>
+  </programme>
+  <programme start="20220811060000 +0200" stop="20220811061500 +0200" channel="TVP 3">
+    <title lang="pl">Poradnik zakupowy</title>
+    <sub-title lang="pl">Dynie</sub-title>
+    <desc lang="pl">Program realizowany przez Redakcję Rolną TAI. Pojawiające się w nim porady dotyczą zdrowej żywności. Widzowie dowiedzą się, jak kupować i na co zwracać uwagę, by nie dać się oszukać.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn poradnikowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220811061500 +0200" stop="20220811062000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811062000 +0200" stop="20220811063000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811063000 +0200" stop="20220811064500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes</title>
+    <desc lang="pl">Program adresowany do rolników: praktyczne rady dotyczące hodowli zwierząt oraz użyteczne informacje na temat uprawy różnych gatunków roślin. Także aktualności z branży rolno- spożywczej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220811064500 +0200" stop="20220811065000 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811065000 +0200" stop="20220811070000 +0200" channel="TVP 3">
+    <title lang="pl">Rok w ogrodzie extra</title>
+    <desc lang="pl">Twórcy odwiedzą najpiękniejsze ogrody widzów, aby rozwiązać ich problemy związane z pielęgnacją, glebą i szkodnikami.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220811070000 +0200" stop="20220811071000 +0200" channel="TVP 3">
+    <title lang="pl">Agrorozmowa</title>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220811071000 +0200" stop="20220811073000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Powrót na scenę życia</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220811073000 +0200" stop="20220811074500 +0200" channel="TVP 3">
+    <title lang="pl">Info Wilno</title>
+    <desc lang="pl">Podsumowanie najważniejszych i najciekawszych wydarzeń dnia związanych z życiem Polaków na Litwie.</desc>
+    <category lang="pl">program informacyjny</category>
+    <episode-num system="onscreen">E731</episode-num>
+  </programme>
+  <programme start="20220811074500 +0200" stop="20220811080000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811080000 +0200" stop="20220811100500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220811100500 +0200" stop="20220811103500 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220811103500 +0200" stop="20220811105500 +0200" channel="TVP 3">
+    <title lang="pl">Masz prawo</title>
+    <desc lang="pl">Program o tematyce prawnej. Prowadząca, Anna Grabowska, zaprasza do studia osoby ze środowiska adwokackiego, które starają się pomóc widzom rozwiązać problemy. Pytania można nadsyłać drogą mailową.</desc>
+    <category lang="pl">magazyn prawny</category>
+  </programme>
+  <programme start="20220811105500 +0200" stop="20220811111500 +0200" channel="TVP 3">
+    <title lang="pl">Działka na balkonie</title>
+    <desc lang="pl">W programie widzowie ujrzą swoje pięknie zaaranżowane balkony, ale i projekty architektów zieleni i krajobrazu. Dowiedzą się także, jak planować, kupować, sadzić i pielęgnować zieleń.</desc>
+    <category lang="pl">magazyn poradnikowy</category>
+  </programme>
+  <programme start="20220811111500 +0200" stop="20220811114500 +0200" channel="TVP 3">
+    <title lang="pl">Na tropie przypraw. Pikantnie i słodko</title>
+    <desc lang="pl">Program kulturalno-kulinarny obfitujący w ciekawe historie, anegdoty związane z przyprawami. Rozmowy prowadzących połączone są z przygotowaniem potraw przy użyciu różnych przypraw.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220811114500 +0200" stop="20220811121500 +0200" channel="TVP 3">
+    <title lang="pl">Lato na RODOS</title>
+    <desc lang="pl">Kulisy życia bywalców rodzinnych ogródkach działkowych. Widzowie poznają kilka familii działkowców z różnych zakątków Polski. Kamery rejestrują ich rozmowy, spotkania i codzienne aktywności.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+  </programme>
+  <programme start="20220811121500 +0200" stop="20220811123000 +0200" channel="TVP 3">
+    <title lang="pl">Gwiazdy od szafy</title>
+    <desc lang="pl">Rozmowy z gwiazdami o modzie, stylu i ważnych dla nich kreacjach. Spotkania odbywają się w studiu, jak również w domach, atelier i planach filmowych celebrytów, gdzie widzowie zajrzą do ich szaf.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn kulturalny</category>
+  </programme>
+  <programme start="20220811123000 +0200" stop="20220811124500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Cudownie ocalona</sub-title>
+    <desc lang="pl">31 grudnia 2020 roku pani Teresa z Olszowic straciła w pożarze dorobek swojego życia. Mogła jednak liczyć na pomoc sąsiadów i ludzi dobrej woli. W zaledwie dwa miesiące jej dom został odbudowany. W pracowni konserwatorskiej Andrzeja Rozkocha została zaś zrekonstruowana figurka Matki Boskiej - jedyny przedmiot, który ocalał w pożarze. Sąsiedzi pani Teresy uważają, że to cud. Obok figurki umieścili kapsułę czasu, w której znajdują się zdjęcia dokumentujące proces odbudowy domu, a także list do potomnych.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220811124500 +0200" stop="20220811125500 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811125500 +0200" stop="20220811131000 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811131000 +0200" stop="20220811131500 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811131500 +0200" stop="20220811141000 +0200" channel="TVP 3">
+    <title lang="pl">Janosik</title>
+    <sub-title lang="pl">Pobór</sub-title>
+    <desc lang="pl">Każdy z 13 odcinków opowiada odrębną, zamkniętą historię. Razem stanowią one opowieść o przygodach zbójnickiej kompanii, do której trafia Janosik. Serial realizowany był w zamku w Pieskowej Skale, w okolicach Ojcowa i w różnych rejonach Podkarpacia, a także w atelier w Warszawie i Pradze. W praskim studiu urządzono według projektu scenografa filmu Jana Grandysa grotę skalną, w której nagrano niektóre sceny zbójnickie. Scenariusz filmu powstał na podstawie legend o tatrzańskim zbójniku. Ponieważ - jak twierdził reżyser Jerzy Passendorfer - legendy nie należy traktować zbyt poważnie, w filmie jest dużo humoru i zabawnych scen. Nie brak widowiskowych bójek i walk.</desc>
+    <credits>
+      <director>Jerzy Passendorfer</director>
+      <actor>Janosik - Marek Perepeczko</actor>
+      <actor>Maryna - Ewa Lemańska</actor>
+      <actor>Harnaś Bardos - Czesław Jaroszyński</actor>
+      <actor>Murgrabia - Marian Kociniak</actor>
+      <actor>Hrabia Hortvath - Mieczysław Czechowicz</actor>
+      <actor>Waluś Kwiczoł - Bogusz Bilewski</actor>
+      <actor>Jędruś Pyzdra - Witold Pyrkosz</actor>
+    </credits>
+    <date>1973</date>
+    <category lang="pl">serial przygodowy</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20220811141000 +0200" stop="20220811143000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">14 hektarów rozrywki</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220811143000 +0200" stop="20220811144500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220811144500 +0200" stop="20220811150000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811150000 +0200" stop="20220811152000 +0200" channel="TVP 3">
+    <title lang="pl">Koronka do Miłosierdzia Bożego</title>
+    <desc lang="pl">Wspólna modlitwa różańcowa widzów TV Republika.</desc>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220811152000 +0200" stop="20220811155000 +0200" channel="TVP 3">
+    <title lang="pl">Dobre historie</title>
+    <sub-title lang="pl">Evangelium Vitae</sub-title>
+    <desc lang="pl">Twórcy magazynu podejmują tematy ważne społecznie, jak solidarność międzyludzka, pomoc potrzebującym i chorym czy ekologia.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220811155000 +0200" stop="20220811160000 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <sub-title lang="pl">Makaron penne z tuńczykiem</sub-title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220811160000 +0200" stop="20220811163000 +0200" channel="TVP 3">
+    <title lang="pl">Na tropie przypraw. Pikantnie i słodko</title>
+    <desc lang="pl">Program kulturalno-kulinarny obfitujący w ciekawe historie, anegdoty związane z przyprawami. Rozmowy prowadzących połączone są z przygotowaniem potraw przy użyciu różnych przypraw.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220811163000 +0200" stop="20220811164500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220811164500 +0200" stop="20220811165000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811165000 +0200" stop="20220811170000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811170000 +0200" stop="20220811173000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220811173000 +0200" stop="20220811180000 +0200" channel="TVP 3">
+    <title lang="pl">Telekurier</title>
+    <desc lang="pl">Sensacyjne zdarzenia, reporterskie interwencje, ludzkie dramaty i sukcesy. W każdym wydaniu relacja na żywo lub reportaż z kraju. Przedstawiany problem komentuje zaproszony do studia ekspert.</desc>
+    <category lang="pl">magazyn reporterów</category>
+  </programme>
+  <programme start="20220811180000 +0200" stop="20220811203500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220811203500 +0200" stop="20220811212500 +0200" channel="TVP 3">
+    <title lang="pl">Przysięga</title>
+    <desc lang="pl">Po śmierci matki Reyhan (Özge Yagiz) jest zdana na siebie. Dziewczynę odwiedza przybrany wuj, bogaty Hikmet (Berkant Müftüler), i namawia do ślubu ze swoim synem Emirem (Gokberk Demirci).</desc>
+    <credits>
+      <director>Serkan Mut</director>
+      <director>Ayhan Özen</director>
+      <actor>Reyhan - Özge Yagiz</actor>
+      <actor>Emir Tarhun, syn Hikmeta i Cavidan - Gökberk Demirci</actor>
+      <actor>Jandarma - Aksel Yakup Bektas</actor>
+      <actor>Cavidan Hikmet - Gül Arcan</actor>
+      <actor>Hikmet Tarhun - Berkant Müftüler</actor>
+      <actor>Kemal - Can Verel</actor>
+      <actor>Masal - Cansin Mina Gür</actor>
+      <actor>Zafer - Ali Dereli</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">telenowela</category>
+    <episode-num system="onscreen">E96</episode-num>
+  </programme>
+  <programme start="20220811212500 +0200" stop="20220811212600 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów - zapowiedź</title>
+    <desc lang="pl">Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia ze wszystkich regionów Polski.</desc>
+    <date>2022</date>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220811212600 +0200" stop="20220811214500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220811214500 +0200" stop="20220811220000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811220000 +0200" stop="20220811221000 +0200" channel="TVP 3">
+    <title lang="pl">Studio LOTTO</title>
+    <desc lang="pl">Losowanie numerów gier i zakładów Totalizatora Sportowego. Prowadzący prezentują ich wyniki i przypominają zasady udziału w loterii.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811221000 +0200" stop="20220811222000 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220811222000 +0200" stop="20220811223000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220811223000 +0200" stop="20220811230000 +0200" channel="TVP 3">
+    <title lang="pl">Przyroda - wędka - przygoda</title>
+    <desc lang="pl">Program prezentujący uroki wędkarskich zakątków w Polsce. Poza unikatowymi zdjęciami ukazującymi piękno przyrody, widzowie wezmą udział we wspaniałej przygodzie wraz z zaproszonymi gośćmi.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn przyrodniczy</category>
+  </programme>
+  <programme start="20220811230000 +0200" stop="20220811232500 +0200" channel="TVP 3">
+    <title lang="pl">Echa dnia</title>
+    <desc lang="pl">W studiu goszczą politycy, urzędnicy państwowi i działacze samorządowi. Dyskutują oni na temat bieżących wydarzeń.</desc>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220811232500 +0200" stop="20220812002000 +0200" channel="TVP 3">
+    <title lang="pl">Ocaleni</title>
+    <desc lang="pl">W programie prezentowane są historie ludzi, którzy doświadczyli piekła uzależnienia i którym udało się wygrać walkę z nałogiem. Opowiadają oni o swoich niełatwych perypetiach, a także o tym, co spowodowało, że zdecydowali się na rozpoczęcie życia w trzeźwości. Twórcy serii podkreślają wagę punktu zwrotnego, który na nowo determinuje losy bohaterów, a także ukazują skuteczną, choć nie zawsze łatwą drogę, prowadzącą do wyjścia z nałogu. W programie głos zabierają także członkowie rodzin osób uzależnionych oraz lekarze i terapeuci. Gospodarzem magazynu jest Rafał Porzeziński.</desc>
+    <credits>
+      <director>Jacek Królikiewicz</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">reality show</category>
+  </programme>
+  <programme start="20220812002000 +0200" stop="20220812004500 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Złote serce</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20220812004500 +0200" stop="20220812014500 +0200" channel="TVP 3">
+    <title lang="pl">Promyk nadziei</title>
+    <desc lang="pl">Niesłusznie posądzony o kradzież Omer trafia do więzienia. Jego żona rodzi dziecko, które umiera zaraz po przyjściu na świat. Po jedenastu latach Omer wychodzi na wolność. Zamierza się zemścić.</desc>
+    <credits>
+      <actor>Omer, były mąż Ipek - Fatih Ayhan</actor>
+      <actor>Ipek, była żona Omera, kuzynka Halila - Gülsah Aydin</actor>
+      <actor>Bahar - Isabella Damla Güvenilir</actor>
+      <actor>Neslihan, żona Halila - Esin Civangil</actor>
+      <actor>Lokantaci - Nuray Serefoglu</actor>
+      <actor>Peri - Elif Tigli</actor>
+      <actor>Süheyla/Suhejla, siostra Neslihan - Hande Arisoy</actor>
+      <actor>Ozan - Ali Yagiz Durmus</actor>
+      <actor>Meliha - Alev Oraloglu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">serial obyczajowy</category>
+    <episode-num system="onscreen">E95</episode-num>
+  </programme>
+  <programme start="20220812014500 +0200" stop="20220812021000 +0200" channel="TVP 3">
+    <title lang="pl">Przyroda - wędka - przygoda</title>
+    <desc lang="pl">Program prezentujący uroki wędkarskich zakątków w Polsce. Poza unikatowymi zdjęciami ukazującymi piękno przyrody, widzowie wezmą udział we wspaniałej przygodzie wraz z zaproszonymi gośćmi.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn przyrodniczy</category>
+  </programme>
+  <programme start="20220812021000 +0200" stop="20220812022000 +0200" channel="TVP 3">
+    <title lang="pl">Bezbłędnie</title>
+    <sub-title lang="pl">Toreador</sub-title>
+    <date>2019</date>
+    <category lang="pl">magazyn językowy</category>
+    <episode-num system="onscreen">E100</episode-num>
+  </programme>
+  <programme start="20220812022000 +0200" stop="20220812031000 +0200" channel="TVP 3">
+    <title lang="pl">Więzień miłości</title>
+    <desc lang="pl">Omer (Erkan Meriç) nie zamierza nigdy się żenić. Jedyną kobietą, która się liczy w jego życiu, jest jego siostra Ajsze (Yaprak Durmaz). Dziewczyna jest wspaniałą romantyczką i pragnie, by jej brat był szczęśliwy i ułożył sobie życie u boku ukochanej. Kiedy Omer dowiaduje się, że jego siostrze zostało zaledwie kilka miesięcy życia, postanawia zawrzeć fikcyjny związek małżeński, by Ajsze zaznała szczęścia w ostatnich chwilach. Jego żoną ma zostać Zehra (Hazal Subasi), która desperacko potrzebuje pieniędzy. Ich małżeństwo ma potrwać jedynie pół roku, lecz sprawy zaczynają się komplikować.</desc>
+    <credits>
+      <actor>Zehra - Hazal Subasi</actor>
+      <actor>Ömer - Erkan Meriç</actor>
+      <actor>Ayse - Yaprak Durmaz</actor>
+      <actor>Nihat - Aykut Igdeli</actor>
+      <actor>Salim - Ali Çoban</actor>
+      <actor>Hediye - Derya Kurtulus</actor>
+      <actor>Koray - Erman Aksoy</actor>
+      <actor>Alev - Ezgi Baran</actor>
+      <actor>Leyla - Berna Üçkaleler</actor>
+      <actor>Yasemin - Sultan Elif Tas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pl">telenowela</category>
+    <episode-num system="onscreen">E252</episode-num>
+  </programme>
+  <programme start="20220812031000 +0200" stop="20220812040000 +0200" channel="TVP 3">
+    <title lang="pl">Ocaleni</title>
+    <desc lang="pl">W programie prezentowane są historie ludzi, którzy doświadczyli piekła uzależnienia i którym udało się wygrać walkę z nałogiem. Opowiadają oni o swoich niełatwych perypetiach, a także o tym, co spowodowało, że zdecydowali się na rozpoczęcie życia w trzeźwości. Twórcy serii podkreślają wagę punktu zwrotnego, który na nowo determinuje losy bohaterów, a także ukazują skuteczną, choć nie zawsze łatwą drogę, prowadzącą do wyjścia z nałogu. W programie głos zabierają także członkowie rodzin osób uzależnionych oraz lekarze i terapeuci. Gospodarzem magazynu jest Rafał Porzeziński.</desc>
+    <credits>
+      <director>Jacek Królikiewicz</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">reality show</category>
+  </programme>
+  <programme start="20220812040000 +0200" stop="20220812041000 +0200" channel="TVP 3">
+    <title lang="pl">Bezbłędnie</title>
+    <sub-title lang="pl">Kanister</sub-title>
+    <date>2019</date>
+    <category lang="pl">magazyn językowy</category>
+    <episode-num system="onscreen">E146</episode-num>
+  </programme>
+  <programme start="20220812041000 +0200" stop="20220812042500 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812042500 +0200" stop="20220812044000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812044000 +0200" stop="20220812044200 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812044200 +0200" stop="20220812050000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Fajansowa nostalgia</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220812050000 +0200" stop="20220812052500 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Złote serce</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E38</episode-num>
+  </programme>
+  <programme start="20220812052500 +0200" stop="20220812053000 +0200" channel="TVP 3">
+    <title lang="pl">Składka. Emerytura. Przyszłość</title>
+    <date>2021</date>
+    <category lang="pl">cykl felietonów</category>
+  </programme>
+  <programme start="20220812053000 +0200" stop="20220812054000 +0200" channel="TVP 3">
+    <title lang="pl">Poradnik zakupowy</title>
+    <sub-title lang="pl">Dynie</sub-title>
+    <desc lang="pl">Program realizowany przez Redakcję Rolną TAI. Pojawiające się w nim porady dotyczą zdrowej żywności. Widzowie dowiedzą się, jak kupować i na co zwracać uwagę, by nie dać się oszukać.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn poradnikowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220812054000 +0200" stop="20220812055500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812055500 +0200" stop="20220812055700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812055700 +0200" stop="20220812060000 +0200" channel="TVP 3">
+    <title lang="pl">Zakończenie programu</title>
+  </programme>
+  <programme start="20220812060000 +0200" stop="20220812061500 +0200" channel="TVP 3">
+    <title lang="pl">Masz prawo</title>
+    <desc lang="pl">Program o tematyce prawnej. Prowadząca, Anna Grabowska, zaprasza do studia osoby ze środowiska adwokackiego, które starają się pomóc widzom rozwiązać problemy. Pytania można nadsyłać drogą mailową.</desc>
+    <category lang="pl">magazyn prawny</category>
+  </programme>
+  <programme start="20220812061500 +0200" stop="20220812062000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812062000 +0200" stop="20220812063000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812063000 +0200" stop="20220812064500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes</title>
+    <desc lang="pl">Program adresowany do rolników: praktyczne rady dotyczące hodowli zwierząt oraz użyteczne informacje na temat uprawy różnych gatunków roślin. Także aktualności z branży rolno- spożywczej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220812064500 +0200" stop="20220812064700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812064700 +0200" stop="20220812070000 +0200" channel="TVP 3">
+    <title lang="pl">Magazyn rolniczy</title>
+    <desc lang="pl">Realizatorzy prezentują kolejne etapy tworzenia produktów spożywczych, m.in. jak powstają sery, wędliny, przetwory. Także o różnicach w produkcji żywności konwencjonalnej i ekologicznej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220812070000 +0200" stop="20220812071000 +0200" channel="TVP 3">
+    <title lang="pl">Agrorozmowa</title>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812071000 +0200" stop="20220812073000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Pszczółki moje</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220812073000 +0200" stop="20220812074500 +0200" channel="TVP 3">
+    <title lang="pl">Info Wilno</title>
+    <desc lang="pl">Podsumowanie najważniejszych i najciekawszych wydarzeń dnia związanych z życiem Polaków na Litwie.</desc>
+    <category lang="pl">program informacyjny</category>
+    <episode-num system="onscreen">E732</episode-num>
+  </programme>
+  <programme start="20220812074500 +0200" stop="20220812080000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812080000 +0200" stop="20220812100500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220812100500 +0200" stop="20220812103500 +0200" channel="TVP 3">
+    <title lang="pl">Telekurier</title>
+    <desc lang="pl">Sensacyjne zdarzenia, reporterskie interwencje, ludzkie dramaty i sukcesy. W każdym wydaniu relacja na żywo lub reportaż z kraju. Przedstawiany problem komentuje zaproszony do studia ekspert.</desc>
+    <category lang="pl">magazyn reporterów</category>
+  </programme>
+  <programme start="20220812103500 +0200" stop="20220812105500 +0200" channel="TVP 3">
+    <title lang="pl">Na zdrowie. Poradnik medyczny TVP 3</title>
+    <desc lang="pl">Program poświęcony zagadnieniom medycznym związanym z szeroko pojętą profilaktyką i poradnictwem. Prowadząca Danuta Holecka wraz z gośćmi odpowiada na sformułowane wcześniej pytania.</desc>
+    <category lang="pl">magazyn medyczny</category>
+  </programme>
+  <programme start="20220812105500 +0200" stop="20220812111500 +0200" channel="TVP 3">
+    <title lang="pl">Rok w ogrodzie</title>
+    <desc lang="pl">Program poradnikowy przeznaczony dla wszystkich miłośników uprawy roślin i ogrodnictwa.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812111500 +0200" stop="20220812114500 +0200" channel="TVP 3">
+    <title lang="pl">Kuchenne recepty</title>
+    <desc lang="pl">Medyczno-kulinarny poradnik dr. Michała Mularczyka. Lekarz w towarzystwie szefa kuchni podpowiada, jak gotować, by przygotowywane potrawy zawierały jak najwięcej cennych składników odżywczych.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812114500 +0200" stop="20220812121500 +0200" channel="TVP 3">
+    <title lang="pl">Przyroda - wędka - przygoda</title>
+    <desc lang="pl">Program prezentujący uroki wędkarskich zakątków w Polsce. Poza unikatowymi zdjęciami ukazującymi piękno przyrody, widzowie wezmą udział we wspaniałej przygodzie wraz z zaproszonymi gośćmi.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn przyrodniczy</category>
+  </programme>
+  <programme start="20220812121500 +0200" stop="20220812123000 +0200" channel="TVP 3">
+    <title lang="pl">Moto lady</title>
+    <desc lang="pl">Ponad 40% kierowców w Polsce stanowią kobiety. Widzowie dowiedzą się, jakich aut potrzebują współczesne mistrzynie kierownicy.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn motoryzacyjny</category>
+  </programme>
+  <programme start="20220812123000 +0200" stop="20220812124500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Tangiem oczarowana</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220812124500 +0200" stop="20220812125500 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812125500 +0200" stop="20220812131000 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812131000 +0200" stop="20220812131500 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812131500 +0200" stop="20220812141000 +0200" channel="TVP 3">
+    <title lang="pl">Janosik</title>
+    <sub-title lang="pl">Wszyscy za jednego</sub-title>
+    <desc lang="pl">Każdy z 13 odcinków opowiada odrębną, zamkniętą historię. Razem stanowią one opowieść o przygodach zbójnickiej kompanii, do której trafia Janosik. Serial realizowany był w zamku w Pieskowej Skale, w okolicach Ojcowa i w różnych rejonach Podkarpacia, a także w atelier w Warszawie i Pradze. W praskim studiu urządzono według projektu scenografa filmu Jana Grandysa grotę skalną, w której nagrano niektóre sceny zbójnickie. Scenariusz filmu powstał na podstawie legend o tatrzańskim zbójniku. Ponieważ - jak twierdził reżyser Jerzy Passendorfer - legendy nie należy traktować zbyt poważnie, w filmie jest dużo humoru i zabawnych scen. Nie brak widowiskowych bójek i walk.</desc>
+    <credits>
+      <director>Jerzy Passendorfer</director>
+      <actor>Janosik - Marek Perepeczko</actor>
+      <actor>Maryna - Ewa Lemańska</actor>
+      <actor>Harnaś Bardos - Czesław Jaroszyński</actor>
+      <actor>Murgrabia - Marian Kociniak</actor>
+      <actor>Hrabia Hortvath - Mieczysław Czechowicz</actor>
+      <actor>Waluś Kwiczoł - Bogusz Bilewski</actor>
+      <actor>Jędruś Pyzdra - Witold Pyrkosz</actor>
+    </credits>
+    <date>1973</date>
+    <category lang="pl">serial przygodowy</category>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220812141000 +0200" stop="20220812143000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Medbatalion</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220812143000 +0200" stop="20220812144500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220812144500 +0200" stop="20220812150000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812150000 +0200" stop="20220812152000 +0200" channel="TVP 3">
+    <title lang="pl">Koronka do Miłosierdzia Bożego</title>
+    <desc lang="pl">Wspólna modlitwa różańcowa widzów TV Republika.</desc>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220812152000 +0200" stop="20220812155000 +0200" channel="TVP 3">
+    <title lang="pl">Jan Paweł II - wczoraj i dziś</title>
+    <sub-title lang="pl">Dialog</sub-title>
+    <desc lang="pl">Cykl poświęcony 20. rocznicy pielgrzymki Jana Pawła II do Polski pod hasłem 'Bóg bogaty w miłosierdzie'. Niezwykłą relację z Bogiem papieża mogliśmy obserwować w 2002 roku w katedrze na Wawelu.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn religijny</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20220812155000 +0200" stop="20220812160000 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <sub-title lang="pl">Jajka zapiekane w formie na mufiny</sub-title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220812160000 +0200" stop="20220812163000 +0200" channel="TVP 3">
+    <title lang="pl">Kuchenne recepty</title>
+    <desc lang="pl">Medyczno-kulinarny poradnik dr. Michała Mularczyka. Lekarz w towarzystwie szefa kuchni podpowiada, jak gotować, by przygotowywane potrawy zawierały jak najwięcej cennych składników odżywczych.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812163000 +0200" stop="20220812164500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220812164500 +0200" stop="20220812165000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812165000 +0200" stop="20220812170000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812170000 +0200" stop="20220812173000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220812173000 +0200" stop="20220812180000 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812180000 +0200" stop="20220812203500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220812203500 +0200" stop="20220812212500 +0200" channel="TVP 3">
+    <title lang="pl">Przysięga</title>
+    <desc lang="pl">Po śmierci matki Reyhan (Özge Yagiz) jest zdana na siebie. Dziewczynę odwiedza przybrany wuj, bogaty Hikmet (Berkant Müftüler), i namawia do ślubu ze swoim synem Emirem (Gokberk Demirci).</desc>
+    <credits>
+      <director>Serkan Mut</director>
+      <director>Ayhan Özen</director>
+      <actor>Reyhan - Özge Yagiz</actor>
+      <actor>Emir Tarhun, syn Hikmeta i Cavidan - Gökberk Demirci</actor>
+      <actor>Jandarma - Aksel Yakup Bektas</actor>
+      <actor>Cavidan Hikmet - Gül Arcan</actor>
+      <actor>Hikmet Tarhun - Berkant Müftüler</actor>
+      <actor>Kemal - Can Verel</actor>
+      <actor>Masal - Cansin Mina Gür</actor>
+      <actor>Zafer - Ali Dereli</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">telenowela</category>
+    <episode-num system="onscreen">E97</episode-num>
+  </programme>
+  <programme start="20220812212500 +0200" stop="20220812212600 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów - zapowiedź</title>
+    <desc lang="pl">Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia ze wszystkich regionów Polski.</desc>
+    <date>2022</date>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220812212600 +0200" stop="20220812214500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220812214500 +0200" stop="20220812220000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812220000 +0200" stop="20220812221000 +0200" channel="TVP 3">
+    <title lang="pl">Studio LOTTO</title>
+    <desc lang="pl">Losowanie numerów gier i zakładów Totalizatora Sportowego. Prowadzący prezentują ich wyniki i przypominają zasady udziału w loterii.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812221000 +0200" stop="20220812222000 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812222000 +0200" stop="20220812223000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220812223000 +0200" stop="20220812230000 +0200" channel="TVP 3">
+    <title lang="pl">Ratownicy</title>
+    <desc lang="pl">Tematem programu są działania podejmowane przez ratowników różnych specjalizacji. Widzowie zobaczą zmagania jednostek zawodowych, a także ochotników. Poznamy codzienne zmagania ratowników górniczych, górskich, medycznych, wodnych, strażaków, a także społeczników ratujących zwierzęta. Widzowie śledzą poszczególne akcje, oglądając je z perspektywy bohaterów, reprezentujących wszystkie wyżej wymienione działy. W każdym odcinku pojawią się trzy postaci. Zobaczymy je zarówno w trakcie akcji, jak również w towarzystwie bliskich, którzy pomagają im uporać się z trudnymi emocjami.</desc>
+    <date>2021</date>
+    <category lang="pl">telenowela dokumentalna</category>
+  </programme>
+  <programme start="20220812230000 +0200" stop="20220812232500 +0200" channel="TVP 3">
+    <title lang="pl">Echa dnia</title>
+    <desc lang="pl">W studiu goszczą politycy, urzędnicy państwowi i działacze samorządowi. Dyskutują oni na temat bieżących wydarzeń.</desc>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220812232500 +0200" stop="20220812235000 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220812235000 +0200" stop="20220813000500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220813000500 +0200" stop="20220813002000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Cudownie ocalona</sub-title>
+    <desc lang="pl">31 grudnia 2020 roku pani Teresa z Olszowic straciła w pożarze dorobek swojego życia. Mogła jednak liczyć na pomoc sąsiadów i ludzi dobrej woli. W zaledwie dwa miesiące jej dom został odbudowany. W pracowni konserwatorskiej Andrzeja Rozkocha została zaś zrekonstruowana figurka Matki Boskiej - jedyny przedmiot, który ocalał w pożarze. Sąsiedzi pani Teresy uważają, że to cud. Obok figurki umieścili kapsułę czasu, w której znajdują się zdjęcia dokumentujące proces odbudowy domu, a także list do potomnych.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220813002000 +0200" stop="20220813004500 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Wartość względna</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20220813004500 +0200" stop="20220813014500 +0200" channel="TVP 3">
+    <title lang="pl">Promyk nadziei</title>
+    <desc lang="pl">Niesłusznie posądzony o kradzież Omer trafia do więzienia. Jego żona rodzi dziecko, które umiera zaraz po przyjściu na świat. Po jedenastu latach Omer wychodzi na wolność. Zamierza się zemścić.</desc>
+    <credits>
+      <actor>Omer, były mąż Ipek - Fatih Ayhan</actor>
+      <actor>Ipek, była żona Omera, kuzynka Halila - Gülsah Aydin</actor>
+      <actor>Bahar - Isabella Damla Güvenilir</actor>
+      <actor>Neslihan, żona Halila - Esin Civangil</actor>
+      <actor>Lokantaci - Nuray Serefoglu</actor>
+      <actor>Peri - Elif Tigli</actor>
+      <actor>Süheyla/Suhejla, siostra Neslihan - Hande Arisoy</actor>
+      <actor>Ozan - Ali Yagiz Durmus</actor>
+      <actor>Meliha - Alev Oraloglu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">serial obyczajowy</category>
+    <episode-num system="onscreen">E96</episode-num>
+  </programme>
+  <programme start="20220813014500 +0200" stop="20220813021000 +0200" channel="TVP 3">
+    <title lang="pl">Ratownicy</title>
+    <desc lang="pl">Tematem programu są działania podejmowane przez ratowników różnych specjalizacji. Widzowie zobaczą zmagania jednostek zawodowych, a także ochotników. Poznamy codzienne zmagania ratowników górniczych, górskich, medycznych, wodnych, strażaków, a także społeczników ratujących zwierzęta. Widzowie śledzą poszczególne akcje, oglądając je z perspektywy bohaterów, reprezentujących wszystkie wyżej wymienione działy. W każdym odcinku pojawią się trzy postaci. Zobaczymy je zarówno w trakcie akcji, jak również w towarzystwie bliskich, którzy pomagają im uporać się z trudnymi emocjami.</desc>
+    <date>2021</date>
+    <category lang="pl">telenowela dokumentalna</category>
+  </programme>
+  <programme start="20220813021000 +0200" stop="20220813022000 +0200" channel="TVP 3">
+    <title lang="pl">Bezbłędnie</title>
+    <sub-title lang="pl">Bruno - Iwo</sub-title>
+    <date>2019</date>
+    <category lang="pl">magazyn językowy</category>
+    <episode-num system="onscreen">E110</episode-num>
+  </programme>
+  <programme start="20220813022000 +0200" stop="20220813031000 +0200" channel="TVP 3">
+    <title lang="pl">Więzień miłości</title>
+    <desc lang="pl">Omer (Erkan Meriç) nie zamierza nigdy się żenić. Jedyną kobietą, która się liczy w jego życiu, jest jego siostra Ajsze (Yaprak Durmaz). Dziewczyna jest wspaniałą romantyczką i pragnie, by jej brat był szczęśliwy i ułożył sobie życie u boku ukochanej. Kiedy Omer dowiaduje się, że jego siostrze zostało zaledwie kilka miesięcy życia, postanawia zawrzeć fikcyjny związek małżeński, by Ajsze zaznała szczęścia w ostatnich chwilach. Jego żoną ma zostać Zehra (Hazal Subasi), która desperacko potrzebuje pieniędzy. Ich małżeństwo ma potrwać jedynie pół roku, lecz sprawy zaczynają się komplikować.</desc>
+    <credits>
+      <actor>Zehra - Hazal Subasi</actor>
+      <actor>Ömer - Erkan Meriç</actor>
+      <actor>Ayse - Yaprak Durmaz</actor>
+      <actor>Nihat - Aykut Igdeli</actor>
+      <actor>Salim - Ali Çoban</actor>
+      <actor>Hediye - Derya Kurtulus</actor>
+      <actor>Koray - Erman Aksoy</actor>
+      <actor>Alev - Ezgi Baran</actor>
+      <actor>Leyla - Berna Üçkaleler</actor>
+      <actor>Yasemin - Sultan Elif Tas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pl">telenowela</category>
+    <episode-num system="onscreen">E253</episode-num>
+  </programme>
+  <programme start="20220813031000 +0200" stop="20220813033500 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813033500 +0200" stop="20220813035000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220813035000 +0200" stop="20220813040000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Cudownie ocalona</sub-title>
+    <desc lang="pl">31 grudnia 2020 roku pani Teresa z Olszowic straciła w pożarze dorobek swojego życia. Mogła jednak liczyć na pomoc sąsiadów i ludzi dobrej woli. W zaledwie dwa miesiące jej dom został odbudowany. W pracowni konserwatorskiej Andrzeja Rozkocha została zaś zrekonstruowana figurka Matki Boskiej - jedyny przedmiot, który ocalał w pożarze. Sąsiedzi pani Teresy uważają, że to cud. Obok figurki umieścili kapsułę czasu, w której znajdują się zdjęcia dokumentujące proces odbudowy domu, a także list do potomnych.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220813040000 +0200" stop="20220813041000 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <sub-title lang="pl">Jajka zapiekane w formie na mufiny</sub-title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220813041000 +0200" stop="20220813042500 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813042500 +0200" stop="20220813044000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813044000 +0200" stop="20220813044500 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813044500 +0200" stop="20220813050000 +0200" channel="TVP 3">
+    <title lang="pl">Turystyczna jazda</title>
+    <sub-title lang="pl">Nitra i okolice</sub-title>
+    <desc lang="pl">Twórcy programu prezentują ciekawe miejsca w Polsce i za granicą. W każdym odcinku udają się do atrakcyjnej turystycznie miejscowości, poznają lokalne zwyczaje i smakują regionalnej kuchni.</desc>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E103</episode-num>
+  </programme>
+  <programme start="20220813050000 +0200" stop="20220813053000 +0200" channel="TVP 3">
+    <title lang="pl">Kasta</title>
+    <sub-title lang="pl">Wartość względna</sub-title>
+    <desc lang="pl">Bohaterami serialu są osoby, którym niesprawiedliwe wyroki zrujnowały życie. Każda z historii mogła wydarzyć się naprawdę. Twórcy serii poruszają problemy, które trawią polskie sądownictwo.</desc>
+    <credits>
+      <actor>Marta, adwokat - Wiktoria Grabowska</actor>
+      <actor>Filip, adwokat - Andrzej Olszewski</actor>
+      <actor>Jan, adwokat - Jakub Grzybek</actor>
+      <actor>Lidia, adwokat - Patrycja Kawecka</actor>
+      <actor>detektyw Marek Maj - Piotr Makarski</actor>
+      <actor>informatyk Viki - Paweł Strumiński</actor>
+      <actor>pani Czesia, pomaga w prowadzeniu kancelarii - Dorota Wierzbicka</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">serial paradokumentalny</category>
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme start="20220813053000 +0200" stop="20220813054000 +0200" channel="TVP 3">
+    <title lang="pl">Masz prawo</title>
+    <desc lang="pl">Program o tematyce prawnej. Prowadząca, Anna Grabowska, zaprasza do studia osoby ze środowiska adwokackiego, które starają się pomóc widzom rozwiązać problemy. Pytania można nadsyłać drogą mailową.</desc>
+    <category lang="pl">magazyn prawny</category>
+  </programme>
+  <programme start="20220813054000 +0200" stop="20220813055500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes extra</title>
+    <desc lang="pl">Magazyn poradnikowy o tematyce rolniczej. Pojawią się w nim felietony realizowane przez reporterów z oddziałów regionalnych.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813055500 +0200" stop="20220813055700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813055700 +0200" stop="20220813060000 +0200" channel="TVP 3">
+    <title lang="pl">Zakończenie programu</title>
+  </programme>
+  <programme start="20220813060000 +0200" stop="20220813063000 +0200" channel="TVP 3">
+    <title lang="pl">Lato na RODOS</title>
+    <desc lang="pl">Kulisy życia bywalców rodzinnych ogródkach działkowych. Widzowie poznają kilka familii działkowców z różnych zakątków Polski. Kamery rejestrują ich rozmowy, spotkania i codzienne aktywności.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+  </programme>
+  <programme start="20220813063000 +0200" stop="20220813070500 +0200" channel="TVP 3">
+    <title lang="pl">Na tropie przypraw. Pikantnie i słodko</title>
+    <desc lang="pl">Program kulturalno-kulinarny obfitujący w ciekawe historie, anegdoty związane z przyprawami. Rozmowy prowadzących połączone są z przygotowaniem potraw przy użyciu różnych przypraw.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220813070500 +0200" stop="20220813073000 +0200" channel="TVP 3">
+    <title lang="pl">Spotkania w świecie ciszy</title>
+    <desc lang="pl">Program, w którym głusi mówią o sobie, swojej rodzinie i pracy. Opowiadają także o pasjach i sporcie, ale także o barierach, które utrudniają im funkcjonowanie. Magazyn nadawany w języku migowym.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813073000 +0200" stop="20220813074500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Fajansowa nostalgia</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220813074500 +0200" stop="20220813081500 +0200" channel="TVP 3">
+    <title lang="pl">Starszaki</title>
+    <desc lang="pl">W programie poznamy fantastycznych ludzi, zobaczymy interesujące miejsca, a także rzeczy, które zachęcą nas do wyjścia z domu. W cotygodniowych spotkaniach udzielamy przydatnych porad.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813081500 +0200" stop="20220813083500 +0200" channel="TVP 3">
+    <title lang="pl">Rozmowy bardzo kulturalne</title>
+    <desc lang="pl">Danuta Holecka rozmawia z twórcami kultury. Goście opowiadają o swoich życiowych dokonaniach, pasjach czy rodzinach. W studiu pojawiają się osoby ze świata kultury, a także spoza jej kręgu.</desc>
+    <category lang="pl">magazyn kulturalny</category>
+  </programme>
+  <programme start="20220813083500 +0200" stop="20220813091000 +0200" channel="TVP 3">
+    <title lang="pl">Prywatne życie zwierząt 4</title>
+    <sub-title lang="pl">Wokół pióra</sub-title>
+    <desc lang="pl">Kolejna seria programu, w którym dr Andrzej Kruszewicz tłumaczy widzom, jak funkcjonuje świat zwierząt. Twórcy wyjaśniają, jakie zasady panują w naturze i przybliżają zwyczaje przedstawicieli fauny.</desc>
+    <date>2020</date>
+    <category lang="pl">serial przyrodniczy</category>
+    <episode-num system="onscreen">S4E3</episode-num>
+  </programme>
+  <programme start="20220813091000 +0200" stop="20220813100000 +0200" channel="TVP 3">
+    <title lang="pl">Sukces na bank - Turniej wiedzy ekonomicznej dla szkół średnich</title>
+    <desc lang="pl">Turniej wiedzy o finansach i ekonomii, adresowany do uczniów szkół średnich (liceów i techników). Biorą w nim udział szkoły ze wszystkich województw w Polsce, a każda z nich wystawia pięcioosobową reprezentację, która uczestniczy w rozgrywkach. Uczniowie będą musieli wykazać się wiedzą z bardzo wielu dziedzin ekonomii, a także podejmować dobre decyzje strategiczne, które umożliwią im zdobywanie większej ilości punktów. Motywacją do stworzenia projektu były wyniki badań, które wskazują na to, że połowa Polaków ma istotne braki z zakresu podstawowej wiedzy ekonomicznej."}.</desc>
+    <category lang="pl">teleturniej</category>
+  </programme>
+  <programme start="20220813100000 +0200" stop="20220813120500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220813120500 +0200" stop="20220813122000 +0200" channel="TVP 3">
+    <title lang="pl">Poczytalnia</title>
+    <desc lang="pl">Magazyn składający się z rozmów, felietonów, fragmentów książek i zapowiedzi nowości. Tematy będą uwzględniały dzieła umacniające tożsamość narodową, jak i te nawiązujące do kultury współczesnej.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn kulturalny</category>
+  </programme>
+  <programme start="20220813122000 +0200" stop="20220813123000 +0200" channel="TVP 3">
+    <title lang="pl">Bezbłędnie</title>
+    <sub-title lang="pl">Ślązak</sub-title>
+    <date>2019</date>
+    <category lang="pl">magazyn językowy</category>
+    <episode-num system="onscreen">E115</episode-num>
+  </programme>
+  <programme start="20220813123000 +0200" stop="20220813124500 +0200" channel="TVP 3">
+    <title lang="pl">Gwiazdy od szafy</title>
+    <desc lang="pl">Rozmowy z gwiazdami o modzie, stylu i ważnych dla nich kreacjach. Spotkania odbywają się w studiu, jak również w domach, atelier i planach filmowych celebrytów, gdzie widzowie zajrzą do ich szaf.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn kulturalny</category>
+  </programme>
+  <programme start="20220813124500 +0200" stop="20220813130000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813130000 +0200" stop="20220813133000 +0200" channel="TVP 3">
+    <title lang="pl">Ktokolwiek widział, ktokolwiek wie</title>
+    <desc lang="pl">W każdym wydaniu ekipa stara się pomóc w ustaleniu miejsca pobytu ludzi, którzy zaginęli. Prezentowane są zdjęcia oraz inne materiały przybliżające nam poszukiwane osoby.</desc>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220813133000 +0200" stop="20220813140000 +0200" channel="TVP 3">
+    <title lang="pl">Piosenka u Ciebie</title>
+    <desc lang="pl">Formuła koncertu życzeń oparta na interakcji z widzami. W programie para prowadzących składa życzenia w imieniu najbliższych. Do tego dołączona zostaje piosenka proponowana przez telewidzów.</desc>
+    <date>2019</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220813140000 +0200" stop="20220813142000 +0200" channel="TVP 3">
+    <title lang="pl">Antenowe remanenty</title>
+    <sub-title lang="pl">Sabałowe bajanie</sub-title>
+    <desc lang="pl">Cykl reportaży, które na stałe zapisały się na kartach polskiej dokumentalistyki. Odnalezione po latach w archiwach oddziałów terenowych TVP wciąż zachwycają artystycznym kunsztem.</desc>
+  </programme>
+  <programme start="20220813142000 +0200" stop="20220813143000 +0200" channel="TVP 3">
+    <title lang="pl">Bezbłędnie</title>
+    <sub-title lang="pl">Wegetarianin - weganin</sub-title>
+    <date>2019</date>
+    <category lang="pl">magazyn językowy</category>
+    <episode-num system="onscreen">E133</episode-num>
+  </programme>
+  <programme start="20220813143000 +0200" stop="20220813144500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220813144500 +0200" stop="20220813150000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813150000 +0200" stop="20220813152000 +0200" channel="TVP 3">
+    <title lang="pl">Koronka do Miłosierdzia Bożego</title>
+    <desc lang="pl">Wspólna modlitwa różańcowa widzów TV Republika.</desc>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220813152000 +0200" stop="20220813160000 +0200" channel="TVP 3">
+    <title lang="pl">Dobre historie</title>
+    <sub-title lang="pl">Ktoś</sub-title>
+    <desc lang="pl">Twórcy magazynu podejmują tematy ważne społecznie, jak solidarność międzyludzka, pomoc potrzebującym i chorym czy ekologia.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813160000 +0200" stop="20220813163000 +0200" channel="TVP 3">
+    <title lang="pl">Polska mnie cieszy</title>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220813163000 +0200" stop="20220813164500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220813164500 +0200" stop="20220813165000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813165000 +0200" stop="20220813170000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813170000 +0200" stop="20220813173000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220813173000 +0200" stop="20220813180000 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813180000 +0200" stop="20220813203000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220813203000 +0200" stop="20220813210000 +0200" channel="TVP 3">
+    <title lang="pl">Piosenka u Ciebie</title>
+    <desc lang="pl">Formuła koncertu życzeń oparta na interakcji z widzami. W programie para prowadzących składa życzenia w imieniu najbliższych. Do tego dołączona zostaje piosenka proponowana przez telewidzów.</desc>
+    <date>2019</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220813210000 +0200" stop="20220813212500 +0200" channel="TVP 3">
+    <title lang="pl">Rola życia</title>
+    <sub-title lang="pl">Halina Łabonarska</sub-title>
+    <desc lang="pl">Celem programu jest promocja twórczości teatralnej w mediach. W Polsce działa około 5 tysięcy zawodowych aktorów. Są wśród nich m.in. ludzie, którzy nie zdołali się jeszcze przebić do ekstraklasy.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn kulturalny</category>
+  </programme>
+  <programme start="20220813212500 +0200" stop="20220813212600 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów - zapowiedź</title>
+    <desc lang="pl">Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia ze wszystkich regionów Polski.</desc>
+    <date>2022</date>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220813212600 +0200" stop="20220813214500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220813214500 +0200" stop="20220813220000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813220000 +0200" stop="20220813221000 +0200" channel="TVP 3">
+    <title lang="pl">Studio LOTTO</title>
+    <desc lang="pl">Losowanie numerów gier i zakładów Totalizatora Sportowego. Prowadzący prezentują ich wyniki i przypominają zasady udziału w loterii.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813221000 +0200" stop="20220813222000 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813222000 +0200" stop="20220813223000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220813223000 +0200" stop="20220813230000 +0200" channel="TVP 3">
+    <title lang="pl">Bazary i bazarki</title>
+    <desc lang="pl">Troje ekspertów w swojej dziedzinie będzie eksplorować bazary w poszukiwaniu inspiracji. W każdym tygodniu zostaną odkryte losy jednego bohatera związanego z modą, kuchnią i starociami.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220813230000 +0200" stop="20220813234000 +0200" channel="TVP 3">
+    <title lang="pl">Moda na język polski</title>
+    <sub-title lang="pl">Czarnolas i Jan Kochanowski</sub-title>
+    <desc lang="pl">Program porusza temat polszczyzny i zmian, które zachodzą w języku na przestrzeni lat. Widzowie dowiedzą się, jak mówią dzisiaj młodzi Polacy, politycy, mieszkańcy czy obcokrajowcy."}}.</desc>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E54</episode-num>
+  </programme>
+  <programme start="20220813234000 +0200" stop="20220814001000 +0200" channel="TVP 3">
+    <title lang="pl">Ktokolwiek widział, ktokolwiek wie</title>
+    <desc lang="pl">W każdym wydaniu ekipa stara się pomóc w ustaleniu miejsca pobytu ludzi, którzy zaginęli. Prezentowane są zdjęcia oraz inne materiały przybliżające nam poszukiwane osoby.</desc>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220814001000 +0200" stop="20220814003500 +0200" channel="TVP 3">
+    <title lang="pl">Astronarium</title>
+    <sub-title lang="pl">Ochrona ciemnego nieba</sub-title>
+    <desc lang="pl">Bogumił Radajewski przedstawia najważniejsze odkrycia, najciekawsze badania i największe tajemnice wszechświata. Sekrety kosmosu pomagają widzom zrozumieć naukowcy z całej Polski.</desc>
+    <date>2015</date>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E85</episode-num>
+  </programme>
+  <programme start="20220814003500 +0200" stop="20220814005000 +0200" channel="TVP 3">
+    <title lang="pl">Szlakiem miejsc niezwykłych: Pomniki historii</title>
+    <sub-title lang="pl">Arkadia Nieborów</sub-title>
+    <desc lang="pl">Opowieść o miejscach wpisanych w rejestr pomników historii. Terminem tym określa się zabytek o szczególnym znaczeniu dla kultury Polski. Jest on ustanawiany przez Prezydenta Rzeczpospolitej Polskiej.</desc>
+    <date>2019</date>
+    <category lang="pl">cykl reportaży</category>
+    <episode-num system="onscreen">S5</episode-num>
+  </programme>
+  <programme start="20220814005000 +0200" stop="20220814012000 +0200" channel="TVP 3">
+    <title lang="pl">Piosenka u Ciebie</title>
+    <desc lang="pl">Formuła koncertu życzeń oparta na interakcji z widzami. W programie para prowadzących składa życzenia w imieniu najbliższych. Do tego dołączona zostaje piosenka proponowana przez telewidzów.</desc>
+    <date>2019</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220814012000 +0200" stop="20220814014500 +0200" channel="TVP 3">
+    <title lang="pl">Głos regionów</title>
+    <desc lang="pl">Relacje na żywo z różnych miejsc kraju dotyczące spraw ważnych dla każdego Polaka.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814014500 +0200" stop="20220814021500 +0200" channel="TVP 3">
+    <title lang="pl">Spotkania w świecie ciszy</title>
+    <desc lang="pl">Program, w którym głusi mówią o sobie, swojej rodzinie i pracy. Opowiadają także o pasjach i sporcie, ale także o barierach, które utrudniają im funkcjonowanie. Magazyn nadawany w języku migowym.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814021500 +0200" stop="20220814024000 +0200" channel="TVP 3">
+    <title lang="pl">Welcome to Poland</title>
+    <desc lang="pl">Twórcy programu prezentują pandemiczne realia naszego kraju. Reporterzy pokazują także odległe zakątki Polski. Nie zabraknie też opowieści o cudzoziemcach, dla których nasz kraj stał się drugim domem.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814024000 +0200" stop="20220814031000 +0200" channel="TVP 3">
+    <title lang="pl">Policja.pl</title>
+    <desc lang="pl">Kulisy pracy stróżów prawa. Policjanci wprowadzają widzów w mroczny świat przestępczości ulicznej. Wszystkie przedstawiane sytuacje zostały zaczerpnięte z życia. Program ma charakter prewencyjny.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814031000 +0200" stop="20220814041000 +0200" channel="TVP 3">
+    <title lang="pl">Cud na Nowolipkach</title>
+    <desc lang="pl">Obraz opowiada o niewytłumaczalnych zjawiskach, które zaobserwowano w kościele św. Augustyna na warszawskim Muranowie 7 października 1959 roku. Wiele osób widziało dziwne, intensywne światło i postać Maryi na wieży świątyni. Cud powtarzał się przez trzy tygodnie, przyciągając w to miejsce setki tysięcy ludzi z całego kraju. Historykowi Witoldowi Dąbrowskiemu udało się w IPN dotrzeć do mikrofilmów z raportami Służby Bezpieczeństwa, która przechwytywała korespondencję świadków opisujących zdarzenie. Z dokumentów wynika, że komunistyczne władze starały się za wszelką cenę doprowadzić do zatrzymania zjawiska i zniechęcić wiernych do przybywania pod kościół na Nowolipkach. W sumie aresztowano 766 osób. W filmie wypowiada się profesor Jacek Leociak, który przedstawia historię Muranowa i gehenny getta warszawskiego.</desc>
+    <credits>
+      <director>Michał Góral</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pl">film dokumentalny</category>
+  </programme>
+  <programme start="20220814041000 +0200" stop="20220814042500 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814042500 +0200" stop="20220814044000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814044000 +0200" stop="20220814044500 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814044500 +0200" stop="20220814050500 +0200" channel="TVP 3">
+    <title lang="pl">Spotkania w świecie ciszy</title>
+    <desc lang="pl">Program, w którym głusi mówią o sobie, swojej rodzinie i pracy. Opowiadają także o pasjach i sporcie, ale także o barierach, które utrudniają im funkcjonowanie. Magazyn nadawany w języku migowym.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814050500 +0200" stop="20220814052000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Powrót na scenę życia</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220814052000 +0200" stop="20220814054500 +0200" channel="TVP 3">
+    <title lang="pl">Starszaki</title>
+    <desc lang="pl">W programie poznamy fantastycznych ludzi, zobaczymy interesujące miejsca, a także rzeczy, które zachęcą nas do wyjścia z domu. W cotygodniowych spotkaniach udzielamy przydatnych porad.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814054500 +0200" stop="20220814055500 +0200" channel="TVP 3">
+    <title lang="pl">Szlakiem miejsc niezwykłych: Pomniki historii</title>
+    <sub-title lang="pl">Zamość</sub-title>
+    <desc lang="pl">Przegląd miejsc wpisanych w rejestr pomników historii. Terminem tym określa się zabytek nieruchomy o szczególnym znaczeniu dla kultury Polski. Jest on ustanawiany przez Prezydenta RP.</desc>
+    <date>2016</date>
+    <category lang="pl">cykl reportaży</category>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20220814055500 +0200" stop="20220814060000 +0200" channel="TVP 3">
+    <title lang="pl">Zakończenie programu</title>
+  </programme>
+  <programme start="20220814060000 +0200" stop="20220814063000 +0200" channel="TVP 3">
+    <title lang="pl">Pożyteczni.pl</title>
+    <desc lang="pl">Magazyn prezentujący działalność organizacji pożytku publicznego i różne formy aktywności obywatelskiej. Prowadzi Marta Kielczyk.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814063000 +0200" stop="20220814071000 +0200" channel="TVP 3">
+    <title lang="pl">Radio Romans</title>
+    <sub-title lang="pl">Trefny temat</sub-title>
+    <desc lang="pl">Kazimierz dochodzi do siebie po zawale i zostaje wypisane ze szpitala. Andrzej nie potrafi porozumieć się z córką. Piotr spotyka policjanta, który brał udział w reportażu Stefana. Funkcjonariusz wypiera się wszystkiego, co powiedział przed kamerami. Dzięki interwencji Piotra materiał zostaje zdjęty z anteny w ostatniej chwili. Andrzej odprowadza Kasię do szkoły. Po dwóch godzinach odbiera telefon od opiekunów córki. Okazuje się, że dziewczynka wyszła z klasy w czasie przerwy i już nie wróciła na lekcje.</desc>
+    <credits>
+      <director>Ireneusz Engler</director>
+      <actor>poeta Antoni Wereszczaka, dziennikarz radia Romans - Mirosław Baka</actor>
+      <actor>Kazimierz Chocholak, właściciel restauracji Romantica, ojciec Stefana; wystąpił w odcinkach 1-7, 11-12, 18-19, 21-22, 24-26, 29-30, 32 - Jerzy Łapiński</actor>
+      <actor>Stefan Chocholak, dziennikarz radia Romans - Tomasz Bednarek</actor>
+      <actor>Piotr Dyląg, dziennikarz radia Romans - Jan Jankowski</actor>
+      <actor>aktorka Łucja Maj, matka Dominiki - Ewa Kasprzyk</actor>
+      <actor>Wanda Kreft - Dorota Kolak</actor>
+      <actor>Andrzej Kreft, prezes radia Romans, mąż Wandy - Krzysztof Stelmaszyk</actor>
+      <actor>Dominika Wojciechowska - Małgorzata Foremniak</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="pl">serial obyczajowy</category>
+    <episode-num system="onscreen">E18/32</episode-num>
+  </programme>
+  <programme start="20220814071000 +0200" stop="20220814073000 +0200" channel="TVP 3">
+    <title lang="pl">Szukamy w archiwach</title>
+    <desc lang="pl">Zbiory zgromadzone w zasobach archiwum, na które składają się m.in. zdjęcia, ryciny, listy, pamiętniki, wycinki z gazet, archiwa szkolne czy świadectwa doskonale obrazują dawne życie.</desc>
+    <category lang="pl">program historyczny</category>
+  </programme>
+  <programme start="20220814073000 +0200" stop="20220814080000 +0200" channel="TVP 3">
+    <title lang="pl">Moja praca</title>
+    <desc lang="pl">Cykliczny magazyn misyjny, którego twórcy prezentują działania i stanowiska związków zawodowych oraz organizacji pracodawców.</desc>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814080000 +0200" stop="20220814081500 +0200" channel="TVP 3">
+    <title lang="pl">Turystyczna jazda</title>
+    <desc lang="pl">Twórcy programu prezentują ciekawe miejsca w Polsce i za granicą. W każdym odcinku udają się do atrakcyjnej turystycznie miejscowości, poznają lokalne zwyczaje i smakują regionalnej kuchni.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814081500 +0200" stop="20220814083000 +0200" channel="TVP 3">
+    <title lang="pl">Nasze najpyszniejsze</title>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220814083000 +0200" stop="20220814084500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Cudownie ocalona</sub-title>
+    <desc lang="pl">31 grudnia 2020 roku pani Teresa z Olszowic straciła w pożarze dorobek swojego życia. Mogła jednak liczyć na pomoc sąsiadów i ludzi dobrej woli. W zaledwie dwa miesiące jej dom został odbudowany. W pracowni konserwatorskiej Andrzeja Rozkocha została zaś zrekonstruowana figurka Matki Boskiej - jedyny przedmiot, który ocalał w pożarze. Sąsiedzi pani Teresy uważają, że to cud. Obok figurki umieścili kapsułę czasu, w której znajdują się zdjęcia dokumentujące proces odbudowy domu, a także list do potomnych.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220814084500 +0200" stop="20220814090000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Nineczka Kropeczka i przyjaciele</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220814090000 +0200" stop="20220814092500 +0200" channel="TVP 3">
+    <title lang="pl">Welcome to Poland</title>
+    <desc lang="pl">Twórcy programu prezentują pandemiczne realia naszego kraju. Reporterzy pokazują także odległe zakątki Polski. Nie zabraknie też opowieści o cudzoziemcach, dla których nasz kraj stał się drugim domem.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814092500 +0200" stop="20220814100000 +0200" channel="TVP 3">
+    <title lang="pl">Lato na RODOS</title>
+    <desc lang="pl">Kulisy życia bywalców rodzinnych ogródkach działkowych. Widzowie poznają kilka familii działkowców z różnych zakątków Polski. Kamery rejestrują ich rozmowy, spotkania i codzienne aktywności.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+  </programme>
+  <programme start="20220814100000 +0200" stop="20220814120500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220814120500 +0200" stop="20220814123000 +0200" channel="TVP 3">
+    <title lang="pl">Antenowe remanenty</title>
+    <sub-title lang="pl">Bieszczady - Ustrzyki Dolne</sub-title>
+    <desc lang="pl">Cykl reportaży, które na stałe zapisały się na kartach polskiej dokumentalistyki. Odnalezione po latach w archiwach oddziałów terenowych TVP wciąż zachwycają artystycznym kunsztem.</desc>
+  </programme>
+  <programme start="20220814123000 +0200" stop="20220814124500 +0200" channel="TVP 3">
+    <title lang="pl">Rozmowy bardzo kulturalne</title>
+    <desc lang="pl">Danuta Holecka rozmawia z twórcami kultury. Goście opowiadają o swoich życiowych dokonaniach, pasjach czy rodzinach. W studiu pojawiają się osoby ze świata kultury, a także spoza jej kręgu.</desc>
+    <category lang="pl">magazyn kulturalny</category>
+  </programme>
+  <programme start="20220814124500 +0200" stop="20220814130000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814130000 +0200" stop="20220814140000 +0200" channel="TVP 3">
+    <title lang="pl">Piosenka dla Ciebie</title>
+    <desc lang="pl">Magazyn muzyczny w którym para prowadzących odczytuje życzenia nadesłane przez widzów. Po nich zostaje emitowany teledysk piosenki dołączony do wiadomości. Program prowadzą dwie pary.</desc>
+    <category lang="pl">koncert życzeń</category>
+  </programme>
+  <programme start="20220814140000 +0200" stop="20220814143000 +0200" channel="TVP 3">
+    <title lang="pl">Rączka gotuje</title>
+    <desc lang="pl">Kucharz Remigiusz Rączka w śląskiej gwarze zaprasza do wspólnego gotowania. Każdy odcinek realizowany jest w innym ciekawym miejscu.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220814143000 +0200" stop="20220814144500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220814144500 +0200" stop="20220814150000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814150000 +0200" stop="20220814152000 +0200" channel="TVP 3">
+    <title lang="pl">Koronka do Miłosierdzia Bożego</title>
+    <desc lang="pl">Wspólna modlitwa różańcowa widzów TV Republika.</desc>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220814152000 +0200" stop="20220814160000 +0200" channel="TVP 3">
+    <title lang="pl">Kościół z bliska</title>
+    <desc lang="pl">Przegląd aktualnych wydarzeń z życia Kościoła. Twórcy programu m.in. szukają odpowiedzi na pytanie, czy nauki głoszone przez Watykan są przyjmowane i praktykowane przez wyznawców.</desc>
+    <date>2012</date>
+    <category lang="pl">magazyn religijny</category>
+  </programme>
+  <programme start="20220814160000 +0200" stop="20220814163000 +0200" channel="TVP 3">
+    <title lang="pl">Cafe piosenka</title>
+    <sub-title lang="pl">Anna Hamela</sub-title>
+    <desc lang="pl">Ryszard Makowski rozmawia z gośćmi ze świata artystycznego, piosenkarzami, śpiewającymi aktorami i muzykami. Prezentuje też ich utwory.</desc>
+    <date>2019</date>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E183</episode-num>
+  </programme>
+  <programme start="20220814163000 +0200" stop="20220814164500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220814164500 +0200" stop="20220814165000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814165000 +0200" stop="20220814170000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814170000 +0200" stop="20220814173000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220814173000 +0200" stop="20220814174500 +0200" channel="TVP 3">
+    <title lang="pl">Wyprodukowano w Polsce</title>
+    <desc lang="pl">Program przybliża wynalezione przez Polaków przedmioty, które zmieniły losy świata. W programie zostaną one zestawione tematycznie ze współczesnymi pomysłami i innowacyjnymi rozwiązaniami.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20220814174500 +0200" stop="20220814180000 +0200" channel="TVP 3">
+    <title lang="pl">Inwestujemy w Polskę</title>
+    <desc lang="pl">W programie podróże po często niedocenianych zakątkach kraju. Poprzez ich pryzmat twórcy pokażą zachodzące w Polsce zmiany i rozbudowę infrastruktury w ramach Programu Inwestycji Strategicznych.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814180000 +0200" stop="20220814203000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220814203000 +0200" stop="20220814212500 +0200" channel="TVP 3">
+    <title lang="pl">6. Biesiada Cygańsko-Słowiańska</title>
+    <date>2022</date>
+    <category lang="pl">koncert</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220814212500 +0200" stop="20220814212600 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów - zapowiedź</title>
+    <desc lang="pl">Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia ze wszystkich regionów Polski.</desc>
+    <date>2022</date>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220814212600 +0200" stop="20220814214500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220814214500 +0200" stop="20220814220000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814220000 +0200" stop="20220814221000 +0200" channel="TVP 3">
+    <title lang="pl">Studio LOTTO</title>
+    <desc lang="pl">Losowanie numerów gier i zakładów Totalizatora Sportowego. Prowadzący prezentują ich wyniki i przypominają zasady udziału w loterii.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814221000 +0200" stop="20220814222000 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220814222000 +0200" stop="20220814223000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220814223000 +0200" stop="20220814230000 +0200" channel="TVP 3">
+    <title lang="pl">Mroczne dzielnice</title>
+    <desc lang="pl">Widzowie poznają miejskie legendy i miejsca, do których nikt nie zapuszcza się dobrowolnie. Każdy przechodzień ogląda się tam przez ramię. Twórcy odkryją tajemnice mieszkańców takich okolic.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+  </programme>
+  <programme start="20220814230000 +0200" stop="20220814232500 +0200" channel="TVP 3">
+    <title lang="pl">Regionalny magazyn sportowy - niedziela</title>
+    <desc lang="pl">Najciekawsze wydarzenia sportowe w regionach. Od zmagań amatorów różnych dyscyplin po osiągnięcia zawodowców. Nie zabraknie również zapowiedzi ważnych wydarzeń oraz podsumowania wyników rozgrywek.</desc>
+    <category lang="pl">magazyn sportowy</category>
+  </programme>
+  <programme start="20220814232500 +0200" stop="20220815002500 +0200" channel="TVP 3">
+    <title lang="pl">Piosenka dla Ciebie</title>
+    <desc lang="pl">Magazyn muzyczny w którym para prowadzących odczytuje życzenia nadesłane przez widzów. Po nich zostaje emitowany teledysk piosenki dołączony do wiadomości. Program prowadzą dwie pary.</desc>
+    <category lang="pl">koncert życzeń</category>
+  </programme>
+  <programme start="20220815002500 +0200" stop="20220815005500 +0200" channel="TVP 3">
+    <title lang="pl">Rola życia</title>
+    <sub-title lang="pl">Halina Łabonarska</sub-title>
+    <desc lang="pl">Celem programu jest promocja twórczości teatralnej w mediach. W Polsce działa około 5 tysięcy zawodowych aktorów. Są wśród nich m.in. ludzie, którzy nie zdołali się jeszcze przebić do ekstraklasy.</desc>
+    <date>2022</date>
+    <category lang="pl">magazyn kulturalny</category>
+  </programme>
+  <programme start="20220815005500 +0200" stop="20220815012500 +0200" channel="TVP 3">
+    <title lang="pl">Przyroda - wędka - przygoda</title>
+    <desc lang="pl">Program prezentujący uroki wędkarskich zakątków w Polsce. Poza unikatowymi zdjęciami ukazującymi piękno przyrody, widzowie wezmą udział we wspaniałej przygodzie wraz z zaproszonymi gośćmi.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn przyrodniczy</category>
+  </programme>
+  <programme start="20220815012500 +0200" stop="20220815020000 +0200" channel="TVP 3">
+    <title lang="pl">Mroczne dzielnice</title>
+    <desc lang="pl">Widzowie poznają miejskie legendy i miejsca, do których nikt nie zapuszcza się dobrowolnie. Każdy przechodzień ogląda się tam przez ramię. Twórcy odkryją tajemnice mieszkańców takich okolic.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+  </programme>
+  <programme start="20220815020000 +0200" stop="20220815021500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Spotkać skrzata w Wodzisławiu</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815021500 +0200" stop="20220815024000 +0200" channel="TVP 3">
+    <title lang="pl">Cafe piosenka</title>
+    <sub-title lang="pl">Anna Hamela</sub-title>
+    <desc lang="pl">Ryszard Makowski rozmawia z gośćmi ze świata artystycznego, piosenkarzami, śpiewającymi aktorami i muzykami. Prezentuje też ich utwory.</desc>
+    <date>2019</date>
+    <category lang="pl">magazyn</category>
+    <episode-num system="onscreen">E183</episode-num>
+  </programme>
+  <programme start="20220815024000 +0200" stop="20220815031000 +0200" channel="TVP 3">
+    <title lang="pl">Pożyteczni.pl</title>
+    <desc lang="pl">Magazyn prezentujący działalność organizacji pożytku publicznego i różne formy aktywności obywatelskiej. Prowadzi Marta Kielczyk.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220815031000 +0200" stop="20220815042500 +0200" channel="TVP 3">
+    <title lang="pl">Przemytniczka Boża</title>
+    <desc lang="pl">Maria Mirecka-Loryś w czasie II wojny światowej należała do podziemia niepodległościowego. Potem działała na rzecz organizacji polonijnych. Losy bohaterki filmu osadzono w kontekście dziejów kraju.</desc>
+    <credits>
+      <director>Ewa Szakalicka</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">film dokumentalny</category>
+  </programme>
+  <programme start="20220815042500 +0200" stop="20220815043500 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815043500 +0200" stop="20220815044500 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815044500 +0200" stop="20220815050000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Pokój na trzy cyje</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815050000 +0200" stop="20220815052000 +0200" channel="TVP 3">
+    <title lang="pl">Moto lady</title>
+    <desc lang="pl">Ponad 40% kierowców w Polsce stanowią kobiety. Widzowie dowiedzą się, jakich aut potrzebują współczesne mistrzynie kierownicy.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn motoryzacyjny</category>
+  </programme>
+  <programme start="20220815052000 +0200" stop="20220815055000 +0200" channel="TVP 3">
+    <title lang="pl">Moja praca</title>
+    <desc lang="pl">Cykliczny magazyn misyjny, którego twórcy prezentują działania i stanowiska związków zawodowych oraz organizacji pracodawców.</desc>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220815055000 +0200" stop="20220815055500 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <sub-title lang="pl">Bułeczki bez drożdży</sub-title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220815055500 +0200" stop="20220815060000 +0200" channel="TVP 3">
+    <title lang="pl">Zakończenie programu</title>
+  </programme>
+  <programme start="20220815060000 +0200" stop="20220815061500 +0200" channel="TVP 3">
+    <title lang="pl">Na zdrowie. Poradnik medyczny TVP 3</title>
+    <desc lang="pl">Program poświęcony zagadnieniom medycznym związanym z szeroko pojętą profilaktyką i poradnictwem. Prowadząca Danuta Holecka wraz z gośćmi odpowiada na sformułowane wcześniej pytania.</desc>
+    <category lang="pl">magazyn medyczny</category>
+  </programme>
+  <programme start="20220815061500 +0200" stop="20220815062000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815062000 +0200" stop="20220815063000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815063000 +0200" stop="20220815064500 +0200" channel="TVP 3">
+    <title lang="pl">Agrobiznes</title>
+    <desc lang="pl">Program adresowany do rolników: praktyczne rady dotyczące hodowli zwierząt oraz użyteczne informacje na temat uprawy różnych gatunków roślin. Także aktualności z branży rolno- spożywczej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220815064500 +0200" stop="20220815064700 +0200" channel="TVP 3">
+    <title lang="pl">Agropogoda</title>
+    <desc lang="pl">Prognoza pogody dla rolników, sadowników oraz producentów warzyw i kwiatów. W programie są także zawarte informacje dla alergików.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815064700 +0200" stop="20220815070000 +0200" channel="TVP 3">
+    <title lang="pl">Magazyn rolniczy</title>
+    <desc lang="pl">Realizatorzy prezentują kolejne etapy tworzenia produktów spożywczych, m.in. jak powstają sery, wędliny, przetwory. Także o różnicach w produkcji żywności konwencjonalnej i ekologicznej.</desc>
+    <category lang="pl">magazyn rolniczy</category>
+  </programme>
+  <programme start="20220815070000 +0200" stop="20220815071000 +0200" channel="TVP 3">
+    <title lang="pl">Agrorozmowa</title>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220815071000 +0200" stop="20220815073000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815073000 +0200" stop="20220815074500 +0200" channel="TVP 3">
+    <title lang="pl">Info Wilno</title>
+    <desc lang="pl">Podsumowanie najważniejszych i najciekawszych wydarzeń dnia związanych z życiem Polaków na Litwie.</desc>
+    <category lang="pl">program informacyjny</category>
+    <episode-num system="onscreen">E733</episode-num>
+  </programme>
+  <programme start="20220815074500 +0200" stop="20220815080000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815080000 +0200" stop="20220815100500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220815100500 +0200" stop="20220815103500 +0200" channel="TVP 3">
+    <title lang="pl">Reportaż z regionu</title>
+    <sub-title lang="pl">Przewodniczka w drodze</sub-title>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815103500 +0200" stop="20220815105500 +0200" channel="TVP 3">
+    <title lang="pl">Na zdrowie. Poradnik medyczny TVP 3</title>
+    <desc lang="pl">Program poświęcony zagadnieniom medycznym związanym z szeroko pojętą profilaktyką i poradnictwem. Prowadząca Danuta Holecka wraz z gośćmi odpowiada na sformułowane wcześniej pytania.</desc>
+    <category lang="pl">magazyn medyczny</category>
+  </programme>
+  <programme start="20220815105500 +0200" stop="20220815111500 +0200" channel="TVP 3">
+    <title lang="pl">Rok w ogrodzie</title>
+    <desc lang="pl">Program poradnikowy przeznaczony dla wszystkich miłośników uprawy roślin i ogrodnictwa.</desc>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220815111500 +0200" stop="20220815114500 +0200" channel="TVP 3">
+    <title lang="pl">Rączka gotuje</title>
+    <desc lang="pl">Kucharz Remigiusz Rączka w śląskiej gwarze zaprasza do wspólnego gotowania. Każdy odcinek realizowany jest w innym ciekawym miejscu.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220815114500 +0200" stop="20220815121500 +0200" channel="TVP 3">
+    <title lang="pl">Bazary i bazarki</title>
+    <desc lang="pl">Troje ekspertów w swojej dziedzinie będzie eksplorować bazary w poszukiwaniu inspiracji. W każdym tygodniu zostaną odkryte losy jednego bohatera związanego z modą, kuchnią i starociami.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220815121500 +0200" stop="20220815123000 +0200" channel="TVP 3">
+    <title lang="pl">Godki fest ucieszne</title>
+    <desc lang="pl">Marek Szołtysek opowiada w gwarze śląskiej interesujące historie, legendy, czasem bajki, związane z kulturą Górnego Śląska.</desc>
+    <date>2019</date>
+    <category lang="pl">cykl felietonów</category>
+  </programme>
+  <programme start="20220815123000 +0200" stop="20220815124500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Kryptolog</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815124500 +0200" stop="20220815125500 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815125500 +0200" stop="20220815131000 +0200" channel="TVP 3">
+    <title lang="pl">Reportaż z regionu</title>
+    <sub-title lang="pl">Święte bukiety</sub-title>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815131000 +0200" stop="20220815131500 +0200" channel="TVP 3">
+    <title lang="pl">Muzealne opowieści</title>
+    <desc lang="pl">Krótka opowieść o postaci, fakcie, miejscu lub eksponacie historycznym.</desc>
+    <credits>
+      <director>Dagmara Merecik</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">cykl felietonów</category>
+    <episode-num system="onscreen">E156</episode-num>
+  </programme>
+  <programme start="20220815131500 +0200" stop="20220815141000 +0200" channel="TVP 3">
+    <title lang="pl">Janosik</title>
+    <sub-title lang="pl">Trudno - miłość!</sub-title>
+    <desc lang="pl">Każdy z 13 odcinków opowiada odrębną, zamkniętą historię. Razem stanowią one opowieść o przygodach zbójnickiej kompanii, do której trafia Janosik. Serial realizowany był w zamku w Pieskowej Skale, w okolicach Ojcowa i w różnych rejonach Podkarpacia, a także w atelier w Warszawie i Pradze. W praskim studiu urządzono według projektu scenografa filmu Jana Grandysa grotę skalną, w której nagrano niektóre sceny zbójnickie. Scenariusz filmu powstał na podstawie legend o tatrzańskim zbójniku. Ponieważ - jak twierdził reżyser Jerzy Passendorfer - legendy nie należy traktować zbyt poważnie, w filmie jest dużo humoru i zabawnych scen. Nie brak widowiskowych bójek i walk.</desc>
+    <credits>
+      <director>Jerzy Passendorfer</director>
+      <actor>Janosik - Marek Perepeczko</actor>
+      <actor>Maryna - Ewa Lemańska</actor>
+      <actor>Harnaś Bardos - Czesław Jaroszyński</actor>
+      <actor>Murgrabia - Marian Kociniak</actor>
+      <actor>Hrabia Hortvath - Mieczysław Czechowicz</actor>
+      <actor>Waluś Kwiczoł - Bogusz Bilewski</actor>
+      <actor>Jędruś Pyzdra - Witold Pyrkosz</actor>
+    </credits>
+    <date>1973</date>
+    <category lang="pl">serial przygodowy</category>
+    <episode-num system="onscreen">E11/13</episode-num>
+  </programme>
+  <programme start="20220815141000 +0200" stop="20220815143000 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <sub-title lang="pl">Cuda-wianki</sub-title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815143000 +0200" stop="20220815144500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220815144500 +0200" stop="20220815150000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815150000 +0200" stop="20220815152000 +0200" channel="TVP 3">
+    <title lang="pl">Koronka do Miłosierdzia Bożego</title>
+    <desc lang="pl">Wspólna modlitwa różańcowa widzów TV Republika.</desc>
+    <category lang="pl">program religijny</category>
+  </programme>
+  <programme start="20220815152000 +0200" stop="20220815155000 +0200" channel="TVP 3">
+    <title lang="pl">Agape</title>
+    <desc lang="pl">Magazyn powstaje przy współpracy dziennikarzy oddziałów regionalnych pod opieką Redakcji Katolickiej TVP. Prezentuje on wydarzenia religijne i inicjatywy środowisk związanych z Kościołem Katolickim.</desc>
+    <date>2018</date>
+    <category lang="pl">magazyn religijny</category>
+  </programme>
+  <programme start="20220815155000 +0200" stop="20220815160000 +0200" channel="TVP 3">
+    <title lang="pl">Przepis na dziś</title>
+    <desc lang="pl">Program kulinarny, w którym dziennikarze TVP 3 i ich goście przygotowują szybkie i smaczne dania."}}.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220815160000 +0200" stop="20220815163000 +0200" channel="TVP 3">
+    <title lang="pl">Rączka gotuje</title>
+    <desc lang="pl">Kucharz Remigiusz Rączka w śląskiej gwarze zaprasza do wspólnego gotowania. Każdy odcinek realizowany jest w innym ciekawym miejscu.</desc>
+    <category lang="pl">magazyn kulinarny</category>
+  </programme>
+  <programme start="20220815163000 +0200" stop="20220815164500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220815164500 +0200" stop="20220815165000 +0200" channel="TVP 3">
+    <title lang="pl">Express regionów</title>
+    <desc lang="pl">Istotne dla całego kraju problemy z perspektywy poszczególnych regionów. Nie zabraknie zapowiedzi ważnych wydarzeń - zarówno tych w dużych miastach, jak i tych w mniejszych ośrodkach.</desc>
+    <date>2021</date>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815165000 +0200" stop="20220815170000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815170000 +0200" stop="20220815173000 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220815173000 +0200" stop="20220815180000 +0200" channel="TVP 3">
+    <title lang="pl">Reportaż z regionu</title>
+    <sub-title lang="pl">Przewodniczka w drodze</sub-title>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
+  <programme start="20220815180000 +0200" stop="20220815203500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220815203500 +0200" stop="20220815212500 +0200" channel="TVP 3">
+    <title lang="pl">Tajemnice</title>
+    <desc lang="pl">Katia mieszka z ojcem w miasteczku Stanov. Przeprowadza się tam Mykoła. Przyjaźń tych dwojga młodych ludzi stopniowo przeradza się w miłość. Niespodziewana tragedia odmienia ich los.</desc>
+    <credits>
+      <director>Ewgienij Doronin</director>
+      <actor>Kateryna (Katia) Semeniwna Hryszczuk - Anastasija Pustowit</actor>
+      <actor>Mykoła Borysowycz Biusof, śledczy - Makar Tychomyrow</actor>
+      <actor>Iwan Fedorowycz Hryszczuk, dziadek Kati - Serhij Kałantaj</actor>
+      <actor>Wiktorija Łeonidiwna Hryszczuk - Iryna Nowak</actor>
+      <actor>Łora Hryszczuk - Natalija Babenko</actor>
+      <actor>Anatolij (Tołyk) Banach - Danyło Mireszkin</actor>
+      <actor>Borys Smirnow - Kostiantyn Danyluk</actor>
+      <actor>Zina - Łesia Samajewa</actor>
+      <actor>Hryhorij Wasylowycz Wyszniak - Kostiantyn Kostyszyn</actor>
+      <actor>Asia - Ołesia Hołub</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pl">serial kryminalny</category>
+    <episode-num system="onscreen">E33</episode-num>
+  </programme>
+  <programme start="20220815212500 +0200" stop="20220815212600 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów - zapowiedź</title>
+    <desc lang="pl">Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia ze wszystkich regionów Polski.</desc>
+    <date>2022</date>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220815212600 +0200" stop="20220815214500 +0200" channel="TVP 3">
+    <title lang="pl">Program lokalny</title>
+  </programme>
+  <programme start="20220815214500 +0200" stop="20220815221000 +0200" channel="TVP 3">
+    <title lang="pl">Dziennik regionów</title>
+    <desc lang="pl">Reporterskie omówienie najważniejszych wydarzeń minionego dnia z poszczególnych regionów kraju.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815221000 +0200" stop="20220815222000 +0200" channel="TVP 3">
+    <title lang="pl">Kryminalna siódemka</title>
+    <desc lang="pl">W programie prezentowanych jest siedem najgłośniejszych spraw kryminalnych, które wstrząsnęły całą Polską. Widzowie zobaczą brawurowe akcje policji, zagadkowe procesy oraz widowiskowe pościgi.</desc>
+    <credits>
+      <director>Piotr Stefaniak</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">magazyn</category>
+  </programme>
+  <programme start="20220815222000 +0200" stop="20220815223000 +0200" channel="TVP 3">
+    <title lang="pl">Pogoda</title>
+    <desc lang="pl">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.</desc>
+    <category lang="pl">program informacyjny</category>
+  </programme>
+  <programme start="20220815223000 +0200" stop="20220815230000 +0200" channel="TVP 3">
+    <title lang="pl">Tajemnice jasnogórskiego wizerunku</title>
+    <desc lang="pl">Sprawozdanie z przygotowań i przeprowadzenia zabiegów konserwacyjnych obrazu Matki Bożej Częstochowskiej. Wielu katolików wierzy, że jest on źródłem łask i cudów. Za najważniejsze wydarzenia w dziejach kultu tego dzieła uchodzą śluby króla Jana II Kazimierza w 1656 roku i Jasnogórskie Śluby Narodu w roku 1956, przygotowane przez prymasa Stefana Wyszyńskiego. Sanktuarium Matki Bożej Częstochowskiej na Jasnej Górze stało się celem pielgrzymek z całej Polski, a od 1430 roku także z państw ościennych. O dziejach obrazu opowiadają paulin ojciec Melchior Królik i konserwator profesor Wojciech Kurpik.</desc>
+    <credits>
+      <director>Zdzisław Sowiński</director>
+    </credits>
+    <date>2005</date>
+    <category lang="pl">reportaż</category>
+  </programme>
+  <programme start="20220815230000 +0200" stop="20220815232500 +0200" channel="TVP 3">
+    <title lang="pl">Echa dnia</title>
+    <desc lang="pl">W studiu goszczą politycy, urzędnicy państwowi i działacze samorządowi. Dyskutują oni na temat bieżących wydarzeń.</desc>
+    <category lang="pl">program publicystyczny</category>
+  </programme>
+  <programme start="20220815232500 +0200" stop="20220815235000 +0200" channel="TVP 3">
+    <title lang="pl">Warszawa 1920. Portret zagrożonego miasta</title>
+    <desc lang="pl">W sierpniu 1920 roku front wojny polsko-bolszewickiej dotarł do Warszawy. Mieszkańcy wsparli Wojsko Polskie, zgłaszając się na ochotników do walki. Dokumentaliści przypominają tamte wydarzenia.</desc>
+    <credits>
+      <director>Elżbieta Szumiec-Zielińska</director>
+      <director>Leszek Wasiuta</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pl">film dokumentalny</category>
+  </programme>
+  <programme start="20220815235000 +0200" stop="20220816000500 +0200" channel="TVP 3">
+    <title lang="pl">Całkiem niezła historia</title>
+    <desc lang="pl">Cykl reporterski przedstawiający z pozoru zwyczajne życie mieszkających na uboczu społeczności.</desc>
+    <date>2020</date>
+    <category lang="pl">cykl reportaży</category>
+  </programme>
 </tv>
-=======
-
->>>>>>> 78f1362cf4f0ddeb9b3d551cdf62ce4c657a77d5
