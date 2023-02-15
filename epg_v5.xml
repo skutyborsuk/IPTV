@@ -1,80 +1,80 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.5.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TVP HD">
-    <display-name lang="pl">|PL| TVP HD</display-name>
+    <display-name lang="pl">TVP HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="TVP 1">
-    <display-name lang="pl">|PL| TVP 1 HD</display-name>
+    <display-name lang="pl">TVP 1 HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="TVP 2">
-    <display-name lang="pl">|PL| TVP 2 HD</display-name>
+    <display-name lang="pl">TVP 2 HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="TVP 3">
-    <display-name lang="pl">|PL| TVP 3</display-name>
+    <display-name lang="pl">TVP 3</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="TVP Seriale">
-    <display-name lang="pl">|PL| TVP SERIALE</display-name>
+    <display-name lang="pl">TVP SERIALE</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="TV Trwam">
-    <display-name lang="pl">|PL|  TV TRWAM</display-name>
+    <display-name lang="pl">TV TRWAM</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="TV 4 HD">
-    <display-name lang="pl">|PL| TV4 HD</display-name>
+    <display-name lang="pl">TV4 HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="TV 6 HD">
-    <display-name lang="pl">|PL| TV6</display-name>
+    <display-name lang="pl">TV6</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="iTVN">
-    <display-name lang="pl">|PL| ITVN</display-name>
+    <display-name lang="pl">ITVN</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="POLSAT HD">
-    <display-name lang="pl">|PL| POLSAT HD</display-name>
+    <display-name lang="pl">POLSAT HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="POLSAT 2 HD">
-    <display-name lang="pl">|PL| POLSAT 2 HD</display-name>
+    <display-name lang="pl">POLSAT 2 HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="POLSAT Film HD">
-    <display-name lang="pl">|PL| POLSAT FILM HD</display-name>
+    <display-name lang="pl">POLSAT FILM HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="Polsat Seriale">
-    <display-name lang="pl">|PL| POLSAT SERIALE</display-name>
+    <display-name lang="pl">POLSAT SERIALE</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="POLSAT Play HD">
-    <display-name lang="pl">|PL| POLSAT PLAY HD</display-name>
+    <display-name lang="pl">POLSAT PLAY HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="POLSAT Café HD">
-    <display-name lang="pl">|PL| POLSAT CAFE HD</display-name>
+    <display-name lang="pl">POLSAT CAFE HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="POLSAT Rodzina">
-    <display-name lang="pl">|PL| POLSAT RODZINA</display-name>
+    <display-name lang="pl">POLSAT RODZINA</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="Super Polsat">
-    <display-name lang="pl">|PL| SUPER POLSAT</display-name>
+    <display-name lang="pl">SUPER POLSAT</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <channel id="Antena">
-    <display-name lang="pl">|PL| ANTENA SD</display-name>
+    <display-name lang="pl">ANTENA SD</display-name>
     <icon src="http://ocdn.eu/ptv2-images-transforms/1/PJrkrtsb2dvLW1pZ3JhdGVkL2FudGVuYV9oZC5wbmeSlQLMZADCw5UCACjCww" />
     <url>http://www.programtv.onet.pl</url>
   </channel>
   <channel id="TVN HD">
-    <display-name lang="pl">|PL| TVN HD</display-name>
+    <display-name lang="pl">TVN HD</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
   <programme start="20230215052500 +0100" stop="20230215060000 +0100" channel="TVP HD">
