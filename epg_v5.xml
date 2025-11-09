@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TVP Kobieta HD">
-    <display-name lang="pl">TVP Kobieta HD</display-name>
+    <display-name lang="pl">[PL] TVP Kobieta HD</display-name>
     <icon src="https://wpcdn.pl/ptv-stage/logo/dark/128/731.png" />
     <url>http://www.tv.wp.pl</url>
   </channel>
