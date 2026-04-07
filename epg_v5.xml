@@ -877,903 +877,6 @@
     <display-name lang="pl">|PL| TVP 3 OLSZTYN</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
-  <programme start="20260404031000 +0200" stop="20260404040500 +0200" channel="Antena">
-    <title lang="pl">Polska. Największe tajemnice</title>
-    <desc lang="pl">Kwestie nurtujące całą Polskę, jak los kolejnych noworodków brutalnie zabijanych przez ich matkę w Czerniejowie. Spekulacje na temat lokalizacji Bursztynowej Komnaty oraz tajemnicze lokalizacje, i zabójstwo ks. Popiełuszki.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/hhOkq9ha3BhNjU0NDk4OC5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404040500 +0200" stop="20260404050500 +0200" channel="Antena">
-    <title lang="pl">Polska. Największe tajemnice</title>
-    <desc lang="pl">Zagadka transportu busem ośmiu milionów złotych w czasie tzw. skoku stulecia, nazistowskie konotacje z magazynami w Bornym Sulinowie, komórki mięśnia sercowego znalezione w hostii i dwa tajemnicze zaginięcia - studentów w lesie w Witkowicach i rodziny Bogdańskich.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/hhOkq9ha3BhNjU0NDk4OC5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404050500 +0200" stop="20260404053500 +0200" channel="Antena">
-    <title lang="pl">Zakręcone stworzonka z internetu</title>
-    <desc lang="pl">Najśmieszniejsze nagrania ze zwierzętami w roli głównej, które zbierają miliony wyświetleń w internecie.</desc>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <rating>
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20260404053500 +0200" stop="20260404060000 +0200" channel="Antena">
-    <title lang="pl">Zakręcone stworzonka z internetu</title>
-    <desc lang="pl">Najśmieszniejsze nagrania ze zwierzętami w roli głównej, które zbierają miliony wyświetleń w internecie.</desc>
-    <date>2022</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/rdPkq9ha3BhNTE2NjU1Ni5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <rating>
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20260404060000 +0200" stop="20260404070000 +0200" channel="Antena">
-    <title lang="pl">Legendy opery</title>
-    <sub-title lang="pl">Montserrat Caballe</sub-title>
-    <desc lang="pl">Seria przedstawiająca sylwetki i karierę największych śpiewaków operowych naszych czasów, m.in. Luciano Pavarottiego, Andrea Bocelli, Enrico Caruso, Marii Callas, Placido Domingo, Jessye Norman, Jose Carrerasa. Każdy odcinek, kręcony w Wielkiej Brytanii i we Włoszech, zawiera historyczne archiwa, najważniejsze spektakle oraz wypowiedzi artystów, krytyków i reżyserów.</desc>
-    <date>2018</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/f88kq9ha3BhNDc1MDY2MS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Wielka Brytania</country>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404070000 +0200" stop="20260404075500 +0200" channel="Antena">
-    <title lang="pl">Legendy opery</title>
-    <sub-title lang="pl">Placido Domingo</sub-title>
-    <desc lang="pl">Seria przedstawiająca sylwetki i karierę największych śpiewaków operowych naszych czasów, m.in. Luciano Pavarottiego, Andrea Bocelli, Enrico Caruso, Marii Callas, Placido Domingo, Jessye Norman, Jose Carrerasa. Każdy odcinek, kręcony w Wielkiej Brytanii i we Włoszech, zawiera historyczne archiwa, najważniejsze spektakle oraz wypowiedzi artystów, krytyków i reżyserów.</desc>
-    <date>2018</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/f88kq9ha3BhNDc1MDY2MS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Wielka Brytania</country>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404075500 +0200" stop="20260404083000 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Statek</sub-title>
-    <desc lang="pl">W każdym programie Wojciecha Cejrowskiego prezentowane są ciekawostki z różnych zakątków świata. Podróżnik chętnie uczestniczy w codziennych zajęciach mieszkańców danego regionu i różnego rodzaju lokalnych rozrywkach. Nie obawia się też próbować nawet najbardziej nieapetycznie wyglądających specjałów kulinarnych.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E90</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404083000 +0200" stop="20260404090000 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Rejs dla zuchwałych</sub-title>
-    <desc lang="pl">Statek jest najpopularniejszy środkiem transportu dla mieszkańców Amazonii, regionu zupełnie pozbawionego dróg. W czasie kilkudniowego rejsu prowadzący Wojciech Cejrowski pokazuje codzienne życie jego podróżnych.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E91</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404090000 +0200" stop="20260404093500 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Macho</sub-title>
-    <desc lang="pl">W tym odcinku prowadzący prezentuje stereotypy związane z latynoskimi mężczyznami. Podróżnik, po uprzednim upodobnieniu się do popularnego w krajach Ameryki Południowej typu macho, wyrusza na ulicę, by przyjrzeć się wyglądowi i zachowaniom przechodniów. Dzieli się również swoimi spostrzeżeniami dotyczącymi latynoskiego ideału kobiety.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E92</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404093500 +0200" stop="20260404100500 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Wanilia</sub-title>
-    <desc lang="pl">Gospodarz programu tym razem zabiera widzów na jedną z madagaskarskich plantacji wanilii. Wanilia to całoroczna roślina o biało-żółtych kwiatach, wywodząca się z z lasów tropikalnych Ameryki Południowej i Środkowej. Jej kwiaty nie pachną, a charakterystyczny zapach wydzielają po przełamaniu owoce w kształcie strączka. Wanilię na szeroką skalę wykorzystuje się w cukiernictwie jako dodatek do deserów i ciast oraz w przemyśle kosmetycznym. Podróżnik przybliża historię tej rośliny oraz osobliwości dotyczące sposobów jej uprawy. Dowiemy się m.in. dlaczego kwiaty zapyla się ręcznie oraz jak wygląda wstępna obróbka tej jednej z najdroższych przypraw świata.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E66</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404100500 +0200" stop="20260404104000 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Wyprawa na Madagaskar</sub-title>
-    <desc lang="pl">Kulisy powstawania odcinka poświęconego podróży na Madagaskar. Widzowie dowiedzą się, w jakich warunkach mieszkają uczestnicy wyprawy, co i gdzie jedzą oraz jakimi środkami lokomocji się poruszają. Ponadto poznamy sposoby przeprawiania się przez rzekę, zobaczą menu serwowane przez uliczne bary, a członkowie ekipy wyjaśnią, jak bierze się prysznic w podrzędnym hotelu.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E67</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404104000 +0200" stop="20260404111500 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Wenezuela - boso, ale w ostrogach</sub-title>
-    <desc lang="pl">Pierwszy z serii odcinków poświęconych wyprawie do Wenezueli. Wojciech Cejrowski zabiera widzów na llanosy, czyli południowoamerykańską sawannę. Przewodnikami podróżnika i jego ekipy filmowej zostają llaneros - wenezuelscy kowboje. Jest to doskonała okazja, by poznać życie tych twardych i zahartowanych ludzi.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E68</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404111500 +0200" stop="20260404130500 +0200" channel="Antena">
-    <title lang="pl">Tajemnice rodu Jezusa</title>
-    <desc lang="pl">Genetyk George Busby z uniwersytetu w Oksfordzie i biblista, pastor Joe Basile, badają najsłynniejsze relikwie świata, w tym całun turyński. W swojej pracy korzystają z najnowszych technologii w dziedzinie DNA.</desc>
-    <date>2017</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/3hjkq9ha3BhNDcwNzA3Ni5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404130500 +0200" stop="20260404144500 +0200" channel="Antena">
-    <title lang="pl">Tajemnica kodu Boga</title>
-    <desc lang="pl">W St. Petersburgu przechowywany jest Kodeks Leningradzki, najstarszy na świecie pełny tekst Biblii. Jest to najdokładniejsza wersja Pisma Świętego zawierająca słowa i znaki, które zagubiono w późniejszych tłumaczeniach. Timothy Smith, ekspert w dziedzinie antyków, uważa, że znalazł w jego tekście kod, który zanika w nowszych wersjach. Kodeks ten zapowiada ważne wydarzenia historyczne od powstania Hitlera po zagrożenie związane z Koreą Północną. Może nawet wskazywać lokalizację jednego z największych skarbów starożytności - Arki Przymierza.</desc>
-    <date>2018</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/XTJkq9ha3BhNDA4OTI2OS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404144500 +0200" stop="20260404165500 +0200" channel="Antena">
-    <title lang="pl">Michael Jackson: w poszukiwaniu szczęścia</title>
-    <desc lang="pl">"Michael Jackson: W poszukiwaniu szczęścia" to amerykański dramat biograficzny z 2017 roku. Reżyserem obrazu została Dianne Houston - znana przede wszystkim jako autorka scenariuszy do takich filmów, jak: "Rycerze Południowego Bronksu" (2005 r.), "Wytańczyć marzenia" (2006 r.) oraz "Bieg po marzenie: Historia Gail Devers" (1996 r.).
-Twórczyni filmu "Michael Jackson: W poszukiwaniu szczęścia" skupia się na dokładnym odwzorowaniu i przedstawieniu intymnych momentów z życia Michaela Jacksona (w tej roli Navy). Widzowie mogą prześledzić relacje króla popu ze swoimi dziećmi, jak również przekonać się o kłopotach w sferze zawodowej, które były przyczyną prób przed organizowaną trasą koncertową "This Is It".
-W filmie "Michael Jackson: W poszukiwaniu szczęścia" pokazano zarówno chwile szczęścia, jak i trudy życia króla popu. Bohater miał przed sobą bardzo wiele planów, których niestety nie udało mu się zrealizować. Michael Jackson zmarł 25 czerwca 2009 roku w wynajmowanej rezydencji w Los Angeles. Pozostawił po sobie miliony pogrążonych w żałobie fanów na całym świecie. Właściwie od razu jego śmierć zaczęto porównywać z odejściem Elvisa Presleya, które miało miejsce w 1977 roku.</desc>
-    <credits>
-      <actor>Chad L. Coleman</actor>
-      <actor>Navi</actor>
-      <actor>Sam Adegoke</actor>
-      <actor>Nondumiso Tembe</actor>
-      <actor>Starletta DuPois</actor>
-      <actor>Richard Lawson</actor>
-      <actor>Aidan Hanlon Smith</actor>
-      <actor>Taegen Burns</actor>
-      <actor>Michael Mourra</actor>
-      <actor>Holly Robinson Peete</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pl">Dramat Biograficzny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/p3ckq9ha3BhNjY4MzI0Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>2.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260404165500 +0200" stop="20260404180000 +0200" channel="Antena">
-    <title lang="pl">Gdzie tu coś zjeść?</title>
-    <sub-title lang="pl">Września</sub-title>
-    <desc lang="pl">Agnieszka i Ewa odwiedzają Wrześnię, gdzie na rynku testują królewskie śniadanie. Sprawdzają też, czy burger może zaskoczyć nieoczywistą formą i smakiem. Na koniec próbują ustalić, czy miasto rzeczywiście zasługuje na miano stolicy pyry.</desc>
-    <date>2026</date>
-    <category lang="pl">Magazyn</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404180000 +0200" stop="20260404190000 +0200" channel="Antena">
-    <title lang="pl">Polska. Największe tajemnice</title>
-    <desc lang="pl">Kwestie nurtujące całą Polskę, jak los kolejnych noworodków brutalnie zabijanych przez ich matkę w Czerniejowie. Spekulacje na temat lokalizacji Bursztynowej Komnaty oraz tajemnicze lokalizacje, i zabójstwo ks. Popiełuszki.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/hhOkq9ha3BhNjU0NDk4OC5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404190000 +0200" stop="20260404195800 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Przypadki jak się wzbogacić</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S5 E23</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404195800 +0200" stop="20260404200000 +0200" channel="Antena">
-    <title lang="pl">Czas na pogodę</title>
-    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
-    <category lang="pl">Program Informacyjny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260404200000 +0200" stop="20260404221000 +0200" channel="Antena">
-    <title lang="pl">Morderstwa we Francji - Archipelag Friaul</title>
-    <desc lang="pl">Szanowany redaktor z Marsylii, Adrien Grenna, organizuje wydarzenie poświęcone Aleksandrowi Dumasowi. Główną atrakcją spotkania jest spektakl na podstawie sztuki "Hrabia Monte Christo". W połowie przedstawienia na scenie zostają znalezione zwłoki organizatora przyjęcia. Sprawą zajmuje się przebywający na służbie młody policjant, Victor Mariani (Jeremy Banster). Śledztwo nadzorować ma jego ojciec, emerytowany komisarz Pierre (Francis Huster), który w przeszłości służył w wojsku u boku Adriena. Śledczy był obecny na przyjęciu w momencie popełnienia zbrodni. Wraz z synem rozpoczyna dochodzenie w sprawie śmierci przyjaciela sprzed lat.</desc>
-    <credits>
-      <actor>Francis Huster</actor>
-      <actor>Jeremy Banster</actor>
-      <actor>Myra Bitout</actor>
-      <actor>Nathalie Roussel</actor>
-      <actor>Diane Robert</actor>
-      <actor>Avy Marciano</actor>
-      <actor>Anais Fabre</actor>
-      <actor>Moussa Maaskri</actor>
-      <actor>Yasin Houicha</actor>
-      <actor>Marie Daguerre</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="pl">Film Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260404221000 +0200" stop="20260405000000 +0200" channel="Antena">
-    <title lang="pl">Zaginiona żona</title>
-    <desc lang="pl">Amerykański telewizyjny dramat biograficzny "Zaginiona żona" opowiada prawdziwą historię członka nowojorskiej dynastii milionerów, którego żona Kathie w 1982 roku zniknęła w tajemniczych okolicznościach. Scenariusz produkcji oparto na książce dziennikarza Matta Birkbecka, wielokrotnie aktualizowanej z powodu wychodzących na jaw kolejnych szokujących faktów w sprawie Roberta Dursta. Reżyserem filmu "Zaginiona żona" jest nominowany do nagrody Emmy za western "Pochowaj me serce w Wounded Knee" Yves Simoneau. W głównych rolach możemy oglądać Katharine McPhee i Daniela Gilliesa. 
-Bohaterka obrazu "Zaginiona żona". młoda i otwarta na świat Kathie, zakochuje się w uroczym, ale nieco ekscentrycznym spadkobiercy fortuny, Robercie Durście. Para bierze ślub, jednak wraz z upływem czasu ich małżeństwo przechodzi poważny kryzys, a relacje pary stają się coraz bardziej skomplikowane. Pewnego dnia Kathy znika bez śladu. Robert utrzymuje, że nie wie, co się stało, jednak jego zachowanie wzbudza coraz więcej podejrzeń.</desc>
-    <credits>
-      <actor>Katharine McPhee</actor>
-      <actor>Daniel Gillies</actor>
-      <actor>Fiona Vroom</actor>
-      <actor>Martin Donovan</actor>
-      <actor>John Glover</actor>
-      <actor>Ryan Robbins</actor>
-      <actor>Jesse Hutch</actor>
-      <actor>Ella Cannon</actor>
-      <actor>Kwesi Ameyaw</actor>
-      <actor>Michael Dickson</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pl">Dramat Biograficzny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/w-kkq9ha3BhNjU4OTU0NS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>16+</value>
-    </rating>
-    <star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260405000000 +0200" stop="20260405033500 +0200" channel="Antena">
-    <title lang="pl">C.K. Dezerterzy</title>
-    <desc lang="pl">"C.K. Dezerterzy" w reżyserii Janusza Majewskiego to zrealizowana w 1985 roku adaptacja powieści Kazimierza Sejdy, która jest jedną z najpopularniejszych komedii w historii polskiego kina. Film w sposób satyryczny przedstawia perypetie żołnierzy siłą wcielonych do austro-węgierskiej armii podczas I wojny światowej. 
-Akcja komedii "C.K. Dezerterzy" toczy się już w roku 1918. Do garnizonu na węgierskiej prowincji przybywa nowy zastępca dowódcy, sadystyczny von Nogay (Wojciech Pokora). Zamierza on przekształcić międzynarodową zbieraninę maruderów w prawdziwych żołnierzy. Surowa dyscyplina nie podoba się Polakowi Janowi Kaniowskiemu zwanemu Kanią (Marek Kondrat), który wraz z Węgrem Benedekiem (Zoltán Bezerédy) i żydowskim krawcem z Wiednia Morycem Haberem (Wiktor Zborowski) przygotowuje plan dezercji. Potrzebne w tym celu pieniądze zdobywają, szantażując klientów restauracji i domu publicznego podczas nocnych patroli. 
-Pewnej nocy Haber wykrada blankiety rozkazów wyjazdu. Jednocześnie podkłada w kancelarii ogień. Pożar niszczy dokumenty żołnierzy i wywołuje w garnizonie zamieszanie. Tytułowi "C.K. Dezerterzy" - Kania, Benedek, Haber, a także Włoch Baldini (Jacek Sas-Uhrynowski), adiutant von Nogaya, oraz Czech Chudej (Róbert Koltai) uciekają pociągiem do Koszyc, a stamtąd do Budapesztu.</desc>
-    <credits>
-      <actor>Marek Kondrat</actor>
-      <actor>Wiktor Zborowski</actor>
-      <actor>Jacek Sas-Uhrynowski</actor>
-      <actor>Róbert Koltai</actor>
-      <actor>Zoltán Bezerédy</actor>
-      <actor>Wojciech Pokora</actor>
-      <actor>Anna Gornostaj</actor>
-      <actor>Kalina Jędrusik</actor>
-      <actor>Krzysztof Kowalewski</actor>
-      <actor>Zbigniew Zapasiewicz</actor>
-    </credits>
-    <date>1985</date>
-    <category lang="pl">Komedia</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/5Fbkq9ha3BhNTU5ODcyNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska, Węgry</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260405033500 +0200" stop="20260405040500 +0200" channel="Antena">
-    <title lang="pl">Kryminał Rawicz</title>
-    <desc lang="pl">Autorzy rozmawiają z mężczyzną, który odsiaduje wyrok za zabójstwo swojej żony. Skazaniec opowiada, że zanim doszło do zbrodni, kłócił się z małżonką. Podczas tej awantury interweniowała policja. Mimo to kilka godzin później kobieta zginęła z jego rąk. Więzień opowiada, że dzień, w którym zabił swoją partnerkę, był najgorszym w jego życiu.</desc>
-    <date>2021</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/WPtkq9ha3BhNDc1ODc1Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E9</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405040500 +0200" stop="20260405044000 +0200" channel="Antena">
-    <title lang="pl">Kryminał Rawicz</title>
-    <desc lang="pl">Tym razem autorzy prezentują zakres obowiązków specjalnie wyszkolonych funkcjonariuszy więziennych. Ich zadaniem jest reagowanie w szczególnie trudnych sytuacjach, jakie zdarzają się w zakładzie karnym. Widzowie poznają również przestępcę seksualnego, który wymaga specjalnej ochrony.</desc>
-    <date>2021</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/WPtkq9ha3BhNDc1ODc1Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405044000 +0200" stop="20260405050500 +0200" channel="Antena">
-    <title lang="pl">Kryminał Rawicz</title>
-    <desc lang="pl">Autorzy zastanawiają się, w jaki sposób walczyć z więzienną nudą. Ten stan jest niebezpieczny, ponieważ może przechodzić w marazm, otępienie, a nawet prowadzić do zaburzeń psychicznych, takich jak depresja.</desc>
-    <date>2021</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/WPtkq9ha3BhNDc1ODc1Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E11</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405050500 +0200" stop="20260405054500 +0200" channel="Antena">
-    <title lang="pl">Kryminał Rawicz</title>
-    <desc lang="pl">Widzowie poznają tajemnice skazańców, odbywających karę pozbawienia wolności w rawickim zakładzie karnym. W przeszłości przebywali tu m.in. więźniowie polityczni. Obecnie do Rawicza trafiają młodociani skazańcy lub dorośli, którzy po raz pierwszy otrzymali karę więzienia. Są wśród nich przestępcy seksualni.</desc>
-    <date>2021</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/WPtkq9ha3BhNDc1ODc1Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405054500 +0200" stop="20260405060000 +0200" channel="Antena">
-    <title lang="pl">Zakręcone stworzonka z internetu</title>
-    <desc lang="pl">Najśmieszniejsze nagrania ze zwierzętami w roli głównej, które zbierają miliony wyświetleń w internecie.</desc>
-    <date>2022</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/rdPkq9ha3BhNTE2NjU1Ni5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating>
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20260405060000 +0200" stop="20260405070000 +0200" channel="Antena">
-    <title lang="pl">Legendy opery</title>
-    <sub-title lang="pl">Renee Fleming</sub-title>
-    <desc lang="pl">Seria przedstawiająca sylwetki i karierę największych śpiewaków operowych naszych czasów, m.in. Luciano Pavarottiego, Andrea Bocelli, Enrico Caruso, Marii Callas, Placido Domingo, Jessye Norman, Jose Carrerasa. Każdy odcinek, kręcony w Wielkiej Brytanii i we Włoszech, zawiera historyczne archiwa, najważniejsze spektakle oraz wypowiedzi artystów, krytyków i reżyserów.</desc>
-    <date>2018</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/f88kq9ha3BhNDc1MDY2MS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Wielka Brytania</country>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405070000 +0200" stop="20260405080000 +0200" channel="Antena">
-    <title lang="pl">Dziesięć przykazań</title>
-    <sub-title lang="pl">Prawa Boga</sub-title>
-    <desc lang="pl">Dekalog jest jednym z najważniejszych przekazów zarówno dla judaizmu, jak również dla chrześcijaństwa. Poszczególne przykazania stanowią kluczowe zasady moralne dla wiernych Bogu. Autorzy badają historyczny kontekst Dekalogu. Analizują trzy różne, pod pewnymi względami sprzeczne ze sobą, biblijne opisy Mojżesza na górze Synaj.</desc>
-    <date>2006</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/SJYkq9ha3BhNDgxMzEyMS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405080000 +0200" stop="20260405090000 +0200" channel="Antena">
-    <title lang="pl">Dziesięć przykazań</title>
-    <sub-title lang="pl">Prawa człowieka</sub-title>
-    <desc lang="pl">Dekalog jest jednym z najważniejszych przekazów zarówno dla judaizmu, jak również dla chrześcijaństwa. Poszczególne przykazania stanowią kluczowe zasady moralne dla wiernych Bogu. Autorzy badają historyczny kontekst Dekalogu. Analizują trzy różne, pod pewnymi względami sprzeczne ze sobą, biblijne opisy Mojżesza na górze Synaj.</desc>
-    <date>2006</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/SJYkq9ha3BhNDgxMzEyMS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405090000 +0200" stop="20260405100000 +0200" channel="Antena">
-    <title lang="pl">Krzysztof Ziemiec zaprasza</title>
-    <desc lang="pl">Program publicystyczny opierający się na pogłębionej, rzeczowej rozmowie poświęconej najważniejszym wydarzeniom mijającego tygodnia. W każdym odcinku prowadzący wraz z zaproszonymi gośćmi analizuje aktualne tematy ze świata polityki, spraw społecznych i gospodarki.</desc>
-    <date>2026</date>
-    <category lang="pl">Program Publicystyczny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Polska</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405100000 +0200" stop="20260405110000 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Przypadki absurdów</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/DNwkq9ha3BhNTczNzIxNy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S5 E10</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405110000 +0200" stop="20260405120000 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Przypadki naukowe</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/DNwkq9ha3BhNTczNzIxNy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S5 E20</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405120000 +0200" stop="20260405135000 +0200" channel="Antena">
-    <title lang="pl">Nostradamus: proroctwa na XXI wiek</title>
-    <desc lang="pl">Twórcy przyglądają się postaci XVI-wiecznego francuskiego proroka, którego przepowiednie do dziś budzą ogromne emocje. Analizują notatki przypisywane Nostradamusowi i zestawiają je ze współczesnymi wydarzeniami, takimi jak zamachy z 11 września 2001 roku, tsunami czy epidemia eboli. Eksperci próbują ustalić, czy trafne interpretacje to przypadek, czy może wynik niezawodnej intuicji. Współczesne metody badawcze pozwalają spojrzeć na jego wizje z nowej perspektywy i zadać pytanie, czy przyszłość rzeczywiście można przewidzieć.</desc>
-    <date>2015</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/RZlkq9ha3BhNDA4ODQ4Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260405135000 +0200" stop="20260405195800 +0200" channel="Antena">
-    <title lang="pl">Potop</title>
-    <desc lang="pl">Nakręcona ponad czterdzieści lat temu ekranizacja powieści Henryka Sienkiewicza - "Potop" - uznawana jest przez wiele osób za jeden z najlepszych polskich filmów historycznych. Rozmach realizacyjny, wybitne aktorstwo, liczne świetne sceny batalistyczne, wierne oddanie kolorytu epoki - wszystko to składa się na bardzo wysoką ocenę dzieła Jerzego Hoffmana. A na poparcie tej tezy - nominacja do Oscara w 1975 roku w kategorii najlepszy film nieanglojęzyczny.
-Akcja "Potopu" rozpoczyna się w roku 1655, gdy Rzeczpospolita zostaje zaatakowana przez wojska króla szwedzkiego Karola X Gustawa. W tym czasie młody chorąży orszański Andrzej Kmicic (Daniel Olbrychski) zaręcza się z piękną Oleńką Billewiczówną (Małgorzata Braunek). Jednocześnie mężczyzna nieopatrznie wiąże się ze współpracującym ze Szwedami Januszem Radziwiłłem (Władysław Hańcza). Z tego powodu szlachta, między innymi Jerzy Michał Wołodyjowski (Tadeusz Łomnicki) i Jan Onufry Zagłoba (Kazimierz Wichniarz), a także narzeczona uznają go za zdrajcę ojczyzny. 
-Dość szybko jednak Kmicic, główny bohater "Potopu", uświadamia sobie, że Radziwiłłom chodzi nie o dobro ojczyzny, lecz o własne interesy, w tym także objęcie polskiego tronu. Postanawia się zrehabilitować w oczach szlachty i ukochanej. Używając podstępu, podejmuje próbę porwania księcia Bogusława (Leszek Teleszyński), by zawieźć zdrajcę przed oblicze króla Jana Kazimierza i w ten sposób odkupić winy. Niestety, więzień ciężko go rani i ucieka. Na dodatek rozpowiada potem, że Kmicic ofiarował mu się uprowadzić polskiego władcę. Doszedłszy do zdrowia, młody chorąży zmienia więc nazwisko na Babinicz. Czeka go wiele ciężkich prób, zanim udowodnić wszystkim swą miłość do ojczyzny i odzyska względy pięknej Oleńki.</desc>
-    <credits>
-      <actor>Daniel Olbrychski</actor>
-      <actor>Tadeusz Łomnicki</actor>
-      <actor>Małgorzata Braunek</actor>
-      <actor>Franciszek Pieczka</actor>
-      <actor>Kazimierz Wichniarz</actor>
-      <actor>Leszek Herdegen</actor>
-      <actor>Leszek Teleszyński</actor>
-      <actor>Władysław Hańcza</actor>
-      <actor>Ryszard Filipski</actor>
-      <actor>Wiesława Mazurkiewicz</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="pl">Film Historyczny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/VPkkq9ha3BhNTY2NDk0Ny5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260405195800 +0200" stop="20260405200000 +0200" channel="Antena">
-    <title lang="pl">Czas na pogodę</title>
-    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
-    <category lang="pl">Program Informacyjny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260405200000 +0200" stop="20260405220500 +0200" channel="Antena">
-    <title lang="pl">Alex Hugo - górski detektyw</title>
-    <sub-title lang="pl">Śmierć i sielanka</sub-title>
-    <desc lang="pl">Alex Hugo, były policjant z Marsylii, ma dość chaosu wielkiego miasta i panującej w nim przemocy. Porzuca więc dotychczasowe życie i przenosi się w odludne góry, szukając ciszy oraz wewnętrznej równowagi. Zyskuje upragnioną wolność, nie potrafi jednak całkiem uciec od przeszłości. Na miejscu podejmuje pracę detektywa i zaczyna rozwiązywać skomplikowane sprawy mieszkańców regionu. Każde śledztwo zmusza go do konfrontacji z własnymi demonami i wciąż powracającym pytaniem: czy naprawdę można zacząć wszystko od nowa.</desc>
-    <credits>
-      <actor>Samuel Le Bihan</actor>
-      <actor>Mikaël Fitoussi</actor>
-      <actor>Fabien Baiardi</actor>
-      <actor>Lionnel Astier</actor>
-      <actor>Marilyne Canto</actor>
-      <actor>Caroline Baehr</actor>
-      <actor>Marc Pistolesi</actor>
-      <actor>Gilles Spadari</actor>
-      <actor>Louise Szpindel</actor>
-      <actor>Franck Adrien</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja</country>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating>
-      <value>16+</value>
-    </rating>
-    <star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260405220500 +0200" stop="20260406001000 +0200" channel="Antena">
-    <title lang="pl">Alex Hugo - górski detektyw</title>
-    <desc lang="pl">Alex Hugo, były policjant z Marsylii, ma dość chaosu wielkiego miasta i panującej w nim przemocy. Porzuca więc dotychczasowe życie i przenosi się w odludne góry, szukając ciszy oraz wewnętrznej równowagi. Zyskuje upragnioną wolność, nie potrafi jednak całkiem uciec od przeszłości. Na miejscu podejmuje pracę detektywa i zaczyna rozwiązywać skomplikowane sprawy mieszkańców regionu. Każde śledztwo zmusza go do konfrontacji z własnymi demonami i wciąż powracającym pytaniem: czy naprawdę można zacząć wszystko od nowa.</desc>
-    <credits>
-      <actor>Samuel Le Bihan</actor>
-      <actor>Mikaël Fitoussi</actor>
-      <actor>Fabien Baiardi</actor>
-      <actor>Lionnel Astier</actor>
-      <actor>Marilyne Canto</actor>
-      <actor>Caroline Baehr</actor>
-      <actor>Marc Pistolesi</actor>
-      <actor>Gilles Spadari</actor>
-      <actor>Louise Szpindel</actor>
-      <actor>Franck Adrien</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja</country>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating>
-      <value>16+</value>
-    </rating>
-    <star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260406001000 +0200" stop="20260406021000 +0200" channel="Antena">
-    <title lang="pl">Nostradamus: proroctwa na XXI wiek</title>
-    <desc lang="pl">Twórcy przyglądają się postaci XVI-wiecznego francuskiego proroka, którego przepowiednie do dziś budzą ogromne emocje. Analizują notatki przypisywane Nostradamusowi i zestawiają je ze współczesnymi wydarzeniami, takimi jak zamachy z 11 września 2001 roku, tsunami czy epidemia eboli. Eksperci próbują ustalić, czy trafne interpretacje to przypadek, czy może wynik niezawodnej intuicji. Współczesne metody badawcze pozwalają spojrzeć na jego wizje z nowej perspektywy i zadać pytanie, czy przyszłość rzeczywiście można przewidzieć.</desc>
-    <date>2015</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/RZlkq9ha3BhNDA4ODQ4Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260406021000 +0200" stop="20260406032000 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Odważni, nieskrępowani</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2023</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406032000 +0200" stop="20260406042000 +0200" channel="Antena">
-    <title lang="pl">Dziesięć przykazań</title>
-    <sub-title lang="pl">Prawa Boga</sub-title>
-    <desc lang="pl">Dekalog jest jednym z najważniejszych przekazów zarówno dla judaizmu, jak również dla chrześcijaństwa. Poszczególne przykazania stanowią kluczowe zasady moralne dla wiernych Bogu. Autorzy badają historyczny kontekst Dekalogu. Analizują trzy różne, pod pewnymi względami sprzeczne ze sobą, biblijne opisy Mojżesza na górze Synaj.</desc>
-    <date>2006</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/SJYkq9ha3BhNDgxMzEyMS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406042000 +0200" stop="20260406052500 +0200" channel="Antena">
-    <title lang="pl">Dziesięć przykazań</title>
-    <sub-title lang="pl">Prawa człowieka</sub-title>
-    <desc lang="pl">Dekalog jest jednym z najważniejszych przekazów zarówno dla judaizmu, jak również dla chrześcijaństwa. Poszczególne przykazania stanowią kluczowe zasady moralne dla wiernych Bogu. Autorzy badają historyczny kontekst Dekalogu. Analizują trzy różne, pod pewnymi względami sprzeczne ze sobą, biblijne opisy Mojżesza na górze Synaj.</desc>
-    <date>2006</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/SJYkq9ha3BhNDgxMzEyMS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406052500 +0200" stop="20260406060000 +0200" channel="Antena">
-    <title lang="pl">Zakręcone stworzonka z internetu 2</title>
-    <desc lang="pl">Najśmieszniejsze nagrania ze zwierzętami w roli głównej, które zbierają miliony wyświetleń w internecie.</desc>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Polska</country>
-    <rating>
-      <value>7+</value>
-    </rating>
-  </programme>
-  <programme start="20260406060000 +0200" stop="20260406061000 +0200" channel="Antena">
-    <title lang="pl">Hmmm...</title>
-    <desc lang="pl">Program rozbudza ciekawość i stawia pytania, które potrafią zaskoczyć. Sprawdza, dlaczego ten sam posiłek może smakować inaczej w zależności od towarzyszących mu dookoła dźwięków oraz czy kot rzeczywiście komunikuje się ruchem uszu. Zagłębia się też w historię, odsłaniając nieoczywiste fakty, jak pierwotne zastosowanie piły łańcuchowej. Nauka, kultura i przeszłość splatają się tu z humorem, tworząc pełną niespodzianek opowieść.</desc>
-    <date>2026</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406061000 +0200" stop="20260406080000 +0200" channel="Antena">
-    <title lang="pl">Tajemnice rodu Jezusa</title>
-    <desc lang="pl">Genetyk George Busby z uniwersytetu w Oksfordzie i biblista, pastor Joe Basile, badają najsłynniejsze relikwie świata, w tym całun turyński. W swojej pracy korzystają z najnowszych technologii w dziedzinie DNA.</desc>
-    <date>2017</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/3hjkq9ha3BhNDcwNzA3Ni5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406080000 +0200" stop="20260406094000 +0200" channel="Antena">
-    <title lang="pl">Tajemnica kodu Boga</title>
-    <desc lang="pl">W St. Petersburgu przechowywany jest Kodeks Leningradzki, najstarszy na świecie pełny tekst Biblii. Jest to najdokładniejsza wersja Pisma Świętego zawierająca słowa i znaki, które zagubiono w późniejszych tłumaczeniach. Timothy Smith, ekspert w dziedzinie antyków, uważa, że znalazł w jego tekście kod, który zanika w nowszych wersjach. Kodeks ten zapowiada ważne wydarzenia historyczne od powstania Hitlera po zagrożenie związane z Koreą Północną. Może nawet wskazywać lokalizację jednego z największych skarbów starożytności - Arki Przymierza.</desc>
-    <date>2018</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/XTJkq9ha3BhNDA4OTI2OS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406094000 +0200" stop="20260406113500 +0200" channel="Antena">
-    <title lang="pl">Tajemniczy Jezus</title>
-    <desc lang="pl">Biografia jednego z najsłynniejszych ludzi w dziejach wciąż zawiera luki i dyskusyjne fragmenty. Życie Chrystusa stało się inspiracją dla tysięcy autorów książek i filmów. Gdy jednak przyjrzeć się przekazom ewangelistów, okazuje się, że pominęli oni wiele informacji o losach Jezusa. Nie wiemy na przykład, co działo się z Chrystusem między 12. a 30. rokiem życia. Dokumentaliści zastanawiają się, czy mógł wtedy odbyć podróż do Brytanii. Dociekają również, jaki wpływ na Jezusa miały cuda, które czynił. Badają też hipotezy dotyczące tego, kim naprawdę była Maria Magdalena i gdzie znajduje się obecnie chusta Świętej Weroniki.</desc>
-    <date>2014</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Wielka Brytania, USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406113500 +0200" stop="20260406135000 +0200" channel="Antena">
-    <title lang="pl">Michael Jackson: w poszukiwaniu szczęścia</title>
-    <desc lang="pl">"Michael Jackson: W poszukiwaniu szczęścia" to amerykański dramat biograficzny z 2017 roku. Reżyserem obrazu została Dianne Houston - znana przede wszystkim jako autorka scenariuszy do takich filmów, jak: "Rycerze Południowego Bronksu" (2005 r.), "Wytańczyć marzenia" (2006 r.) oraz "Bieg po marzenie: Historia Gail Devers" (1996 r.).
-Twórczyni filmu "Michael Jackson: W poszukiwaniu szczęścia" skupia się na dokładnym odwzorowaniu i przedstawieniu intymnych momentów z życia Michaela Jacksona (w tej roli Navy). Widzowie mogą prześledzić relacje króla popu ze swoimi dziećmi, jak również przekonać się o kłopotach w sferze zawodowej, które były przyczyną prób przed organizowaną trasą koncertową "This Is It".
-W filmie "Michael Jackson: W poszukiwaniu szczęścia" pokazano zarówno chwile szczęścia, jak i trudy życia króla popu. Bohater miał przed sobą bardzo wiele planów, których niestety nie udało mu się zrealizować. Michael Jackson zmarł 25 czerwca 2009 roku w wynajmowanej rezydencji w Los Angeles. Pozostawił po sobie miliony pogrążonych w żałobie fanów na całym świecie. Właściwie od razu jego śmierć zaczęto porównywać z odejściem Elvisa Presleya, które miało miejsce w 1977 roku.</desc>
-    <credits>
-      <actor>Chad L. Coleman</actor>
-      <actor>Navi</actor>
-      <actor>Sam Adegoke</actor>
-      <actor>Nondumiso Tembe</actor>
-      <actor>Starletta DuPois</actor>
-      <actor>Richard Lawson</actor>
-      <actor>Aidan Hanlon Smith</actor>
-      <actor>Taegen Burns</actor>
-      <actor>Michael Mourra</actor>
-      <actor>Holly Robinson Peete</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pl">Dramat Biograficzny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/p3ckq9ha3BhNjY4MzI0Mi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>2.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260406135000 +0200" stop="20260406172000 +0200" channel="Antena">
-    <title lang="pl">C.K. Dezerterzy</title>
-    <desc lang="pl">"C.K. Dezerterzy" w reżyserii Janusza Majewskiego to zrealizowana w 1985 roku adaptacja powieści Kazimierza Sejdy, która jest jedną z najpopularniejszych komedii w historii polskiego kina. Film w sposób satyryczny przedstawia perypetie żołnierzy siłą wcielonych do austro-węgierskiej armii podczas I wojny światowej. 
-Akcja komedii "C.K. Dezerterzy" toczy się już w roku 1918. Do garnizonu na węgierskiej prowincji przybywa nowy zastępca dowódcy, sadystyczny von Nogay (Wojciech Pokora). Zamierza on przekształcić międzynarodową zbieraninę maruderów w prawdziwych żołnierzy. Surowa dyscyplina nie podoba się Polakowi Janowi Kaniowskiemu zwanemu Kanią (Marek Kondrat), który wraz z Węgrem Benedekiem (Zoltán Bezerédy) i żydowskim krawcem z Wiednia Morycem Haberem (Wiktor Zborowski) przygotowuje plan dezercji. Potrzebne w tym celu pieniądze zdobywają, szantażując klientów restauracji i domu publicznego podczas nocnych patroli. 
-Pewnej nocy Haber wykrada blankiety rozkazów wyjazdu. Jednocześnie podkłada w kancelarii ogień. Pożar niszczy dokumenty żołnierzy i wywołuje w garnizonie zamieszanie. Tytułowi "C.K. Dezerterzy" - Kania, Benedek, Haber, a także Włoch Baldini (Jacek Sas-Uhrynowski), adiutant von Nogaya, oraz Czech Chudej (Róbert Koltai) uciekają pociągiem do Koszyc, a stamtąd do Budapesztu.</desc>
-    <credits>
-      <actor>Marek Kondrat</actor>
-      <actor>Wiktor Zborowski</actor>
-      <actor>Jacek Sas-Uhrynowski</actor>
-      <actor>Róbert Koltai</actor>
-      <actor>Zoltán Bezerédy</actor>
-      <actor>Wojciech Pokora</actor>
-      <actor>Anna Gornostaj</actor>
-      <actor>Kalina Jędrusik</actor>
-      <actor>Krzysztof Kowalewski</actor>
-      <actor>Zbigniew Zapasiewicz</actor>
-    </credits>
-    <date>1985</date>
-    <category lang="pl">Komedia</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/5Fbkq9ha3BhNTU5ODcyNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska, Węgry</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260406172000 +0200" stop="20260406195800 +0200" channel="Antena">
-    <title lang="pl">Znachor</title>
-    <desc lang="pl">Film Jerzego Hoffmana "Znachor" jest ekranizacją powieści Tadeusza Dołęgi-Mostowicza. Przedstawia on losy znanego chirurga, profesora Rafała Wilczura (w tej roli Jerzy Bińczycki). Mężczyzna jest u szczytu kariery, gdy nieoczekiwanie opuszcza go ukochana żona, zabierając ze sobą córeczkę Marysię. Zrozpaczony mężczyzna upija się w obskurnym barze. Jego wypchany portfel zwraca uwagę innych klientów szynku. Rano mężczyzna budzi się za miastem z rozbitą głową i bez pieniędzy. Nie pamięta, kim jest ani gdzie mieszka.
-Piętnaście lat później postarzały bohater filmu "Znachor" pod przybranym nazwiskiem Antoniego Kosiby chodzi od wsi do wsi, szukając pracy. Pewnego dnia zatrudnia się w młynie Prokopa (Bernard Ładysz). Mężczyzna ma kalekiego syna, Wasylkę (Artur Barciś), któremu przed laty źle złożono połamane nogi. Antoniemu jest żal chłopaka, który myśli o odebraniu sobie życia, i decyduje się przeprowadzić operację jego nóg. Zabieg udaje się i Wasylko wkrótce zaczyna chodzić. Wieść o znachorze, który bezpłatnie i skutecznie leczy ludzi, szybko obiega całą okolicę.
-Tymczasem w pobliskiej miejscowości mieszka i pracuje inna ważna postać filmu "Znachor", młoda sklepikarka Marysia (Anna Dymna). Dziewczyna zakochuje się z wzajemnością w przystojnym hrabim, Leszku Czyńskim (Tomasz Stockinger). Ich związkowi są przeciwni rodzice młodego arystokraty. Marysia ma także innego adoratora, Zenka (Piotr Grabowski), którego ojciec prowadzi szynk. Gdy dziewczyna odrzuca jego oświadczyny, zazdrosny chłopak doprowadza do tragedii.</desc>
-    <credits>
-      <actor>Jerzy Bińczycki</actor>
-      <actor>Anna Dymna</actor>
-      <actor>Tomasz Stockinger</actor>
-      <actor>Bernard Ładysz</actor>
-      <actor>Artur Barciś</actor>
-      <actor>Andrzej Kopiczyński</actor>
-      <actor>Piotr Grabowski</actor>
-      <actor>Bożena Dykiel</actor>
-      <actor>Maria Homerska</actor>
-      <actor>Igor Śmiałowski</actor>
-    </credits>
-    <date>1981</date>
-    <category lang="pl">Dramat Obyczajowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/vUPkq9ha3BhNTg1MDU2Ny5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-    <star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260406195800 +0200" stop="20260406200000 +0200" channel="Antena">
-    <title lang="pl">Czas na pogodę</title>
-    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
-    <category lang="pl">Program Informacyjny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406200000 +0200" stop="20260406211500 +0200" channel="Antena">
-    <title lang="pl">Morderstwa w Paryżu</title>
-    <sub-title lang="pl">Mumia</sub-title>
-    <desc lang="pl">W Lasku Bulońskim śledczy znajdują ciało bezdomnego. Denat tuż przed śmiercią wyrył w ziemi trzy litery. Adele stara się rozszyfrować tajemnicze znaki. Wkrótce Rocher ratuje ją przed ukąszeniem kobry, która zagnieździła się w samochodzie ofiary. Hyppolite dowiaduje się, że ów bezdomny był archeologiem, który 20 lat temu znalazł grobowiec egipskiej królowej. Zmarł, bo, jak podaje legenda, sprofanował jej świątynię - został ukarany tysiącem ukąszeń węża.</desc>
-    <credits>
-      <actor>Odile Vuillemin</actor>
-      <actor>Philippe Bas</actor>
-      <actor>Jean-Michel Martial</actor>
-      <actor>Raphaël Ferret</actor>
-      <actor>Valérie Dashwood</actor>
-      <actor>Sophie de Fürst</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/7SRkq9ha3BhNjU1MTAzNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Francja</country>
-    <episode-num system="onscreen">E8</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406211500 +0200" stop="20260406222000 +0200" channel="Antena">
-    <title lang="pl">Balthazar: Śledczy fenomen</title>
-    <sub-title lang="pl">Pamiętaj</sub-title>
-    <desc lang="pl">Patolog sądowy Raphaël Balthazar (Tomer Sisley) pomaga policji w rozwiewaniu różnych niejasności, dotyczących kulisów śmierci ofiar zbrodni. Mimo niesprzyjających okoliczności próbuje na nowo ułożyć sobie życie po niedawnej serii dramatycznych wydarzeń w życiu zawodowym i prywatnym. Nawiązuje zawodową współpracę z nową kapitan policji, młodą, żywiołową i niezwykle szczerą Camille Coste (Constance Labbe). Oboje mieli okazję poznać się już wcześniej, co nie ułatwia im budowania dobrych relacji w codziennej pracy. W tym sezonie Raphaël bada okoliczności śmierci współpasażera samolotu lecącego do Paryża. Wychodzi na jaw, że mężczyzna został otruty.</desc>
-    <credits>
-      <actor>Tomer Sisley</actor>
-      <actor>Constance Labbé</actor>
-      <actor>Yannig Samot</actor>
-      <actor>Philypa Phoenix</actor>
-      <actor>Côme Levin</actor>
-      <actor>Pauline Cheviller</actor>
-      <actor>Leslie Medina</actor>
-      <actor>Aliocha Itovich</actor>
-      <actor>Caterina Murino</actor>
-      <actor>Gabriel Caballero</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja</country>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <rating>
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme start="20260406222000 +0200" stop="20260406233000 +0200" channel="Antena">
-    <title lang="pl">Detektywi z Bordeaux</title>
-    <desc lang="pl">Codzienne obowiązki pracowników jednostki specjalnej w Bordeaux, którzy każdego dnia mierzą się ze skomplikowanymi problemami kryminalnymi stanowiącymi poważne zagrożenie dla mieszkańców. Dla zespołu ważne są łączące ich relacje, przyjaźń i lojalność, choć nie są im obce stres i konflikty.</desc>
-    <credits>
-      <actor>Xavier Deluc</actor>
-      <actor>Chrystelle Labaude</actor>
-      <actor>Jean-Pascal Lacoste</actor>
-      <actor>Virginie Caliari</actor>
-      <actor>Kamel Belghazi</actor>
-      <actor>Olivia Lancelot</actor>
-      <actor>Bernard Montiel</actor>
-      <actor>Linda Hardy</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja, Belgia</country>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260406233000 +0200" stop="20260407005500 +0200" channel="Antena">
-    <title lang="pl">Detektywi z Bordeaux</title>
-    <desc lang="pl">Codzienne obowiązki pracowników jednostki specjalnej w Bordeaux, którzy każdego dnia mierzą się ze skomplikowanymi problemami kryminalnymi stanowiącymi poważne zagrożenie dla mieszkańców. Dla zespołu ważne są łączące ich relacje, przyjaźń i lojalność, choć nie są im obce stres i konflikty.</desc>
-    <credits>
-      <actor>Xavier Deluc</actor>
-      <actor>Chrystelle Labaude</actor>
-      <actor>Jean-Pascal Lacoste</actor>
-      <actor>Virginie Caliari</actor>
-      <actor>Kamel Belghazi</actor>
-      <actor>Olivia Lancelot</actor>
-      <actor>Bernard Montiel</actor>
-      <actor>Linda Hardy</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja, Belgia</country>
-    <episode-num system="onscreen">S4 E12</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260407005500 +0200" stop="20260407023500 +0200" channel="Antena">
-    <title lang="pl">Zaginiona żona</title>
-    <desc lang="pl">Amerykański telewizyjny dramat biograficzny "Zaginiona żona" opowiada prawdziwą historię członka nowojorskiej dynastii milionerów, którego żona Kathie w 1982 roku zniknęła w tajemniczych okolicznościach. Scenariusz produkcji oparto na książce dziennikarza Matta Birkbecka, wielokrotnie aktualizowanej z powodu wychodzących na jaw kolejnych szokujących faktów w sprawie Roberta Dursta. Reżyserem filmu "Zaginiona żona" jest nominowany do nagrody Emmy za western "Pochowaj me serce w Wounded Knee" Yves Simoneau. W głównych rolach możemy oglądać Katharine McPhee i Daniela Gilliesa. 
-Bohaterka obrazu "Zaginiona żona". młoda i otwarta na świat Kathie, zakochuje się w uroczym, ale nieco ekscentrycznym spadkobiercy fortuny, Robercie Durście. Para bierze ślub, jednak wraz z upływem czasu ich małżeństwo przechodzi poważny kryzys, a relacje pary stają się coraz bardziej skomplikowane. Pewnego dnia Kathy znika bez śladu. Robert utrzymuje, że nie wie, co się stało, jednak jego zachowanie wzbudza coraz więcej podejrzeń.</desc>
-    <credits>
-      <actor>Katharine McPhee</actor>
-      <actor>Daniel Gillies</actor>
-      <actor>Fiona Vroom</actor>
-      <actor>Martin Donovan</actor>
-      <actor>John Glover</actor>
-      <actor>Ryan Robbins</actor>
-      <actor>Jesse Hutch</actor>
-      <actor>Ella Cannon</actor>
-      <actor>Kwesi Ameyaw</actor>
-      <actor>Michael Dickson</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="pl">Dramat Biograficzny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/w-kkq9ha3BhNjU4OTU0NS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>16+</value>
-    </rating>
-    <star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260407023500 +0200" stop="20260407043500 +0200" channel="Antena">
-    <title lang="pl">Tajemnice rodu Jezusa</title>
-    <desc lang="pl">Genetyk George Busby z uniwersytetu w Oksfordzie i biblista, pastor Joe Basile, badają najsłynniejsze relikwie świata, w tym całun turyński. W swojej pracy korzystają z najnowszych technologii w dziedzinie DNA.</desc>
-    <date>2017</date>
-    <category lang="pl">Film Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/3hjkq9ha3BhNDcwNzA3Ni5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
   <programme start="20260407043500 +0200" stop="20260407060000 +0200" channel="Antena">
     <title lang="pl">77 TV</title>
     <sub-title lang="pl">Przypadki rolnicze i wiejskie</sub-title>
@@ -2897,5 +2000,1214 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
     <rating>
       <value>12+</value>
     </rating>
+  </programme>
+  <programme start="20260410010000 +0200" stop="20260410030000 +0200" channel="Antena">
+    <title lang="pl">Nostradamus: proroctwa na XXI wiek</title>
+    <desc lang="pl">Twórcy przyglądają się postaci XVI-wiecznego francuskiego proroka, którego przepowiednie do dziś budzą ogromne emocje. Analizują notatki przypisywane Nostradamusowi i zestawiają je ze współczesnymi wydarzeniami, takimi jak zamachy z 11 września 2001 roku, tsunami czy epidemia eboli. Eksperci próbują ustalić, czy trafne interpretacje to przypadek, czy może wynik niezawodnej intuicji. Współczesne metody badawcze pozwalają spojrzeć na jego wizje z nowej perspektywy i zadać pytanie, czy przyszłość rzeczywiście można przewidzieć.</desc>
+    <date>2015</date>
+    <category lang="pl">Film Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/RZlkq9ha3BhNDA4ODQ4Mi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+    <star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260410030000 +0200" stop="20260410030000 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410030000 +0200" stop="20260410034500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410034500 +0200" stop="20260410040500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Jeden z bardzo doświadczonych wychowawców opowie, jak się pracuje z nieletnimi przestępcami. Kolejny z odbywających karę nastolatków decyduje się podzielić z nami swoją tragiczną historią.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410040500 +0200" stop="20260410044500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Kradzieże, przemoc na osiedlu to tylko wycinek jego życia, ale taki który wywarł na nie ogromny wpływ. Jeden z wychowanków opowiada nam swoją historię. Poznajemy też kolejne przestrzenie zakładu poprawczego.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410044500 +0200" stop="20260410050500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Wychowankowie zakładu poprawczego jadą na mecz piłkarski. Po drodze opowiadają o tym, co jest dla nich ważne, jak radzą sobie z izolacją i jak ją odreagowują.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410050500 +0200" stop="20260410054000 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Widzowie przekonają się, jak wygląda kolejny dzień w zakładzie poprawczym. Realizatorzy przekonają się, kto dziś odważy się opowiedzieć przed kamerami swoją trudną historię.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410054000 +0200" stop="20260410060000 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410060000 +0200" stop="20260410061000 +0200" channel="Antena">
+    <title lang="pl">Hmmm...</title>
+    <desc lang="pl">Program rozbudza ciekawość i stawia pytania, które potrafią zaskoczyć. Sprawdza, dlaczego ten sam posiłek może smakować inaczej w zależności od towarzyszących mu dookoła dźwięków oraz czy kot rzeczywiście komunikuje się ruchem uszu. Zagłębia się też w historię, odsłaniając nieoczywiste fakty, jak pierwotne zastosowanie piły łańcuchowej. Nauka, kultura i przeszłość splatają się tu z humorem, tworząc pełną niespodzianek opowieść.</desc>
+    <date>2026</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410061000 +0200" stop="20260410064500 +0200" channel="Antena">
+    <title lang="pl">Legendy rocka</title>
+    <sub-title lang="pl">Queen</sub-title>
+    <desc lang="pl">Cykl filmów dokumentalnych poświęconych gwiazdom rocka.</desc>
+    <category lang="pl">Cykl Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/FMrkq9ha3BhMzA4ODE0NS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410064500 +0200" stop="20260410071500 +0200" channel="Antena">
+    <title lang="pl">Legendy rocka</title>
+    <sub-title lang="pl">Bon Jovi</sub-title>
+    <desc lang="pl">Cykl filmów dokumentalnych poświęconych gwiazdom rocka.</desc>
+    <category lang="pl">Cykl Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/FMrkq9ha3BhMzA4ODE0NS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410071500 +0200" stop="20260410074000 +0200" channel="Antena">
+    <title lang="pl">Oszukali przeznaczenie. Historie prawdziwe</title>
+    <desc lang="pl">Prowadzący spotyka się z ludźmi, którzy stanęli twarzą w twarz ze śmiercią. Bohaterowie prezentują swoje inspirujące opowieści, pokazując niebezpieczne miejsca, które wystawiły je na najtrudniejszą próbę.</desc>
+    <date>2016</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/ZJzkq9ha3BhNjAyNjAyNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">S15 E6</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410074000 +0200" stop="20260410084000 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadki wzbogacenia się i zbiednienia</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2024</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410084000 +0200" stop="20260410094000 +0200" channel="Antena">
+    <title lang="pl">Megalotnisko w Dubaju</title>
+    <desc lang="pl">Kolejna odsłona serii przedstawiającej pracę najbardziej ruchliwego lotniska na świecie. Międzynarodowy port lotniczy w Dubaju obsługuje rocznie 350 tysięcy lotów i przyjmuje 75 milionów pasażerów. Każdej doby pracuje tam 60 tysięcy osób. Personel lotniska często ma do czynienia z zaskakującymi sytuacjami, takimi jak żywe węże w bagażu pasażera i gigantyczny przerzut heroiny.</desc>
+    <date>2014</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410094000 +0200" stop="20260410104000 +0200" channel="Antena">
+    <title lang="pl">Megalotnisko w Dubaju</title>
+    <desc lang="pl">Kolejna odsłona serii przedstawiającej pracę najbardziej ruchliwego lotniska na świecie. Międzynarodowy port lotniczy w Dubaju obsługuje rocznie 350 tysięcy lotów i przyjmuje 75 milionów pasażerów. Każdej doby pracuje tam 60 tysięcy osób. Personel lotniska często ma do czynienia z zaskakującymi sytuacjami, takimi jak żywe węże w bagażu pasażera i gigantyczny przerzut heroiny.</desc>
+    <date>2014</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410104000 +0200" stop="20260410114000 +0200" channel="Antena">
+    <title lang="pl">Co Polak potrafi na drodze?</title>
+    <desc lang="pl">W drugim odcinku zaprezentowane zostaną sytuacje z polskich dróg oraz przejazdów kolejowych. Widzowie zobaczą przykłady niewłaściwego parkowania, a także przekonają się, jakie mogą być konsekwencje jazdy na rowerze pod wpływem alkoholu.</desc>
+    <date>2025</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Q0-kq9ha3BhNjU0Njk1OS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410114000 +0200" stop="20260410124000 +0200" channel="Antena">
+    <title lang="pl">Kabaretowy szał</title>
+    <sub-title lang="pl">Kabaret Jurki</sub-title>
+    <desc lang="pl">Najpopularniejsi artyści polskiej sceny kabaretowej w swoich najlepszych skeczach i piosenkach. W programie zobaczymy m.in. Ani Mru-Mru, Kabaret Moralnego Niepokoju, Kabaret Młodych Panów, Kabaret Smile, Kabaret Łowcy.B, Kabaret Jurki, Kabaret Ciach, Kabaret DNO, Kabaret OT.TO, Grupę MoCarta, Zbigniewa Zamachowskiego, Ireneusza Krosnego, Artura Andrusa czy Waldemara Malickiego.</desc>
+    <date>2019</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Jizkq5ha3BhNTA2Njg4LmpwZ5GVAs0BLADCww" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410124000 +0200" stop="20260410134000 +0200" channel="Antena">
+    <title lang="pl">Winnice miłości</title>
+    <desc lang="pl">Melina zostaje zaatakowana i zraniona przez dwóch dziwnych mężczyzn. Partner bezskutecznie próbuje ją przekonać, aby zgłosiła się na policję. Markos wyjawia Sifisowi i Anastasii tajemnicę z przeszłości Daphni. W rezultacie stają oni w obliczu sporego dylematu. Zastanawiają się, czy powiedzieć o wszystkim Diamantisowi. Ten ostatni traci zaufanie do rodziny Mattheou po wizycie Achilleasa na Krecie. Anastasia wyznaje Sifisowi, że nadal nie zakończyła znajomości z Mattheosem, co doprowadza pierwszego z mężczyzn do szału. Eurydiki obawia się konsekwencji rozwodu z Achilleasem, dlatego razem z Antonisem wciąż sugerują jej mężowi, by wrócił na Cypr. Minas prosi Vasiliki o kolejną szansę, ale ona odmawia i potajemnie wyjeżdża do Meliny. Eurydiki zdradza Sifisowi, gdzie jest jego żona.</desc>
+    <credits>
+      <actor>Apostolis Totsikas</actor>
+      <actor>Eleni Vaitsou</actor>
+      <actor>Varvara Larmou</actor>
+      <actor>George Zenios</actor>
+      <actor>Melanie Steliou</actor>
+      <actor>Elena Paloumbis</actor>
+      <actor>Tina Leonora</actor>
+      <actor>Christopher Ray</actor>
+      <actor>Stefani Charalampous</actor>
+      <actor>George Zouvelos</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Serial Obyczajowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Cypr, Grecja</country>
+    <episode-num system="onscreen">E28</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410134000 +0200" stop="20260410144000 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadków wodnych</sub-title>
+    <desc lang="pl">W programie zaprezentowane zostanie zestawienie najlepszych filmów pokazujących prawdziwe, lecz niewiarygodne historie.</desc>
+    <date>2023</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410144000 +0200" stop="20260410154000 +0200" channel="Antena">
+    <title lang="pl">Niezwykły dr Pol</title>
+    <sub-title lang="pl">Wiosenne ożywienie</sub-title>
+    <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
+Dr Pol i jego ekipa stają przed takimi wyzwaniami, jak stworzenie protezy kopyta czy poradzenie sobie z zestresowaną krową. Często w ich ręce trafiają trudne do zdiagnozowania przypadki wymagające niesztampowych rozwiązań. Weterynarze nie tylko leczą, zszywają i opatrują, ale też z konieczności poją i karmią swoich podopiecznych. 
+Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od tej pory cieszy się sporą popularnością, ponieważ do 2018 r. powstało aż dwanaście sezonów.</desc>
+    <date>2013</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/XeEkq9ha3BhNjU3NTUyNC5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410154000 +0200" stop="20260410164000 +0200" channel="Antena">
+    <title lang="pl">Niezwykły dr Pol</title>
+    <sub-title lang="pl">Wielka gala</sub-title>
+    <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
+Dr Pol i jego ekipa stają przed takimi wyzwaniami, jak stworzenie protezy kopyta czy poradzenie sobie z zestresowaną krową. Często w ich ręce trafiają trudne do zdiagnozowania przypadki wymagające niesztampowych rozwiązań. Weterynarze nie tylko leczą, zszywają i opatrują, ale też z konieczności poją i karmią swoich podopiecznych. 
+Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od tej pory cieszy się sporą popularnością, ponieważ do 2018 r. powstało aż dwanaście sezonów.</desc>
+    <date>2013</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/XeEkq9ha3BhNjU3NTUyNC5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410164000 +0200" stop="20260410174500 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Odważni, nieskrępowani</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2023</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410174500 +0200" stop="20260410181500 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Azja</sub-title>
+    <desc lang="pl">Prowadzący podejmuje się niezwykle trudnego zadania - postanawia opowiedzieć widzom o rozległym i zróżnicowanym zarówno pod względem narodowościowym, jak i wyznaniowym terenie, jakim jest kontynent azjatycki. Podróżnik porusza m.in. temat wielkich metropolii, które od dawna są stałym elementem azjatyckiego krajobrazu oraz omawia problemy, które napotykają tam turyści z Europy.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E77</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410181500 +0200" stop="20260410185000 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Słoń domowy</sub-title>
+    <desc lang="pl">W każdym programie Wojciecha Cejrowskiego prezentowane są ciekawostki z różnych zakątków świata. Podróżnik chętnie uczestniczy w codziennych zajęciach mieszkańców danego regionu i różnego rodzaju lokalnych rozrywkach. Nie obawia się też próbować nawet najbardziej nieapetycznie wyglądających specjałów kulinarnych.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E78</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410185000 +0200" stop="20260410195800 +0200" channel="Antena">
+    <title lang="pl">Morderstwa w Paryżu</title>
+    <sub-title lang="pl">Więzień, część 1</sub-title>
+    <desc lang="pl">Podczas jarmarku 9-letni Hugo Fournier zostaje uprowadzony. Całe zajście obserwuje zszokowana Adele. Dla rodziców pojmanego chłopca to powrót do koszmaru sprzed dwudziestu lat, kiedy to zniknęła ich córka Laura. Adele wraca do tamtej sprawy. Dowiaduje się, że ówczesny oficer śledczy zawsze podejrzewał Argosa, lecz w obliczu braku dowodów nie mógł go aresztować. Adele, chcąc odnaleźć żywego malca, musi stawić czoła duchom przeszłości.</desc>
+    <credits>
+      <actor>Juliette Roudet</actor>
+      <actor>Matthieu Pérac</actor>
+      <actor>Jean-Michel Martial</actor>
+      <actor>Raphaël Ferret</actor>
+      <actor>Philippe Bas</actor>
+      <actor>Valérie Dashwood</actor>
+      <actor>Sophie de Fürst</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/7SRkq9ha3BhNjU1MTAzNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410195800 +0200" stop="20260410200000 +0200" channel="Antena">
+    <title lang="pl">Czas na pogodę</title>
+    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
+    <category lang="pl">Program Informacyjny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410200000 +0200" stop="20260410220500 +0200" channel="Antena">
+    <title lang="pl">Raport</title>
+    <sub-title lang="pl">Tajemnica Smoleńska</sub-title>
+    <desc lang="pl">Autorzy programu, przy wsparciu nowoczesnego studia i wirtualnej scenografii, analizują intrygujące zagadnienia o charakterze cywilizacyjnym. Przyjrzą się m.in. tematowi zbliżającego się końca świata oraz przesłankom zapowiadającym wybuch kolejnego globalnego konfliktu.</desc>
+    <date>2025</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S77 E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260410220500 +0200" stop="20260410234500 +0200" channel="Antena">
+    <title lang="pl">Zaginiona mama: tajemnicze zniknięcie Jennifer Dulos</title>
+    <desc lang="pl">Film oparty na prawdziwych wydarzeniach opowiada historię Jennifer Dulos (Annabeth Gish) z Connecticut, zamożnej matki pięciorga dzieci, która zaginęła 24 maja 2019 roku. Jej małżeństwo z Fotisem Dulosem (Warren Christie) było w kryzysie, a para walczyła o opiekę nad potomstwem. Podczas dochodzenia policja skoncentrowała się na mężu kobiety, który twierdził, że żona sama zaplanowała swoje zniknięcie. W styczniu 2020 roku został on oskarżony o morderstwo. Kilka tygodni później popełnił samobójstwo. Do końca utrzymywał, że jest niewinny.</desc>
+    <credits>
+      <actor>Annabeth Gish</actor>
+      <actor>Warren Christie</actor>
+      <actor>Laura Harris</actor>
+      <actor>Kendra Westwood</actor>
+      <actor>Jayce Barreiro</actor>
+      <actor>Michael Dodek</actor>
+      <actor>Esther Chao</actor>
+      <actor>Sacha Chandler</actor>
+      <actor>David Nykl</actor>
+      <actor>Wonita Joy</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">Dramat Obyczajowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">USA</country>
+    <rating>
+      <value>16+</value>
+    </rating>
+    <star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260410234500 +0200" stop="20260411012500 +0200" channel="Antena">
+    <title lang="pl">Zaginiona żona</title>
+    <desc lang="pl">Amerykański telewizyjny dramat biograficzny "Zaginiona żona" opowiada prawdziwą historię członka nowojorskiej dynastii milionerów, którego żona Kathie w 1982 roku zniknęła w tajemniczych okolicznościach. Scenariusz produkcji oparto na książce dziennikarza Matta Birkbecka, wielokrotnie aktualizowanej z powodu wychodzących na jaw kolejnych szokujących faktów w sprawie Roberta Dursta. Reżyserem filmu "Zaginiona żona" jest nominowany do nagrody Emmy za western "Pochowaj me serce w Wounded Knee" Yves Simoneau. W głównych rolach możemy oglądać Katharine McPhee i Daniela Gilliesa. 
+Bohaterka obrazu "Zaginiona żona". młoda i otwarta na świat Kathie, zakochuje się w uroczym, ale nieco ekscentrycznym spadkobiercy fortuny, Robercie Durście. Para bierze ślub, jednak wraz z upływem czasu ich małżeństwo przechodzi poważny kryzys, a relacje pary stają się coraz bardziej skomplikowane. Pewnego dnia Kathy znika bez śladu. Robert utrzymuje, że nie wie, co się stało, jednak jego zachowanie wzbudza coraz więcej podejrzeń.</desc>
+    <credits>
+      <actor>Katharine McPhee</actor>
+      <actor>Daniel Gillies</actor>
+      <actor>Fiona Vroom</actor>
+      <actor>Martin Donovan</actor>
+      <actor>John Glover</actor>
+      <actor>Ryan Robbins</actor>
+      <actor>Jesse Hutch</actor>
+      <actor>Ella Cannon</actor>
+      <actor>Kwesi Ameyaw</actor>
+      <actor>Michael Dickson</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">Dramat Biograficzny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/w-kkq9ha3BhNjU4OTU0NS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <rating>
+      <value>16+</value>
+    </rating>
+    <star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260411012500 +0200" stop="20260411030000 +0200" channel="Antena">
+    <title lang="pl">Balthazar: Śledczy fenomen</title>
+    <sub-title lang="pl">Pamiętaj</sub-title>
+    <desc lang="pl">Patolog sądowy Raphaël Balthazar (Tomer Sisley) pomaga policji w rozwiewaniu różnych niejasności, dotyczących kulisów śmierci ofiar zbrodni. Mimo niesprzyjających okoliczności próbuje na nowo ułożyć sobie życie po niedawnej serii dramatycznych wydarzeń w życiu zawodowym i prywatnym. Nawiązuje zawodową współpracę z nową kapitan policji, młodą, żywiołową i niezwykle szczerą Camille Coste (Constance Labbe). Oboje mieli okazję poznać się już wcześniej, co nie ułatwia im budowania dobrych relacji w codziennej pracy. W tym sezonie Raphaël bada okoliczności śmierci współpasażera samolotu lecącego do Paryża. Wychodzi na jaw, że mężczyzna został otruty.</desc>
+    <credits>
+      <actor>Tomer Sisley</actor>
+      <actor>Constance Labbé</actor>
+      <actor>Yannig Samot</actor>
+      <actor>Philypa Phoenix</actor>
+      <actor>Côme Levin</actor>
+      <actor>Pauline Cheviller</actor>
+      <actor>Leslie Medina</actor>
+      <actor>Aliocha Itovich</actor>
+      <actor>Caterina Murino</actor>
+      <actor>Gabriel Caballero</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260411030000 +0200" stop="20260411030000 +0200" channel="Antena">
+    <title lang="pl">Balthazar: Śledczy fenomen</title>
+    <sub-title lang="pl">Jeśli to nie ty</sub-title>
+    <desc lang="pl">Patolog sądowy Raphaël Balthazar (Tomer Sisley) pomaga policji w rozwiewaniu różnych niejasności, dotyczących kulisów śmierci ofiar zbrodni. Mimo niesprzyjających okoliczności próbuje na nowo ułożyć sobie życie po niedawnej serii dramatycznych wydarzeń w życiu zawodowym i prywatnym. Nawiązuje zawodową współpracę z nową kapitan policji, młodą, żywiołową i niezwykle szczerą Camille Coste (Constance Labbe). Oboje mieli okazję poznać się już wcześniej, co nie ułatwia im budowania dobrych relacji w codziennej pracy. W tym sezonie Raphaël bada okoliczności śmierci współpasażera samolotu lecącego do Paryża. Wychodzi na jaw, że mężczyzna został otruty.</desc>
+    <credits>
+      <actor>Tomer Sisley</actor>
+      <actor>Constance Labbé</actor>
+      <actor>Yannig Samot</actor>
+      <actor>Philypa Phoenix</actor>
+      <actor>Côme Levin</actor>
+      <actor>Pauline Cheviller</actor>
+      <actor>Leslie Medina</actor>
+      <actor>Aliocha Itovich</actor>
+      <actor>Caterina Murino</actor>
+      <actor>Gabriel Caballero</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260411030000 +0200" stop="20260411042500 +0200" channel="Antena">
+    <title lang="pl">Balthazar: Śledczy fenomen</title>
+    <sub-title lang="pl">Jeśli to nie ty</sub-title>
+    <desc lang="pl">Patolog sądowy Raphaël Balthazar (Tomer Sisley) pomaga policji w rozwiewaniu różnych niejasności, dotyczących kulisów śmierci ofiar zbrodni. Mimo niesprzyjających okoliczności próbuje na nowo ułożyć sobie życie po niedawnej serii dramatycznych wydarzeń w życiu zawodowym i prywatnym. Nawiązuje zawodową współpracę z nową kapitan policji, młodą, żywiołową i niezwykle szczerą Camille Coste (Constance Labbe). Oboje mieli okazję poznać się już wcześniej, co nie ułatwia im budowania dobrych relacji w codziennej pracy. W tym sezonie Raphaël bada okoliczności śmierci współpasażera samolotu lecącego do Paryża. Wychodzi na jaw, że mężczyzna został otruty.</desc>
+    <credits>
+      <actor>Tomer Sisley</actor>
+      <actor>Constance Labbé</actor>
+      <actor>Yannig Samot</actor>
+      <actor>Philypa Phoenix</actor>
+      <actor>Côme Levin</actor>
+      <actor>Pauline Cheviller</actor>
+      <actor>Leslie Medina</actor>
+      <actor>Aliocha Itovich</actor>
+      <actor>Caterina Murino</actor>
+      <actor>Gabriel Caballero</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260411042500 +0200" stop="20260411054500 +0200" channel="Antena">
+    <title lang="pl">Kabaretowy szał: Ani Mru-Mru</title>
+    <desc lang="pl">Najpopularniejsi artyści polskiej sceny kabaretowej w swoich najlepszych skeczach i piosenkach. W programie zobaczymy m.in. Ani Mru-Mru, Kabaret Moralnego Niepokoju, Kabaret Młodych Panów, Kabaret Smile, Kabaret Łowcy.B, Kabaret Jurki, Kabaret Ciach, Kabaret DNO, Kabaret OT.TO, Grupę MoCarta, Zbigniewa Zamachowskiego, Ireneusza Krosnego, Artura Andrusa czy Waldemara Malickiego.</desc>
+    <date>2019</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Jizkq5ha3BhNTA2Njg4LmpwZ5GVAs0BLADCww" />
+    <country lang="pl">Polska</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411054500 +0200" stop="20260411060000 +0200" channel="Antena">
+    <title lang="pl">Zakręcone stworzonka z internetu 2</title>
+    <desc lang="pl">Najśmieszniejsze nagrania ze zwierzętami w roli głównej, które zbierają miliony wyświetleń w internecie.</desc>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <rating>
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20260411060000 +0200" stop="20260411061000 +0200" channel="Antena">
+    <title lang="pl">Hmmm...</title>
+    <desc lang="pl">Program rozbudza ciekawość i stawia pytania, które potrafią zaskoczyć. Sprawdza, dlaczego ten sam posiłek może smakować inaczej w zależności od towarzyszących mu dookoła dźwięków oraz czy kot rzeczywiście komunikuje się ruchem uszu. Zagłębia się też w historię, odsłaniając nieoczywiste fakty, jak pierwotne zastosowanie piły łańcuchowej. Nauka, kultura i przeszłość splatają się tu z humorem, tworząc pełną niespodzianek opowieść.</desc>
+    <date>2026</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411061000 +0200" stop="20260411065000 +0200" channel="Antena">
+    <title lang="pl">Szlakiem i smakiem hetmana</title>
+    <desc lang="pl">Widzowie udają się w podróż szlakiem włości Jana Klemensa Branickiego, jednego z najbardziej wpływowych magnatów XVIII wieku. Wizyty w jego rozsianych po całej Polce pałacach - m.in. w Białymstoku, Tykocinie, Choroszczy, Warszawie czy Krakowie - będą pretekstem do wprowadzenia ciekawych wątków kulinarnych.</desc>
+    <date>2022</date>
+    <category lang="pl">Program Kulturalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411065000 +0200" stop="20260411074500 +0200" channel="Antena">
+    <title lang="pl">Najlepsze Koncerty Szlagier TV!</title>
+    <sub-title lang="pl">Cygański Tabor Patrycji Runo</sub-title>
+    <desc lang="pl">Program prezentuje najciekawsze koncerty dedykowane miłośnikom śląskich szlagierów. Widzowie posłuchają zarówno jubileuszowych i urodzinowych gal największych gwiazd, jak i zobaczą wydarzenia sezonowe.Nie zabraknie także bloków koncertowych wypełnionych utworami o biesiadnym i folkowym charakterze. To muzyczna podróż przez największe przeboje i wyjątkowe sceniczne spotkania z artystami.</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411074500 +0200" stop="20260411084500 +0200" channel="Antena">
+    <title lang="pl">Najlepsze Koncerty Szlagier TV!</title>
+    <sub-title lang="pl">Paweł Gołecki</sub-title>
+    <desc lang="pl">Program prezentuje najciekawsze koncerty dedykowane miłośnikom śląskich szlagierów. Widzowie posłuchają zarówno jubileuszowych i urodzinowych gal największych gwiazd, jak i zobaczą wydarzenia sezonowe.Nie zabraknie także bloków koncertowych wypełnionych utworami o biesiadnym i folkowym charakterze. To muzyczna podróż przez największe przeboje i wyjątkowe sceniczne spotkania z artystami.</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411084500 +0200" stop="20260411092000 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Walki kogutów</sub-title>
+    <desc lang="pl">Wojciech Cejrowski nadal podróżuje po Wenezueli. W tym odcinku przyjrzy się hodowli kogutów bojowych. W tamtych stronach turnieje z udziałem tych ptaków cieszą się wśród miejscowych sporą popularnością. Podróżnik zobaczy, jak wygląda przygotowanie kogutów do walki, a w finale nawet weźmie udział w tym krwawym widowisku.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E71</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411092000 +0200" stop="20260411095000 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Maniok</sub-title>
+    <desc lang="pl">Maniok to roślina stanowiąca podstawę wyżywienia w całej Amazonii. Polski podróżnik przygląda się sposobom jej przyrządzania. Nieprawidłowo przygotowana może stać się śmiertelnie niebezpieczną trucizną.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E72</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411095000 +0200" stop="20260411102000 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Łódź</sub-title>
+    <desc lang="pl">Podróżnik Wojciech Cejrowski prezentuje sposób budowy wodnych środków transportu na przykładzie prostej dłubanki oraz łodzi z burtami. Opowiada też o kolejnych udoskonaleniach wprowadzanych przez człowieka do stosowanych konstrukcji.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E73</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411102000 +0200" stop="20260411105500 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Na ryby</sub-title>
+    <desc lang="pl">W każdym programie Wojciecha Cejrowskiego prezentowane są ciekawostki z różnych zakątków świata. Podróżnik chętnie uczestniczy w codziennych zajęciach mieszkańców danego regionu i różnego rodzaju lokalnych rozrywkach. Nie obawia się też próbować nawet najbardziej nieapetycznie wyglądających specjałów kulinarnych.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E74</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411105500 +0200" stop="20260411112500 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Jedzenie dżungli</sub-title>
+    <desc lang="pl">Polski podróżnik opowie, czym żywią się plemiona zamieszkujące amazońskie lasy tropikalne. Zaprezentuje nieznane gatunki owoców oraz pokaże, jak przygotowuje się do spożycia ogromne pająki tarantule, uważane w tamtych regionach za przysmak.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E75</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411112500 +0200" stop="20260411115500 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Kosmici</sub-title>
+    <desc lang="pl">Podczas swoich wypraw do różnych zakątków świata podróżnik natyka się na te same wynalazki związane m.in. z życiem codziennym, kulturą i sztuką coraz obronnością. Prowadzący zastanawia się, czy podobieństwa kulturowe na odległych od siebie kontynentach to przypadek, efekt racjonalnej działalności człowieka, a może zasługa przybyszy z obcej planety...</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E76</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411115500 +0200" stop="20260411122500 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Azja</sub-title>
+    <desc lang="pl">Prowadzący podejmuje się niezwykle trudnego zadania - postanawia opowiedzieć widzom o rozległym i zróżnicowanym zarówno pod względem narodowościowym, jak i wyznaniowym terenie, jakim jest kontynent azjatycki. Podróżnik porusza m.in. temat wielkich metropolii, które od dawna są stałym elementem azjatyckiego krajobrazu oraz omawia problemy, które napotykają tam turyści z Europy.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E77</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411122500 +0200" stop="20260411130000 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Słoń domowy</sub-title>
+    <desc lang="pl">W każdym programie Wojciecha Cejrowskiego prezentowane są ciekawostki z różnych zakątków świata. Podróżnik chętnie uczestniczy w codziennych zajęciach mieszkańców danego regionu i różnego rodzaju lokalnych rozrywkach. Nie obawia się też próbować nawet najbardziej nieapetycznie wyglądających specjałów kulinarnych.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E78</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411130000 +0200" stop="20260411140000 +0200" channel="Antena">
+    <title lang="pl">Australijscy poszukiwacze złota</title>
+    <desc lang="pl">Załoga Victoria Diggers wydobywa całe złoto. Dalsza podróż Marcusa i Lindena staje pod znakiem zapytania, gdy mężczyźni doznają uszczerbku na zdrowiu. Ekipa Dust Devils stawia czoło przeciwnościom losu.</desc>
+    <date>2020</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/W2Mkq9ha3BhNjU1MDYxMi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Australia</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411140000 +0200" stop="20260411150000 +0200" channel="Antena">
+    <title lang="pl">Australijscy poszukiwacze złota</title>
+    <desc lang="pl">Kolejna seria programu, który opowiada o zmaganiach trzech zespołów poszukiwaczy. Udają się oni do Australii Zachodniej i usiłują tam odnaleźć złoża cennego kruszcu. Podczas swojej pracy muszą stawić czoło licznym problemom oraz awariom sprzętu.</desc>
+    <date>2020</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/W2Mkq9ha3BhNjU1MDYxMi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Australia</country>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411150000 +0200" stop="20260411160000 +0200" channel="Antena">
+    <title lang="pl">Australijscy poszukiwacze złota</title>
+    <desc lang="pl">Kolejna seria programu, który opowiada o zmaganiach trzech zespołów poszukiwaczy. Udają się oni do Australii Zachodniej i usiłują tam odnaleźć złoża cennego kruszcu. Podczas swojej pracy muszą stawić czoło licznym problemom oraz awariom sprzętu.</desc>
+    <date>2020</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/W2Mkq9ha3BhNjU1MDYxMi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Australia</country>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411160000 +0200" stop="20260411170000 +0200" channel="Antena">
+    <title lang="pl">Australijscy poszukiwacze złota</title>
+    <desc lang="pl">Kolejna seria programu, który opowiada o zmaganiach trzech zespołów poszukiwaczy. Udają się oni do Australii Zachodniej i usiłują tam odnaleźć złoża cennego kruszcu. Podczas swojej pracy muszą stawić czoło licznym problemom oraz awariom sprzętu.</desc>
+    <date>2020</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/W2Mkq9ha3BhNjU1MDYxMi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Australia</country>
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411170000 +0200" stop="20260411180000 +0200" channel="Antena">
+    <title lang="pl">Gdzie tu coś zjeść?</title>
+    <sub-title lang="pl">Konin</sub-title>
+    <desc lang="pl">Agnieszka i Ewa w odcinku z Konina sprawdzają, czy można tu zjeść naprawdę smaczną pizzę, czy rosół serwowany w Rogatce smakuje jak domowy, oraz co kryje się pod intrygującą zapowiedzią "brodatego" burgera.</desc>
+    <date>2026</date>
+    <category lang="pl">Magazyn</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411180000 +0200" stop="20260411190000 +0200" channel="Antena">
+    <title lang="pl">Polska. Największe tajemnice</title>
+    <desc lang="pl">Kwestie nurtujące całą Polskę, jak los kolejnych noworodków brutalnie zabijanych przez ich matkę w Czerniejowie. Spekulacje na temat lokalizacji Bursztynowej Komnaty oraz tajemnicze lokalizacje, i zabójstwo ks. Popiełuszki.</desc>
+    <date>2025</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/hhOkq9ha3BhNjU0NDk4OC5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411190000 +0200" stop="20260411195800 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadki ekstremalne</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2025</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/DNwkq9ha3BhNTczNzIxNy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S5 E24</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411195800 +0200" stop="20260411200000 +0200" channel="Antena">
+    <title lang="pl">Czas na pogodę</title>
+    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
+    <category lang="pl">Program Informacyjny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260411200000 +0200" stop="20260411220000 +0200" channel="Antena">
+    <title lang="pl">Morderstwa we Francji - Pont-Aven</title>
+    <desc lang="pl">W miejscowości położonej nad rzeką l'Aven dochodzi do zabójstwa dwóch właścicieli galerii. Sprawa przywołuje wspomnienie tragicznej śmierci malarki Suzanne Saroc, która 20 lat temu spłonęła żywcem. Wśród mieszkańców rodzi się podejrzenie, że artystka nie zginęła w wypadku. Jej córka, Marion (Astrid Roos), która została detektywem, rozpoczyna dochodzenie w sprawie podwójnej zbrodni. W tym samym czasie sięga do akt sprawy Suzanne. Z czasem udaje się zebrać silne dowody. Głównym podejrzanym zostaje patolog sądowy Sébastien (Stéphane Freiss), ojciec policjantki.</desc>
+    <credits>
+      <actor>Alexandre Brasseur</actor>
+      <actor>Astrid Roos</actor>
+      <actor>Stéphane Freiss</actor>
+      <actor>Michel Voita</actor>
+      <actor>Naima Rodric</actor>
+      <actor>Christelle Bui</actor>
+      <actor>Simon Fraud</actor>
+      <actor>Aurélien Chauveau</actor>
+      <actor>Fred Epaud</actor>
+      <actor>Catherine Davenier</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pl">Film Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+    <star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260411220000 +0200" stop="20260411234000 +0200" channel="Antena">
+    <title lang="pl">Uprowadzona Elizabeth Smart</title>
+    <desc lang="pl">Dramat "Uprowadzona Elizabeth Smart: moja historia" oparty na prawdziwych wydarzeniach rozgrywa się w czerwcu 2002 roku, kiedy to 14-letnia Elizabeth Ann Smart (Alana Boden) zostaje uprowadzona ze swojego domu w Salt Lake City. Porywaczem okazuje się fanatyk religijny Brian David Mitchell (Skeet Ulrich), który zabiera dziewczynkę do swojego obozowiska na wzgórzu, gdzie wraz ze swoją wspólniczką Wandą Barzee (Deirdre Lovejoy) przetrzymują nastolatkę. Przez ten czas Elizabeth jest głodzona, odurzana narkotykami, poddawana dziwacznym rytuałom religijnym, a także wykorzystywana seksualnie. W końcu po dziewięciu miesiącach bohaterce filmu udaje się uciec. 
+Narratorką w filmie "Uprowadzona Elizabeth Smart: moja historia" jest prawdziwa porwana. Ponadto Elizabeth udziela także w tym obrazie wywiadów i można usłyszeć, jak naprawdę wyglądało jej przetrzymywanie.</desc>
+    <credits>
+      <actor>Elizabeth Smart</actor>
+      <actor>Alana Boden</actor>
+      <actor>Skeet Ulrich</actor>
+      <actor>Deirdre Lovejoy</actor>
+      <actor>Sarah Madison Barrow</actor>
+      <actor>Graem Beddoes</actor>
+      <actor>Jazmine Campanale</actor>
+      <actor>London Cardinal</actor>
+      <actor>Ethan Farrell</actor>
+      <actor>Peter Graham-Gaudreau</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">Dramat Biograficzny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">USA</country>
+    <rating>
+      <value>16+</value>
+    </rating>
+    <star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260411234000 +0200" stop="20260412005500 +0200" channel="Antena">
+    <title lang="pl">Balthazar: Śledczy fenomen</title>
+    <sub-title lang="pl">Marionetki</sub-title>
+    <desc lang="pl">Raphael Balthazar odwiedza rodzinne miasteczko, w którym prowadzi nowe śledztwo. Na miejscu musi jednak zmierzyć się nieprzyjemnymi wspomnieniami. Na dodatek trafia na policyjną listę poszukiwanych. Mężczyźnie mimo to trudno oprzeć się urokowi nowej zagadki. Gdy wydaje się, że wszystko wraca do normy, z pozoru rutynowa autopsja wywraca życie Balthazara do góry nogami.</desc>
+    <credits>
+      <actor>Tomer Sisley</actor>
+      <actor>Yannig Samot</actor>
+      <actor>Philypa Phoenix</actor>
+      <actor>Côme Levin</actor>
+      <actor>Pauline Cheviller</actor>
+      <actor>Hélene de Fougerolles</actor>
+      <actor>Leslie Medina</actor>
+      <actor>Constance Labbé</actor>
+      <actor>Aliocha Itovich</actor>
+      <actor>Caterina Murino</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260412005500 +0200" stop="20260412021500 +0200" channel="Antena">
+    <title lang="pl">Balthazar: Śledczy fenomen</title>
+    <sub-title lang="pl">Wpływ</sub-title>
+    <desc lang="pl">Przebywający w areszcie domowym Balthazar spędza czas wolny na szpiegowaniu swoich sąsiadów. Pewnego razu przypadkiem staje się świadkiem samobójstwa nastolatka. Wkrótce ktoś w takiej samej masce kaczki, jaką miał na twarzy chłopak, popełnia morderstwo w Paryżu.</desc>
+    <credits>
+      <actor>Tomer Sisley</actor>
+      <actor>Yannig Samot</actor>
+      <actor>Philypa Phoenix</actor>
+      <actor>Côme Levin</actor>
+      <actor>Pauline Cheviller</actor>
+      <actor>Hélene de Fougerolles</actor>
+      <actor>Leslie Medina</actor>
+      <actor>Constance Labbé</actor>
+      <actor>Aliocha Itovich</actor>
+      <actor>Caterina Murino</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260412021500 +0200" stop="20260412025500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Wchodzimy do zakładu poprawczego, by zobaczyć jak funkcjonuje i poznać historie jego wychowanków. W pierwszym odcinku poznajemy młodego rapera, który trafił za mury ośrodka za poważne przestępstwa.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412025500 +0200" stop="20260412032500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">To niezwykły dzień w zakładzie poprawczym. Odwiedzają go raperzy, którzy dla wychowanków są prawdziwymi idolami. Podopieczni bardzo się zdziwią, gdy usłyszą jak trudne doświadczenia stały się udziałem muzyków.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412032500 +0200" stop="20260412035500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412035500 +0200" stop="20260412041500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Ruszamy z policjantami, by zobaczyć miejsca, w których koczują uciekinierzy z zakładów poprawczych. Znajdujemy ich legowiska w opuszczonym budynku. Jeden z wychowanków opowiada nam o tym, jak handlował narkotykami i jak to się skończyło.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412041500 +0200" stop="20260412045500 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412045500 +0200" stop="20260412054000 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412054000 +0200" stop="20260412060000 +0200" channel="Antena">
+    <title lang="pl">Poprawczak</title>
+    <desc lang="pl">Jeden z bardzo doświadczonych wychowawców opowie, jak się pracuje z nieletnimi przestępcami. Kolejny z odbywających karę nastolatków decyduje się podzielić z nami swoją tragiczną historią.</desc>
+    <date>2021</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412060000 +0200" stop="20260412065500 +0200" channel="Antena">
+    <title lang="pl">Najlepsze Koncerty Szlagier TV!</title>
+    <sub-title lang="pl">Paweł Gołecki</sub-title>
+    <desc lang="pl">Program prezentuje najciekawsze koncerty dedykowane miłośnikom śląskich szlagierów. Widzowie posłuchają zarówno jubileuszowych i urodzinowych gal największych gwiazd, jak i zobaczą wydarzenia sezonowe.Nie zabraknie także bloków koncertowych wypełnionych utworami o biesiadnym i folkowym charakterze. To muzyczna podróż przez największe przeboje i wyjątkowe sceniczne spotkania z artystami.</desc>
+    <category lang="pl">Program Muzyczny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412065500 +0200" stop="20260412080000 +0200" channel="Antena">
+    <title lang="pl">Sekret Korony Chrystusa</title>
+    <desc lang="pl">Opowieść o ostatnich dniach życia Jezusa Chrystusa. Syn Boży przebywa w Jerozolimie, gdzie następują po sobie wydarzenia zakończone jego ukrzyżowaniem i zmartwychwstaniem.</desc>
+    <credits>
+      <actor>Rik Makarem</actor>
+      <actor>Heider Ali</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="pl">Serial Historyczny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PjEkq9ha3BhNjU1MTA0Ny5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412080000 +0200" stop="20260412090500 +0200" channel="Antena">
+    <title lang="pl">Sekret Korony Chrystusa</title>
+    <desc lang="pl">Opowieść o ostatnich dniach życia Jezusa Chrystusa. Syn Boży przebywa w Jerozolimie, gdzie następują po sobie wydarzenia zakończone jego ukrzyżowaniem i zmartwychwstaniem.</desc>
+    <credits>
+      <actor>Rik Makarem</actor>
+      <actor>Heider Ali</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="pl">Serial Historyczny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PjEkq9ha3BhNjU1MTA0Ny5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412090500 +0200" stop="20260412100500 +0200" channel="Antena">
+    <title lang="pl">Krzysztof Ziemiec zaprasza</title>
+    <desc lang="pl">Program publicystyczny opierający się na pogłębionej, rzeczowej rozmowie poświęconej najważniejszym wydarzeniom mijającego tygodnia. W każdym odcinku prowadzący wraz z zaproszonymi gośćmi analizuje aktualne tematy ze świata polityki, spraw społecznych i gospodarki.</desc>
+    <date>2026</date>
+    <category lang="pl">Program Publicystyczny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412100500 +0200" stop="20260412120000 +0200" channel="Antena">
+    <title lang="pl">Zaginiona księga Nostradamusa</title>
+    <desc lang="pl">W 1994 r. włoski dziennikarz Enza Massa przypadkowo znalazł w Bibliotece Narodowej w Rzymie manuskrypt pochodzący z 1629 r., podpisany niezmywalnym atramentem - Michel de Nostre-Dame. Obejmował on ponad 80 ilustracji wykonanych akwarelą oraz towarzyszący im łaciński tekst. Czy obrazy te przedstawiają czterowiersze Nostradamusa, które - jak twierdzą niektórzy - zawierają przepowiednie przyszłości do XXI wieku? Autorzy filmu towarzyszą naukowcom, którzy badają historię tej księgi. W celu ustalenia autentyczności manuskryptu zostaje przeprowadzona analiza z zastosowaniem metod wykorzystywanych w medycynie sądowej. Dokument ożywia ilustracje tajemniczej księgi dzięki animacjom komputerowym i filmowym inscenizacjom. Autorzy filmu sięgają też do korespondencji Nostradamusa z jego synem Césarem, który miał przekazać księgę przyszłemu papieżowi. W listach tych badacze poszukują wskazówek do interpretacji enigmatycznych wizji jasnowidza.</desc>
+    <date>2007</date>
+    <category lang="pl">Film Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/ywGkq9ha3BhNDE3Mzc2MS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412120000 +0200" stop="20260412130000 +0200" channel="Antena">
+    <title lang="pl">Polska. Największe tajemnice</title>
+    <desc lang="pl">Zatoka Sztuki od lat funkcjonuje jako popularny, lecz owiany złą sławą klub nocny. Dopiero tragiczna śmierć młodej dziewczyny ujawnia skalę skandalu związanego z wykorzystywaniem nieletnich i zrodziła pytania o to, kto wiedział na ten temat więcej od innych. Twórcy przyglądają się także podziemnemu miastu w Kostrzynie i okolicznościom jego odkrycia. Badają tajemnice piramidy w Rapie, analizują doniesienia o objawieniach w Zabłudowie oraz wracają do zagadkowej śmierci Bartłomieja Frykowskiego, zastanawiając się, czy nad jego rodziną ciąży fatum.</desc>
+    <date>2026</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412130000 +0200" stop="20260412140500 +0200" channel="Antena">
+    <title lang="pl">Co Polak potrafi na drodze?</title>
+    <desc lang="pl">W programie zostaną zaprezentowane najbardziej nieprzewidywalne, śmieszne i groźne sytuacje z polskich ulic. Widzowie zobaczą zarówno zabawne wyczyny kierowców, jak i momenty pełne napięcia. Nagrania komentują Olga Borys, Paweł "Czadoman" Dudek, Grzegorz Stasiak oraz Maciej Wisławski. Dzielą się swoimi spostrzeżeniami, anegdotami oraz praktycznymi poradami, a także sprawdzają, czy dziś udałoby im się ponownie zdać egzamin na prawo jazdy.</desc>
+    <date>2025</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Q0-kq9ha3BhNjU0Njk1OS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412140500 +0200" stop="20260412150000 +0200" channel="Antena">
+    <title lang="pl">Łowcy skarbów</title>
+    <sub-title lang="pl">Fontanna młodości</sub-title>
+    <desc lang="pl">Piękna profesor historii Sydney Fox (Tia Carrere) poszukuje zabytków i pamiątek z przeszłości. Znaleziska chce wykorzystać w swojej pracy naukowej. Na jej drodze stają bezwzględni poszukiwacze skarbów, którzy próbują wzbogacić się dzięki takim odkryciom. Na co dzień Sydney jest wykładowcą w amerykańskim Trinity College. W pracy pani profesor pomagają Karen Petrusky (Tanja Reichert) i wierny przyjaciel Sydney, Nigel (Christien Anholt). Jest on typem intelektualisty, który woli ślęczeć w bibliotekach nad manuskryptami, niż znosić niewygody podróży.</desc>
+    <credits>
+      <actor>Tia Carrere</actor>
+      <actor>Crispin Bonham-Carter</actor>
+      <actor>Christien Anholt</actor>
+      <actor>Ami Chorlton</actor>
+      <actor>Tanja Reichert</actor>
+      <actor>Andy Henderson</actor>
+      <actor>José Lifante</actor>
+      <actor>Ian McNeice</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pl">Serial Przygodowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja, Niemcy, Kanada, USA</country>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412150000 +0200" stop="20260412160000 +0200" channel="Antena">
+    <title lang="pl">Łowcy skarbów</title>
+    <sub-title lang="pl">Krzyż króla Artura</sub-title>
+    <desc lang="pl">Piękna profesor historii Sydney Fox (Tia Carrere) poszukuje zabytków i pamiątek z przeszłości. Znaleziska chce wykorzystać w swojej pracy naukowej. Na jej drodze stają bezwzględni poszukiwacze skarbów, którzy próbują wzbogacić się dzięki takim odkryciom. Na co dzień Sydney jest wykładowcą w amerykańskim Trinity College. W pracy pani profesor pomagają Karen Petrusky (Tanja Reichert) i wierny przyjaciel Sydney, Nigel (Christien Anholt). Jest on typem intelektualisty, który woli ślęczeć w bibliotekach nad manuskryptami, niż znosić niewygody podróży.</desc>
+    <credits>
+      <actor>Tia Carrere</actor>
+      <actor>Nicholas Irons</actor>
+      <actor>Christien Anholt</actor>
+      <actor>Emily Bruni</actor>
+      <actor>Tanja Reichert</actor>
+      <actor>Michael Culkin</actor>
+      <actor>Ken Drury</actor>
+      <actor>Clive Francis</actor>
+      <actor>Ruth Platt</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pl">Serial Przygodowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja, Niemcy, Kanada, USA</country>
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412160000 +0200" stop="20260412170000 +0200" channel="Antena">
+    <title lang="pl">Łowcy skarbów</title>
+    <sub-title lang="pl">Klucze do Stonehedge</sub-title>
+    <desc lang="pl">Sidney i Nigel umawiają się na spotkanie ze specjalistą od druidów, który obiecuje im pomóc w zdobyciu legendarnego "klucza do Stonehenge". Za jego namową Sydney unieszkodliwia kuriera, przewożącego w tytanowej walizce sztylet z zaszyfrowanymi wskazówkami. Teraz czeka ją jeszcze rozbrojenie bomby, która miała zlikwidować intruzów. Okazuje się, że pod informatora podszył się syn ich największego wroga - Andreas De Viega. Sydney jest wściekła, że została wprowadzona w błąd. Wkrótce dowiaduje się, że Fabrice De Viega przeżył wybuch w kambodżańskiej dżungli.</desc>
+    <credits>
+      <actor>Tia Carrere</actor>
+      <actor>George Calil</actor>
+      <actor>Christien Anholt</actor>
+      <actor>Charlotte Comer</actor>
+      <actor>Tanja Reichert</actor>
+      <actor>Simon MacCorkindale</actor>
+      <actor>Matthew Scurfield</actor>
+      <actor>Phil Smeeton</actor>
+      <actor>Juan Carlos Velis</actor>
+      <actor>Rhodri Wyn Miles</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pl">Serial Przygodowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja, Niemcy, Kanada, USA</country>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412170000 +0200" stop="20260412175500 +0200" channel="Antena">
+    <title lang="pl">Łowcy skarbów</title>
+    <desc lang="pl">Kane, największy rywal Sydney Fox wśród poszukiwaczy skarbów, zdobywa mapę do miejsca ukrycia jaja smoka, które powstało w fortecy Quan Shu w Mandżurii w 1359 roku. Niezrażeni niepowodzeniem Sydney i Nigel planują podróż do Chin. Sydney przyjmuje do pracy nową asystentkę, Karen Petrusky (Tanja Reichert ). Claudia bowiem postanowiła zmienić branżę - rozpoczyna karierę w świecie mody. Sydney i Nigel jadą na terenach dawnej Mandżurii. Odkrywają, że Kane został wtrącony za kratki przez miejscowego watażkę, Shandara. Sydney, by odzyskać skradzioną przez mężczyznę mapę, musi wydostać go z więzienia. Sytuacja jeszcze bardziej komplikuje się, gdy naukowcom udaje się odnaleźć Jajo Smoka. Najmniejszy ruch grozi potężną eksplozją, a Sydney i Nigel muszą się śpieszyć, bo w dżungli ścigają ich ludzie Shandara.</desc>
+    <credits>
+      <actor>Tia Carrere</actor>
+      <actor>John Tench</actor>
+      <actor>Christien Anholt</actor>
+      <actor>Jonathan Potts</actor>
+      <actor>Tanja Reichert</actor>
+      <actor>Peter Williams</actor>
+      <actor>Ravi Khajuria</actor>
+      <actor>Djanet Sears</actor>
+      <actor>George Chiang</actor>
+      <actor>Ho Chow</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pl">Serial Przygodowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja, Niemcy, Kanada, USA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412175500 +0200" stop="20260412190000 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadki ekstremalne</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2025</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/DNwkq9ha3BhNTczNzIxNy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S5 E24</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412190000 +0200" stop="20260412195800 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadków wodnych</sub-title>
+    <desc lang="pl">W programie zaprezentowane zostanie zestawienie najlepszych filmów pokazujących prawdziwe, lecz niewiarygodne historie.</desc>
+    <date>2023</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412195800 +0200" stop="20260412200000 +0200" channel="Antena">
+    <title lang="pl">Czas na pogodę</title>
+    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
+    <category lang="pl">Program Informacyjny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260412200000 +0200" stop="20260412220500 +0200" channel="Antena">
+    <title lang="pl">Alex Hugo - górski detektyw</title>
+    <desc lang="pl">Alex Hugo, były policjant z Marsylii, ma dość chaosu wielkiego miasta i panującej w nim przemocy. Porzuca więc dotychczasowe życie i przenosi się w odludne góry, szukając ciszy oraz wewnętrznej równowagi. Zyskuje upragnioną wolność, nie potrafi jednak całkiem uciec od przeszłości. Na miejscu podejmuje pracę detektywa i zaczyna rozwiązywać skomplikowane sprawy mieszkańców regionu. Każde śledztwo zmusza go do konfrontacji z własnymi demonami i wciąż powracającym pytaniem: czy naprawdę można zacząć wszystko od nowa.</desc>
+    <credits>
+      <actor>Samuel Le Bihan</actor>
+      <actor>Mikaël Fitoussi</actor>
+      <actor>Fabien Baiardi</actor>
+      <actor>Lionnel Astier</actor>
+      <actor>Marilyne Canto</actor>
+      <actor>Caroline Baehr</actor>
+      <actor>Marc Pistolesi</actor>
+      <actor>Gilles Spadari</actor>
+      <actor>Louise Szpindel</actor>
+      <actor>Franck Adrien</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+    <star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260412220500 +0200" stop="20260413001000 +0200" channel="Antena">
+    <title lang="pl">Alex Hugo - górski detektyw</title>
+    <desc lang="pl">Alex Hugo, były policjant z Marsylii, ma dość chaosu wielkiego miasta i panującej w nim przemocy. Porzuca więc dotychczasowe życie i przenosi się w odludne góry, szukając ciszy oraz wewnętrznej równowagi. Zyskuje upragnioną wolność, nie potrafi jednak całkiem uciec od przeszłości. Na miejscu podejmuje pracę detektywa i zaczyna rozwiązywać skomplikowane sprawy mieszkańców regionu. Każde śledztwo zmusza go do konfrontacji z własnymi demonami i wciąż powracającym pytaniem: czy naprawdę można zacząć wszystko od nowa.</desc>
+    <credits>
+      <actor>Samuel Le Bihan</actor>
+      <actor>Mikaël Fitoussi</actor>
+      <actor>Fabien Baiardi</actor>
+      <actor>Lionnel Astier</actor>
+      <actor>Marilyne Canto</actor>
+      <actor>Caroline Baehr</actor>
+      <actor>Marc Pistolesi</actor>
+      <actor>Gilles Spadari</actor>
+      <actor>Louise Szpindel</actor>
+      <actor>Franck Adrien</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+    <star-rating>
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
 </tv>
