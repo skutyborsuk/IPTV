@@ -877,350 +877,6 @@
     <display-name lang="pl">|PL| TVP 3 OLSZTYN</display-name>
     <url>http://www.tv.wp.pl</url>
   </channel>
-  <programme start="20260408044000 +0200" stop="20260408060000 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Najdziwniejsze przypadki i ludzie świata</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2024</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408060000 +0200" stop="20260408061000 +0200" channel="Antena">
-    <title lang="pl">Hmmm...</title>
-    <desc lang="pl">Program rozbudza ciekawość i stawia pytania, które potrafią zaskoczyć. Sprawdza, dlaczego ten sam posiłek może smakować inaczej w zależności od towarzyszących mu dookoła dźwięków oraz czy kot rzeczywiście komunikuje się ruchem uszu. Zagłębia się też w historię, odsłaniając nieoczywiste fakty, jak pierwotne zastosowanie piły łańcuchowej. Nauka, kultura i przeszłość splatają się tu z humorem, tworząc pełną niespodzianek opowieść.</desc>
-    <date>2026</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Polska</country>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408061000 +0200" stop="20260408071000 +0200" channel="Antena">
-    <title lang="pl">Legendy rocka</title>
-    <sub-title lang="pl">Tina Turner</sub-title>
-    <desc lang="pl">Bohaterką cyklu jest legendarna amerykańska wokalistka obdarzona charakterystycznym głosem oraz charyzmą i energią sceniczną. Swoją karierę muzyczną Tina Turner rozpoczynała od śpiewania w chórach kościelnych. Punktem zwrotnym stała się dla niej współpraca, a później małżeństwo z legendarnym gitarzystą Ikiem Turnerem. Zakończyło się ono głośnym rozwodem. W 1984 r. artystka powróciła do show-biznesu.</desc>
-    <date>2015</date>
-    <category lang="pl">Cykl Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/FMrkq9ha3BhMzA4ODE0NS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Wielka Brytania</country>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408071000 +0200" stop="20260408074000 +0200" channel="Antena">
-    <title lang="pl">Celnicy</title>
-    <desc lang="pl">Funkcjonariusze urzędów celnych muszą mierzyć się z przemytnikami wszędzie, na morzu, na lotniskach i w portach. Często ich aktywność i zaangażowanie skutkują konfiskatą nielegalnych narkotyków lub papierosów wartych miliony dolarów. Program prezentuje kulisy ich pracy i problemy z jakimi się codziennie stykają.</desc>
-    <date>2010</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/9g6kq9ha3BhMjk2MDM3MS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Wielka Brytania</country>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408074000 +0200" stop="20260408083500 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Przypadki przestępców</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2024</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408083500 +0200" stop="20260408094000 +0200" channel="Antena">
-    <title lang="pl">Megalotnisko w Dubaju</title>
-    <desc lang="pl">Kolejna odsłona serii przedstawiającej pracę najbardziej ruchliwego lotniska na świecie. Międzynarodowy port lotniczy w Dubaju obsługuje rocznie 350 tysięcy lotów i przyjmuje 75 milionów pasażerów. Każdej doby pracuje tam 60 tysięcy osób. Personel lotniska często ma do czynienia z zaskakującymi sytuacjami, takimi jak żywe węże w bagażu pasażera i gigantyczny przerzut heroiny.</desc>
-    <date>2014</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Wielka Brytania</country>
-    <episode-num system="onscreen">E11</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408094000 +0200" stop="20260408104000 +0200" channel="Antena">
-    <title lang="pl">Megalotnisko w Dubaju</title>
-    <desc lang="pl">Kolejna odsłona serii przedstawiającej pracę najbardziej ruchliwego lotniska na świecie. Międzynarodowy port lotniczy w Dubaju obsługuje rocznie 350 tysięcy lotów i przyjmuje 75 milionów pasażerów. Każdej doby pracuje tam 60 tysięcy osób. Personel lotniska często ma do czynienia z zaskakującymi sytuacjami, takimi jak żywe węże w bagażu pasażera i gigantyczny przerzut heroiny.</desc>
-    <date>2014</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Wielka Brytania</country>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408104000 +0200" stop="20260408114000 +0200" channel="Antena">
-    <title lang="pl">Co Polak potrafi na drodze?</title>
-    <desc lang="pl">W programie zostaną zaprezentowane najbardziej nieprzewidywalne, śmieszne i groźne sytuacje z polskich ulic. Widzowie zobaczą zarówno zabawne wyczyny kierowców, jak i momenty pełne napięcia. Nagrania komentują Olga Borys, Paweł "Czadoman" Dudek, Grzegorz Stasiak oraz Maciej Wisławski. Dzielą się swoimi spostrzeżeniami, anegdotami oraz praktycznymi poradami, a także sprawdzają, czy dziś udałoby im się ponownie zdać egzamin na prawo jazdy.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Q0-kq9ha3BhNjU0Njk1OS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408114000 +0200" stop="20260408123500 +0200" channel="Antena">
-    <title lang="pl">Kabaretowy szał</title>
-    <sub-title lang="pl">Kabaret Chyba</sub-title>
-    <desc lang="pl">Najpopularniejsi artyści polskiej sceny kabaretowej w swoich najlepszych skeczach i piosenkach. W programie zobaczymy m.in. Ani Mru-Mru, Kabaret Moralnego Niepokoju, Kabaret Młodych Panów, Kabaret Smile, Kabaret Łowcy.B, Kabaret Jurki, Kabaret Ciach, Kabaret DNO, Kabaret OT.TO, Grupę MoCarta, Zbigniewa Zamachowskiego, Ireneusza Krosnego, Artura Andrusa czy Waldemara Malickiego.</desc>
-    <date>2019</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Jizkq5ha3BhNTA2Njg4LmpwZ5GVAs0BLADCww" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408123500 +0200" stop="20260408134000 +0200" channel="Antena">
-    <title lang="pl">Winnice miłości</title>
-    <desc lang="pl">Achilleas stara się za wszelką cenę wspierać Melinię, która przeżywa trudne chwile w szpitalu. Kobieta otrzymuje od lekarzy szokujące wieści. Jej kochanek wyraźnie czuje presję w kwestii powrotu na Cypr. Tam jednak musi sobie poradzić z poważniejszymi problemami. Za jego kłopotami stoją spiskujący Eurydika i Antonis. Na Anastasię spada wina za atak na Mattheosa. Z postrzelonym mężczyzną na Krecie zamierza spotkać się Achilleas. Ponadto planuje wyjawić Sifisowi prawdę.</desc>
-    <credits>
-      <actor>Apostolis Totsikas</actor>
-      <actor>Eleni Vaitsou</actor>
-      <actor>Varvara Larmou</actor>
-      <actor>George Zenios</actor>
-      <actor>Melanie Steliou</actor>
-      <actor>Elena Paloumbis</actor>
-      <actor>Tina Leonora</actor>
-      <actor>Christopher Ray</actor>
-      <actor>Stefani Charalampous</actor>
-      <actor>George Zouvelos</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="pl">Serial Obyczajowy</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Cypr, Grecja</country>
-    <episode-num system="onscreen">E26</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408134000 +0200" stop="20260408144000 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Przypadki absurdów</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/DNwkq9ha3BhNTczNzIxNy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408144000 +0200" stop="20260408154000 +0200" channel="Antena">
-    <title lang="pl">Niezwykły dr Pol</title>
-    <sub-title lang="pl">Krowia mama</sub-title>
-    <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
-Dr Pol i jego ekipa stają przed takimi wyzwaniami, jak stworzenie protezy kopyta czy poradzenie sobie z zestresowaną krową. Często w ich ręce trafiają trudne do zdiagnozowania przypadki wymagające niesztampowych rozwiązań. Weterynarze nie tylko leczą, zszywają i opatrują, ale też z konieczności poją i karmią swoich podopiecznych. 
-Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od tej pory cieszy się sporą popularnością, ponieważ do 2018 r. powstało aż dwanaście sezonów.</desc>
-    <date>2012</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/MFbkq9ha3BhNjU1MTc0Ni5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408154000 +0200" stop="20260408164500 +0200" channel="Antena">
-    <title lang="pl">Niezwykły dr Pol</title>
-    <sub-title lang="pl">W pełni księżyca</sub-title>
-    <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
-Dr Pol i jego ekipa stają przed takimi wyzwaniami, jak stworzenie protezy kopyta czy poradzenie sobie z zestresowaną krową. Często w ich ręce trafiają trudne do zdiagnozowania przypadki wymagające niesztampowych rozwiązań. Weterynarze nie tylko leczą, zszywają i opatrują, ale też z konieczności poją i karmią swoich podopiecznych. 
-Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od tej pory cieszy się sporą popularnością, ponieważ do 2018 r. powstało aż dwanaście sezonów.</desc>
-    <date>2012</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/MFbkq9ha3BhNjU1MTc0Ni5qcGeRlQLNASwAwsM" />
-    <country lang="pl">USA</country>
-    <episode-num system="onscreen">E7</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408164500 +0200" stop="20260408174500 +0200" channel="Antena">
-    <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Katastrofy lotnicze, część 2</sub-title>
-    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2023</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408174500 +0200" stop="20260408181500 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Łódź</sub-title>
-    <desc lang="pl">Podróżnik Wojciech Cejrowski prezentuje sposób budowy wodnych środków transportu na przykładzie prostej dłubanki oraz łodzi z burtami. Opowiada też o kolejnych udoskonaleniach wprowadzanych przez człowieka do stosowanych konstrukcji.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E73</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408181500 +0200" stop="20260408184500 +0200" channel="Antena">
-    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
-    <sub-title lang="pl">Na ryby</sub-title>
-    <desc lang="pl">W każdym programie Wojciecha Cejrowskiego prezentowane są ciekawostki z różnych zakątków świata. Podróżnik chętnie uczestniczy w codziennych zajęciach mieszkańców danego regionu i różnego rodzaju lokalnych rozrywkach. Nie obawia się też próbować nawet najbardziej nieapetycznie wyglądających specjałów kulinarnych.</desc>
-    <date>2009</date>
-    <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E74</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408184500 +0200" stop="20260408195800 +0200" channel="Antena">
-    <title lang="pl">Morderstwa w Paryżu</title>
-    <sub-title lang="pl">Wybrani, część 1</sub-title>
-    <desc lang="pl">Adele zostaje zamknięta w szpitalu psychiatrycznym. Bezskutecznie próbuje przekonać lekarzy, że padła ofiarą spisku. Camille w tym czasie przejmuje tożsamość swojej siostry bliźniaczki. Śledczy prowadzą dochodzenie w sprawie brutalnej śmierci prawnika. Okazuje się, że ofiara nakłaniała Agathe, dziewczynę syna Rochera, do zamieszkania w wiosce Yonne - miejscu, gdzie Lucas spędził tydzień wakacji.</desc>
-    <credits>
-      <actor>Odile Vuillemin</actor>
-      <actor>Philippe Bas</actor>
-      <actor>Jean-Michel Martial</actor>
-      <actor>Raphaël Ferret</actor>
-      <actor>Valérie Dashwood</actor>
-      <actor>Sophie de Fürst</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/7SRkq9ha3BhNjU1MTAzNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Francja</country>
-    <episode-num system="onscreen">E9</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408195800 +0200" stop="20260408200000 +0200" channel="Antena">
-    <title lang="pl">Czas na pogodę</title>
-    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
-    <category lang="pl">Program Informacyjny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408200000 +0200" stop="20260408212000 +0200" channel="Antena">
-    <title lang="pl">Morderstwa w Paryżu</title>
-    <sub-title lang="pl">Wybrani, część 2</sub-title>
-    <desc lang="pl">Adele ucieka ze szpitala psychiatrycznego. Teraz musi naprawić to, co zepsuła podszywająca się pod nią siostra bliźniaczka. Przez Camille rozpadł się zespół - Emma i Hyppolite są skłóceni, a Rocher czuje się urażony. Adele nie potrafi zaleczyć ich ran. Postanawia wrócić do przerwanego śledztwa. Dowiaduje się, że ośrodek edukacyjny w Yonne to tak naprawdę sekta. Niestety, przybywające tu dzieci zostają poddane praniu mózgu - odurzone narkotykami mają zabić własnych rodziców.</desc>
-    <credits>
-      <actor>Odile Vuillemin</actor>
-      <actor>Philippe Bas</actor>
-      <actor>Jean-Michel Martial</actor>
-      <actor>Raphaël Ferret</actor>
-      <actor>Valérie Dashwood</actor>
-      <actor>Sophie de Fürst</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/7SRkq9ha3BhNjU1MTAzNi5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Francja</country>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260408212000 +0200" stop="20260408223500 +0200" channel="Antena">
-    <title lang="pl">Balthazar: Śledczy fenomen</title>
-    <sub-title lang="pl">Marionetki</sub-title>
-    <desc lang="pl">Raphael Balthazar odwiedza rodzinne miasteczko, w którym prowadzi nowe śledztwo. Na miejscu musi jednak zmierzyć się nieprzyjemnymi wspomnieniami. Na dodatek trafia na policyjną listę poszukiwanych. Mężczyźnie mimo to trudno oprzeć się urokowi nowej zagadki. Gdy wydaje się, że wszystko wraca do normy, z pozoru rutynowa autopsja wywraca życie Balthazara do góry nogami.</desc>
-    <credits>
-      <actor>Tomer Sisley</actor>
-      <actor>Yannig Samot</actor>
-      <actor>Philypa Phoenix</actor>
-      <actor>Côme Levin</actor>
-      <actor>Pauline Cheviller</actor>
-      <actor>Hélene de Fougerolles</actor>
-      <actor>Leslie Medina</actor>
-      <actor>Constance Labbé</actor>
-      <actor>Aliocha Itovich</actor>
-      <actor>Caterina Murino</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja</country>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <rating>
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme start="20260408223500 +0200" stop="20260408235000 +0200" channel="Antena">
-    <title lang="pl">Detektywi z Bordeaux</title>
-    <category lang="pl">Serial Kryminalny</category>
-    <episode-num system="onscreen">S4 E13</episode-num>
-  </programme>
-  <programme start="20260408235000 +0200" stop="20260409010500 +0200" channel="Antena">
-    <title lang="pl">Detektywi z Bordeaux</title>
-    <desc lang="pl">Codzienne obowiązki pracowników jednostki specjalnej w Bordeaux, którzy każdego dnia mierzą się ze skomplikowanymi problemami kryminalnymi stanowiącymi poważne zagrożenie dla mieszkańców. Dla zespołu ważne są łączące ich relacje, przyjaźń i lojalność, choć nie są im obce stres i konflikty.</desc>
-    <credits>
-      <actor>Xavier Deluc</actor>
-      <actor>Chrystelle Labaude</actor>
-      <actor>Jean-Pascal Lacoste</actor>
-      <actor>Virginie Caliari</actor>
-      <actor>Kamel Belghazi</actor>
-      <actor>Olivia Lancelot</actor>
-      <actor>Bernard Montiel</actor>
-      <actor>Linda Hardy</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="pl">Serial Kryminalny</category>
-    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
-    <country lang="pl">Francja, Belgia</country>
-    <episode-num system="onscreen">S4 E14</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260409010500 +0200" stop="20260409020500 +0200" channel="Antena">
-    <title lang="pl">Polska. Największe tajemnice</title>
-    <desc lang="pl">Józef Cyppek, znany jako rzeźnik z Niebuszewa, został skazany za jedno morderstwo, jednak wokół jego postaci narosło wiele legend o seryjnych zbrodniach, co na stałe wpisało go w mroczną historię Szczecina. Zaginiony pociąg pancerny III Rzeszy, rzekomo pełen kosztowności i złota, miał zniknąć w okolicach Wałbrzycha pod koniec II wojny światowej, co do dziś pozostaje tajemnicą. Polska w latach 70. aspirując do rozwoju atomistyki, uruchomiła reaktor Maria, jednak po tajemniczej śmierci generała Sylwestra Kaliskiego program jądrowy został przerwany. W Głotowie lokalna tradycja mówi o cudzie eucharystycznym z czasów najazdów, choć nie potwierdził go Kościół. W 2004 roku cała Polska śledziła porwanie Sebastiana Świerzyńskiego, który przeżył uwięzienie dzięki wytrwałości ojca.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/hhOkq9ha3BhNjU0NDk4OC5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260409020500 +0200" stop="20260409030500 +0200" channel="Antena">
-    <title lang="pl">Polska. Największe tajemnice</title>
-    <desc lang="pl">Iwona Wieczorek zaginęła w nocy 16/17 lipca 2010, wracając z klubu w Sopocie - ostatni raz uchwycił ją monitoring w Jelitkowie, gdy szła w stronę domu, po czym ślad po niej zaginął. Góra Ślęża, owiana legendami o pradawnych kultach i niezwykłej mocy, uchodzi za drugie po Wawelu miejsce mocy w Polsce, przyciągając poszukiwaczy tajemnic. W czasach PRL w MSW działała tajna grupa kontrwywiadowcza "straceńców", która włamywała się do ambasad, otwierając sejfy promieniowaniem gamma i kopiując tajne dokumenty bez wykrycia.</desc>
-    <date>2025</date>
-    <category lang="pl">Program Rozrywkowy</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/hhOkq9ha3BhNjU0NDk4OC5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E7</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
   <programme start="20260409030500 +0200" stop="20260409041000 +0200" channel="Antena">
     <title lang="pl">77 TV</title>
     <sub-title lang="pl">Katastrofy budowlane</sub-title>
@@ -1314,7 +970,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409074000 +0200" stop="20260409083500 +0200" channel="Antena">
+  <programme start="20260409074000 +0200" stop="20260409084000 +0200" channel="Antena">
     <title lang="pl">77 TV</title>
     <sub-title lang="pl">Przypadki tajemnicze i niewyjaśnione</sub-title>
     <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
@@ -1327,7 +983,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409083500 +0200" stop="20260409093500 +0200" channel="Antena">
+  <programme start="20260409084000 +0200" stop="20260409093500 +0200" channel="Antena">
     <title lang="pl">Megalotnisko w Dubaju</title>
     <desc lang="pl">Kolejna odsłona serii przedstawiającej pracę najbardziej ruchliwego lotniska na świecie. Międzynarodowy port lotniczy w Dubaju obsługuje rocznie 350 tysięcy lotów i przyjmuje 75 milionów pasażerów. Każdej doby pracuje tam 60 tysięcy osób. Personel lotniska często ma do czynienia z zaskakującymi sytuacjami, takimi jak żywe węże w bagażu pasażera i gigantyczny przerzut heroiny.</desc>
     <date>2014</date>
@@ -1399,7 +1055,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409134000 +0200" stop="20260409144000 +0200" channel="Antena">
+  <programme start="20260409134000 +0200" stop="20260409144500 +0200" channel="Antena">
     <title lang="pl">77 TV</title>
     <sub-title lang="pl">Przypadków kolejowych</sub-title>
     <desc lang="pl">W programie zaprezentowane zostanie zestawienie najlepszych filmów pokazujących prawdziwe, lecz niewiarygodne historie.</desc>
@@ -1412,7 +1068,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409144000 +0200" stop="20260409154000 +0200" channel="Antena">
+  <programme start="20260409144500 +0200" stop="20260409154000 +0200" channel="Antena">
     <title lang="pl">Niezwykły dr Pol</title>
     <sub-title lang="pl">Studentka z Iowa</sub-title>
     <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
@@ -1427,7 +1083,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409154000 +0200" stop="20260409164000 +0200" channel="Antena">
+  <programme start="20260409154000 +0200" stop="20260409164500 +0200" channel="Antena">
     <title lang="pl">Niezwykły dr Pol</title>
     <sub-title lang="pl">Silne emocje</sub-title>
     <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
@@ -1442,20 +1098,20 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409164000 +0200" stop="20260409174500 +0200" channel="Antena">
+  <programme start="20260409164500 +0200" stop="20260409174500 +0200" channel="Antena">
     <title lang="pl">77 TV</title>
-    <sub-title lang="pl">Przypadki gastronomiczne</sub-title>
+    <sub-title lang="pl">Przypadki domowe</sub-title>
     <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
-    <date>2023</date>
+    <date>2024</date>
     <category lang="pl">Program Rozrywkowy</category>
     <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
     <country lang="pl">Polska</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
+    <episode-num system="onscreen">S3 E1</episode-num>
     <rating>
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409174500 +0200" stop="20260409181500 +0200" channel="Antena">
+  <programme start="20260409174500 +0200" stop="20260409182000 +0200" channel="Antena">
     <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
     <sub-title lang="pl">Jedzenie dżungli</sub-title>
     <desc lang="pl">Polski podróżnik opowie, czym żywią się plemiona zamieszkujące amazońskie lasy tropikalne. Zaprezentuje nieznane gatunki owoców oraz pokaże, jak przygotowuje się do spożycia ogromne pająki tarantule, uważane w tamtych regionach za przysmak.</desc>
@@ -1468,7 +1124,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409181500 +0200" stop="20260409185000 +0200" channel="Antena">
+  <programme start="20260409182000 +0200" stop="20260409185000 +0200" channel="Antena">
     <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
     <sub-title lang="pl">Kosmici</sub-title>
     <desc lang="pl">Podczas swoich wypraw do różnych zakątków świata podróżnik natyka się na te same wynalazki związane m.in. z życiem codziennym, kulturą i sztuką coraz obronnością. Prowadzący zastanawia się, czy podobieństwa kulturowe na odległych od siebie kontynentach to przypadek, efekt racjonalnej działalności człowieka, a może zasługa przybyszy z obcej planety...</desc>
@@ -1511,7 +1167,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409200000 +0200" stop="20260409212000 +0200" channel="Antena">
+  <programme start="20260409200000 +0200" stop="20260409211000 +0200" channel="Antena">
     <title lang="pl">Morderstwa w Paryżu</title>
     <sub-title lang="pl">Więzień, część 1</sub-title>
     <desc lang="pl">Podczas jarmarku 9-letni Hugo Fournier zostaje uprowadzony. Całe zajście obserwuje zszokowana Adele. Dla rodziców pojmanego chłopca to powrót do koszmaru sprzed dwudziestu lat, kiedy to zniknęła ich córka Laura. Adele wraca do tamtej sprawy. Dowiaduje się, że ówczesny oficer śledczy zawsze podejrzewał Argosa, lecz w obliczu braku dowodów nie mógł go aresztować. Adele, chcąc odnaleźć żywego malca, musi stawić czoła duchom przeszłości.</desc>
@@ -1533,7 +1189,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409212000 +0200" stop="20260409223500 +0200" channel="Antena">
+  <programme start="20260409211000 +0200" stop="20260409222000 +0200" channel="Antena">
     <title lang="pl">Balthazar: Śledczy fenomen</title>
     <sub-title lang="pl">Wpływ</sub-title>
     <desc lang="pl">Przebywający w areszcie domowym Balthazar spędza czas wolny na szpiegowaniu swoich sąsiadów. Pewnego razu przypadkiem staje się świadkiem samobójstwa nastolatka. Wkrótce ktoś w takiej samej masce kaczki, jaką miał na twarzy chłopak, popełnia morderstwo w Paryżu.</desc>
@@ -1558,7 +1214,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20260409223500 +0200" stop="20260409235000 +0200" channel="Antena">
+  <programme start="20260409222000 +0200" stop="20260409234000 +0200" channel="Antena">
     <title lang="pl">Detektywi z Bordeaux</title>
     <desc lang="pl">Codzienne obowiązki pracowników jednostki specjalnej w Bordeaux, którzy każdego dnia mierzą się ze skomplikowanymi problemami kryminalnymi stanowiącymi poważne zagrożenie dla mieszkańców. Dla zespołu ważne są łączące ich relacje, przyjaźń i lojalność, choć nie są im obce stres i konflikty.</desc>
     <credits>
@@ -1580,7 +1236,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260409235000 +0200" stop="20260410010000 +0200" channel="Antena">
+  <programme start="20260409234000 +0200" stop="20260410005000 +0200" channel="Antena">
     <title lang="pl">Detektywi z Bordeaux</title>
     <desc lang="pl">Serial opowiada o pracy elitarnej jednostki policji w Bordeaux, która mierzy się z brutalnymi i skomplikowanymi sprawami kryminalnymi. Każde śledztwo wymaga determinacji, odwagi i pełnego zaangażowania, a presja czasu nie pozwala na błędy. Równolegle poznajemy prywatne relacje funkcjonariuszy - ich konflikty, lojalności i rodzące się przyjaźnie. Zawodowe wyzwania splatają się z osobistymi problemami, wystawiając zespół na próbę i budując napięcie zarówno w pracy, jak i poza nią.</desc>
     <credits>
@@ -1604,7 +1260,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260410010000 +0200" stop="20260410030000 +0200" channel="Antena">
+  <programme start="20260410005000 +0200" stop="20260410023500 +0200" channel="Antena">
     <title lang="pl">Nostradamus: proroctwa na XXI wiek</title>
     <desc lang="pl">Twórcy przyglądają się postaci XVI-wiecznego francuskiego proroka, którego przepowiednie do dziś budzą ogromne emocje. Analizują notatki przypisywane Nostradamusowi i zestawiają je ze współczesnymi wydarzeniami, takimi jak zamachy z 11 września 2001 roku, tsunami czy epidemia eboli. Eksperci próbują ustalić, czy trafne interpretacje to przypadek, czy może wynik niezawodnej intuicji. Współczesne metody badawcze pozwalają spojrzeć na jego wizje z nowej perspektywy i zadać pytanie, czy przyszłość rzeczywiście można przewidzieć.</desc>
     <date>2015</date>
@@ -1618,7 +1274,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>3.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20260410030000 +0200" stop="20260410030000 +0200" channel="Antena">
+  <programme start="20260410023500 +0200" stop="20260410031000 +0200" channel="Antena">
     <title lang="pl">Poprawczak</title>
     <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
     <date>2021</date>
@@ -1630,19 +1286,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260410030000 +0200" stop="20260410034500 +0200" channel="Antena">
-    <title lang="pl">Poprawczak</title>
-    <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
-    <date>2021</date>
-    <category lang="pl">Serial Dokumentalny</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/2a9kq9ha3BhNDU0OTUzMS5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260410034500 +0200" stop="20260410040500 +0200" channel="Antena">
+  <programme start="20260410031000 +0200" stop="20260410033000 +0200" channel="Antena">
     <title lang="pl">Poprawczak</title>
     <desc lang="pl">Jeden z bardzo doświadczonych wychowawców opowie, jak się pracuje z nieletnimi przestępcami. Kolejny z odbywających karę nastolatków decyduje się podzielić z nami swoją tragiczną historią.</desc>
     <date>2021</date>
@@ -1654,7 +1298,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260410040500 +0200" stop="20260410044500 +0200" channel="Antena">
+  <programme start="20260410033000 +0200" stop="20260410040500 +0200" channel="Antena">
     <title lang="pl">Poprawczak</title>
     <desc lang="pl">Kradzieże, przemoc na osiedlu to tylko wycinek jego życia, ale taki który wywarł na nie ogromny wpływ. Jeden z wychowanków opowiada nam swoją historię. Poznajemy też kolejne przestrzenie zakładu poprawczego.</desc>
     <date>2021</date>
@@ -1666,7 +1310,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260410044500 +0200" stop="20260410050500 +0200" channel="Antena">
+  <programme start="20260410040500 +0200" stop="20260410042500 +0200" channel="Antena">
     <title lang="pl">Poprawczak</title>
     <desc lang="pl">Wychowankowie zakładu poprawczego jadą na mecz piłkarski. Po drodze opowiadają o tym, co jest dla nich ważne, jak radzą sobie z izolacją i jak ją odreagowują.</desc>
     <date>2021</date>
@@ -1678,7 +1322,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260410050500 +0200" stop="20260410054000 +0200" channel="Antena">
+  <programme start="20260410042500 +0200" stop="20260410045500 +0200" channel="Antena">
     <title lang="pl">Poprawczak</title>
     <desc lang="pl">Widzowie przekonają się, jak wygląda kolejny dzień w zakładzie poprawczym. Realizatorzy przekonają się, kto dziś odważy się opowiedzieć przed kamerami swoją trudną historię.</desc>
     <date>2021</date>
@@ -1690,7 +1334,7 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260410054000 +0200" stop="20260410060000 +0200" channel="Antena">
+  <programme start="20260410045500 +0200" stop="20260410060000 +0200" channel="Antena">
     <title lang="pl">Poprawczak</title>
     <desc lang="pl">Twórcy serii opowiadają o nastolatkach osadzonych w zakładzie poprawczym. Przybliżają też zasady działania placówki resocjalizacyjnej dla nieletnich oraz codzienne starania jej pracowników.</desc>
     <date>2021</date>
@@ -2090,14 +1734,12 @@ Bohaterka obrazu "Zaginiona żona". młoda i otwarta na świat Kathie, zakochuje
     </rating>
   </programme>
   <programme start="20260411042500 +0200" stop="20260411054500 +0200" channel="Antena">
-    <title lang="pl">Kabaretowy szał</title>
-    <sub-title lang="pl">Ani Mru-Mru</sub-title>
+    <title lang="pl">Kabaretowy szał: Ani Mru-Mru</title>
     <desc lang="pl">Najpopularniejsi artyści polskiej sceny kabaretowej w swoich najlepszych skeczach i piosenkach. W programie zobaczymy m.in. Ani Mru-Mru, Kabaret Moralnego Niepokoju, Kabaret Młodych Panów, Kabaret Smile, Kabaret Łowcy.B, Kabaret Jurki, Kabaret Ciach, Kabaret DNO, Kabaret OT.TO, Grupę MoCarta, Zbigniewa Zamachowskiego, Ireneusza Krosnego, Artura Andrusa czy Waldemara Malickiego.</desc>
     <date>2019</date>
     <category lang="pl">Program Rozrywkowy</category>
     <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Jizkq5ha3BhNTA2Njg4LmpwZ5GVAs0BLADCww" />
     <country lang="pl">Polska</country>
-    <episode-num system="onscreen">E4</episode-num>
     <rating>
       <value>12+</value>
     </rating>
@@ -2186,15 +1828,8 @@ Bohaterka obrazu "Zaginiona żona". młoda i otwarta na świat Kathie, zakochuje
   <programme start="20260411095000 +0200" stop="20260411102000 +0200" channel="Antena">
     <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
     <sub-title lang="pl">Łódź</sub-title>
-    <desc lang="pl">Podróżnik Wojciech Cejrowski prezentuje sposób budowy wodnych środków transportu na przykładzie prostej dłubanki oraz łodzi z burtami. Opowiada też o kolejnych udoskonaleniach wprowadzanych przez człowieka do stosowanych konstrukcji.</desc>
-    <date>2009</date>
     <category lang="pl">Cykl Reportaży</category>
-    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
-    <country lang="pl">Polska</country>
     <episode-num system="onscreen">E73</episode-num>
-    <rating>
-      <value>12+</value>
-    </rating>
   </programme>
   <programme start="20260411102000 +0200" stop="20260411105500 +0200" channel="Antena">
     <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
@@ -2784,7 +2419,7 @@ Narratorką w filmie "Uprowadzona Elizabeth Smart: moja historia" jest prawdziwa
     <country lang="pl">Francja</country>
     <episode-num system="onscreen">E3</episode-num>
     <rating>
-      <value>12+</value>
+      <value>16+</value>
     </rating>
     <star-rating>
       <value>4.0/10</value>
@@ -3201,6 +2836,421 @@ Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od
     <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
     <country lang="pl">Francja, Belgia</country>
     <episode-num system="onscreen">S5 E2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414010500 +0200" stop="20260414025000 +0200" channel="Antena">
+    <title lang="pl">Uprowadzona Elizabeth Smart</title>
+    <desc lang="pl">Dramat "Uprowadzona Elizabeth Smart: moja historia" oparty na prawdziwych wydarzeniach rozgrywa się w czerwcu 2002 roku, kiedy to 14-letnia Elizabeth Ann Smart (Alana Boden) zostaje uprowadzona ze swojego domu w Salt Lake City. Porywaczem okazuje się fanatyk religijny Brian David Mitchell (Skeet Ulrich), który zabiera dziewczynkę do swojego obozowiska na wzgórzu, gdzie wraz ze swoją wspólniczką Wandą Barzee (Deirdre Lovejoy) przetrzymują nastolatkę. Przez ten czas Elizabeth jest głodzona, odurzana narkotykami, poddawana dziwacznym rytuałom religijnym, a także wykorzystywana seksualnie. W końcu po dziewięciu miesiącach bohaterce filmu udaje się uciec. 
+Narratorką w filmie "Uprowadzona Elizabeth Smart: moja historia" jest prawdziwa porwana. Ponadto Elizabeth udziela także w tym obrazie wywiadów i można usłyszeć, jak naprawdę wyglądało jej przetrzymywanie.</desc>
+    <credits>
+      <actor>Elizabeth Smart</actor>
+      <actor>Alana Boden</actor>
+      <actor>Skeet Ulrich</actor>
+      <actor>Deirdre Lovejoy</actor>
+      <actor>Sarah Madison Barrow</actor>
+      <actor>Graem Beddoes</actor>
+      <actor>Jazmine Campanale</actor>
+      <actor>London Cardinal</actor>
+      <actor>Ethan Farrell</actor>
+      <actor>Peter Graham-Gaudreau</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">Dramat Biograficzny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">USA</country>
+    <rating>
+      <value>16+</value>
+    </rating>
+    <star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260414025000 +0200" stop="20260414041000 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadki remontowo-budowlane</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2023</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414041000 +0200" stop="20260414052000 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadki domowe</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2024</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414052000 +0200" stop="20260414060000 +0200" channel="Antena">
+    <title lang="pl">Zakręcone stworzonka z internetu</title>
+    <desc lang="pl">Najśmieszniejsze nagrania ze zwierzętami w roli głównej, które zbierają miliony wyświetleń w internecie.</desc>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating>
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20260414060000 +0200" stop="20260414061000 +0200" channel="Antena">
+    <title lang="pl">Hmmm...</title>
+    <desc lang="pl">Program rozbudza ciekawość i stawia pytania, które potrafią zaskoczyć. Sprawdza, dlaczego ten sam posiłek może smakować inaczej w zależności od towarzyszących mu dookoła dźwięków oraz czy kot rzeczywiście komunikuje się ruchem uszu. Zagłębia się też w historię, odsłaniając nieoczywiste fakty, jak pierwotne zastosowanie piły łańcuchowej. Nauka, kultura i przeszłość splatają się tu z humorem, tworząc pełną niespodzianek opowieść.</desc>
+    <date>2026</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414061000 +0200" stop="20260414062000 +0200" channel="Antena">
+    <title lang="pl">Hmmm...</title>
+    <desc lang="pl">Program rozbudza ciekawość i stawia pytania, które potrafią zaskoczyć. Sprawdza, dlaczego ten sam posiłek może smakować inaczej w zależności od towarzyszących mu dookoła dźwięków oraz czy kot rzeczywiście komunikuje się ruchem uszu. Zagłębia się też w historię, odsłaniając nieoczywiste fakty, jak pierwotne zastosowanie piły łańcuchowej. Nauka, kultura i przeszłość splatają się tu z humorem, tworząc pełną niespodzianek opowieść.</desc>
+    <date>2026</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414062000 +0200" stop="20260414063000 +0200" channel="Antena">
+    <title lang="pl">Hmmm...</title>
+    <desc lang="pl">Program rozbudza ciekawość i stawia pytania, które potrafią zaskoczyć. Sprawdza, dlaczego ten sam posiłek może smakować inaczej w zależności od towarzyszących mu dookoła dźwięków oraz czy kot rzeczywiście komunikuje się ruchem uszu. Zagłębia się też w historię, odsłaniając nieoczywiste fakty, jak pierwotne zastosowanie piły łańcuchowej. Nauka, kultura i przeszłość splatają się tu z humorem, tworząc pełną niespodzianek opowieść.</desc>
+    <date>2026</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Polska</country>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414063000 +0200" stop="20260414070500 +0200" channel="Antena">
+    <title lang="pl">Legendy rocka</title>
+    <sub-title lang="pl">U2</sub-title>
+    <desc lang="pl">Cykl filmów dokumentalnych poświęconych gwiazdom rocka.</desc>
+    <category lang="pl">Cykl Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/FMrkq9ha3BhMzA4ODE0NS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414070500 +0200" stop="20260414073500 +0200" channel="Antena">
+    <title lang="pl">Celnicy</title>
+    <desc lang="pl">Funkcjonariusze urzędów celnych muszą mierzyć się z przemytnikami wszędzie, na morzu, na lotniskach i w portach. Często ich aktywność i zaangażowanie skutkują konfiskatą nielegalnych narkotyków lub papierosów wartych miliony dolarów. Program prezentuje kulisy ich pracy i problemy z jakimi się codziennie stykają.</desc>
+    <date>2010</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/9g6kq9ha3BhMjk2MDM3MS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414073500 +0200" stop="20260414083500 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadki dziwnych wynalazków</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2025</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/DNwkq9ha3BhNTczNzIxNy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414083500 +0200" stop="20260414093500 +0200" channel="Antena">
+    <title lang="pl">Megalotnisko w Dubaju</title>
+    <desc lang="pl">Kolejna odsłona serii przedstawiającej pracę najbardziej ruchliwego lotniska na świecie. Międzynarodowy port lotniczy w Dubaju obsługuje rocznie 350 tysięcy lotów i przyjmuje 75 milionów pasażerów. Każdej doby pracuje tam 60 tysięcy osób. Personel lotniska często ma do czynienia z zaskakującymi sytuacjami, takimi jak żywe węże w bagażu pasażera i gigantyczny przerzut heroiny.</desc>
+    <date>2014</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E15</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414093500 +0200" stop="20260414103500 +0200" channel="Antena">
+    <title lang="pl">Megalotnisko w Dubaju</title>
+    <desc lang="pl">Kolejna odsłona serii przedstawiającej pracę najbardziej ruchliwego lotniska na świecie. Międzynarodowy port lotniczy w Dubaju obsługuje rocznie 350 tysięcy lotów i przyjmuje 75 milionów pasażerów. Każdej doby pracuje tam 60 tysięcy osób. Personel lotniska często ma do czynienia z zaskakującymi sytuacjami, takimi jak żywe węże w bagażu pasażera i gigantyczny przerzut heroiny.</desc>
+    <date>2014</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Wielka Brytania</country>
+    <episode-num system="onscreen">E16</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414103500 +0200" stop="20260414113500 +0200" channel="Antena">
+    <title lang="pl">Co Polak potrafi na drodze?</title>
+    <desc lang="pl">W trzecim odcinku widzowie będą mogli prześledzić przebieg tragicznego wypadku w Kamieniu Pomorskim oraz karambolu na drodze szybkiego ruchu w pobliżu Szczecina. Po raz kolejny zostanie również zweryfikowana wiedza ekspertów.</desc>
+    <date>2025</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/Q0-kq9ha3BhNjU0Njk1OS5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414113500 +0200" stop="20260414124000 +0200" channel="Antena">
+    <title lang="pl">Kabaretowy szał</title>
+    <sub-title lang="pl">Kabaret Moralnego Niepokoju</sub-title>
+    <desc lang="pl">Najbardziej znane polskie zespoły kabaretowe prezentują swoje najlepsze skecze. Występują między innymi Kabaret Młodych Panów, Ani Mru Mru, Kabaret Moralnego Niepokoju.</desc>
+    <date>2024</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/RV3kq9ha3BhMzc2MTU5Mi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414124000 +0200" stop="20260414135000 +0200" channel="Antena">
+    <title lang="pl">Winnice miłości</title>
+    <desc lang="pl">Achilleas robi wszystko, by spłacić swój dług. Niepokoi się o brata i Melinę, którym grozi poważne niebezpieczeństwo. W Atenach jego ukochana może wpaść w ręce ludzi Eurydiki i Antonisa. Choć rodzina Mattheou jest do niej wrogo nastawiona, Anastasia nadal szuka przyczyny odwołania ślubu. Zajmuje się też próbami połączenia Sifisa z córką. Pragnąc ukryć mroczną przeszłość, Daphni chce jak najszybciej dostać się do Aten. Diamantisowi nie podoba się ten pomysł. Dimitry oddala się od Nektariosa przez swoje zachowanie. Markos jest wściekły, gdy uświadamia sobie, że Antonis może go śledzić. Aggeliki czuje się zraniona przez Sifisa, który ją odrzucił. Mężczyzna, po ostrzeżeniu ze strony detektywa, nieoczekiwanie wpada w szał.</desc>
+    <credits>
+      <actor>Apostolis Totsikas</actor>
+      <actor>Eleni Vaitsou</actor>
+      <actor>Varvara Larmou</actor>
+      <actor>George Zenios</actor>
+      <actor>Melanie Steliou</actor>
+      <actor>Elena Paloumbis</actor>
+      <actor>Tina Leonora</actor>
+      <actor>Christopher Ray</actor>
+      <actor>Stefani Charalampous</actor>
+      <actor>George Zouvelos</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">Serial Obyczajowy</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Cypr, Grecja</country>
+    <episode-num system="onscreen">E30</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414135000 +0200" stop="20260414145000 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Wydarzenia, które wstrząsnęły światem. Część 1</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2023</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414145000 +0200" stop="20260414155000 +0200" channel="Antena">
+    <title lang="pl">Niezwykły dr Pol</title>
+    <sub-title lang="pl">Krowia mama</sub-title>
+    <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
+Dr Pol i jego ekipa stają przed takimi wyzwaniami, jak stworzenie protezy kopyta czy poradzenie sobie z zestresowaną krową. Często w ich ręce trafiają trudne do zdiagnozowania przypadki wymagające niesztampowych rozwiązań. Weterynarze nie tylko leczą, zszywają i opatrują, ale też z konieczności poją i karmią swoich podopiecznych. 
+Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od tej pory cieszy się sporą popularnością, ponieważ do 2018 r. powstało aż dwanaście sezonów.</desc>
+    <date>2012</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/MFbkq9ha3BhNjU1MTc0Ni5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414155000 +0200" stop="20260414165000 +0200" channel="Antena">
+    <title lang="pl">Niezwykły dr Pol</title>
+    <sub-title lang="pl">W pełni księżyca</sub-title>
+    <desc lang="pl">Serial "Niezwykły dr Pol" opowiada o pracy weterynarza Jana Pola o amerykańsko-holenderskich korzeniach, który prowadzi klinikę w miejscowości Weidman w stanie Michigan. W swej wieloletniej praktyce dr Pol otoczył opieką kilkanaście tysięcy zwierząt. Jego zespół ma pełne ręce roboty właściwie o każdej porze dnia i nocy, bez względu na warunki. Nie sposób przewidzieć, kiedy jakiemuś stworzeniu będzie potrzebna pomoc.
+Dr Pol i jego ekipa stają przed takimi wyzwaniami, jak stworzenie protezy kopyta czy poradzenie sobie z zestresowaną krową. Często w ich ręce trafiają trudne do zdiagnozowania przypadki wymagające niesztampowych rozwiązań. Weterynarze nie tylko leczą, zszywają i opatrują, ale też z konieczności poją i karmią swoich podopiecznych. 
+Program "Niezwykły dr Pol" miał premierę w 2011 r. na kanale Nat Geo Wild. Od tej pory cieszy się sporą popularnością, ponieważ do 2018 r. powstało aż dwanaście sezonów.</desc>
+    <date>2012</date>
+    <category lang="pl">Serial Dokumentalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/MFbkq9ha3BhNjU1MTc0Ni5qcGeRlQLNASwAwsM" />
+    <country lang="pl">USA</country>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414165000 +0200" stop="20260414174500 +0200" channel="Antena">
+    <title lang="pl">77 TV</title>
+    <sub-title lang="pl">Przypadki awarii</sub-title>
+    <desc lang="pl">Produkcja obejmuje 77 szokujących prawdziwych filmów. Każdy z ich podejmuje odrębny temat.</desc>
+    <date>2024</date>
+    <category lang="pl">Program Rozrywkowy</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/PFUkq9ha3BhNTczNzgwNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414174500 +0200" stop="20260414181500 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Poganiacz słoni</sub-title>
+    <desc lang="pl">Polski obieżyświat zabiera widzów w podróż do Tajlandii, by pokazać im pracę tamtejszych poganiaczy słoni. Opowie o tym, jak szkoli się te zwierzęta, jak po tresurze wygląda dalsza współpraca oraz co należy do obowiązków słoni. Między opiekunami a ich podopiecznymi powstaje niekiedy szczególna więź, która pomaga w wykonywaniu codziennej pracy. Wyłącznie słowne rozkazy nie wystarczyłyby bowiem do pokierowania olbrzymim zwierzęciem.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E79</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414181500 +0200" stop="20260414185000 +0200" channel="Antena">
+    <title lang="pl">Wojciech Cejrowski - boso przez świat</title>
+    <sub-title lang="pl">Łódka pana Makarona</sub-title>
+    <desc lang="pl">Podróżnik przedstawia dzisiaj dwa różne sposoby przygotowywania się do wypraw. Zabiera ze sobą tylko paszport i portfel, uważając, że wszystkie niezbędne rzeczy zakupi w kraju docelowym. Jeśli się nie uda, oznacza to, że nie są one potrzebne. Z kolei Makaron, współpracownik Cejrowskiego, starannie przygotowuje się do wyjazdów, zabierając wszystko ze sobą.</desc>
+    <date>2009</date>
+    <category lang="pl">Cykl Reportaży</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/8oBkq9ha3BhNjU1MTAyMy5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Polska</country>
+    <episode-num system="onscreen">E80</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414185000 +0200" stop="20260414195800 +0200" channel="Antena">
+    <title lang="pl">Morderstwa w Paryżu</title>
+    <sub-title lang="pl">Spadkobiercy, część 1</sub-title>
+    <desc lang="pl">W trakcie kilkudniowego seminarium funkcjonariusze przypadkiem znajdują na skraju drogi ciężko ranną kobietę w ciąży. Tajemniczy napastnik pozostawił na ciele ofiary znak, który symbolizuje winorośle do wyrwania. Właściciele winnicy nie rozpoznają kobiety, sami od pewnego czasu są nękani przez nieznanego sprawcę. Prawdopodobnie ktoś chce się na nich zemścić. Bandyta zdaje się wiedzieć, co łączy gospodarzy z ofiarą i wciąż narasta w nim gniew.</desc>
+    <credits>
+      <actor>Juliette Roudet</actor>
+      <actor>Matthieu Pérac</actor>
+      <actor>Jean-Michel Martial</actor>
+      <actor>Raphaël Ferret</actor>
+      <actor>Philippe Bas</actor>
+      <actor>Valérie Dashwood</actor>
+      <actor>Sophie de Fürst</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/7SRkq9ha3BhNjU1MTAzNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414195800 +0200" stop="20260414200000 +0200" channel="Antena">
+    <title lang="pl">Czas na pogodę</title>
+    <desc lang="pl">Codzienny serwis informacyjny z prognozą pogody dla Polski, Europy i całego świata.</desc>
+    <category lang="pl">Program Informacyjny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/QiAkq9ha3BhNjY0Njc3Mi5qcGeRlQLNASwAwsM" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414200000 +0200" stop="20260414211000 +0200" channel="Antena">
+    <title lang="pl">Morderstwa w Paryżu</title>
+    <sub-title lang="pl">Spadkobiercy, część 2</sub-title>
+    <desc lang="pl">Funkcjonariusze są świadkami wzięcia zakładników przez żądną zemsty młodą kobietę, Claire. Adele nakłania niestabilną emocjonalnie porywaczkę do podjęcia dialogu. Po namyśle agresorka zwierza się specjalistce od psychokryminologii. Zdobyte informacje rzucają nowe światło na sprawę zabójstwa ciężarnej Emeline. Ciało ofiary znaleziono bowiem nieopodal jej posiadłości. Adele pragnie znaleźć winowajcę, by wyrokiem sądu otrzymał on zasłużoną karę za tę zbrodnię.</desc>
+    <credits>
+      <actor>Juliette Roudet</actor>
+      <actor>Matthieu Pérac</actor>
+      <actor>Jean-Michel Martial</actor>
+      <actor>Raphaël Ferret</actor>
+      <actor>Philippe Bas</actor>
+      <actor>Valérie Dashwood</actor>
+      <actor>Sophie de Fürst</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/ptv-imported-images-transforms/1/7SRkq9ha3BhNjU1MTAzNi5qcGeRlQLNASwAwsM" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414211000 +0200" stop="20260414221500 +0200" channel="Antena">
+    <title lang="pl">Balthazar: Śledczy fenomen</title>
+    <sub-title lang="pl">Prawda jest gdzieś tam</sub-title>
+    <desc lang="pl">Raphael Balthazar odwiedza rodzinne miasteczko, w którym prowadzi nowe śledztwo. Na miejscu musi jednak zmierzyć się nieprzyjemnymi wspomnieniami. Na dodatek trafia na policyjną listę poszukiwanych. Mężczyźnie mimo to trudno oprzeć się urokowi nowej zagadki. Gdy wydaje się, że wszystko wraca do normy, z pozoru rutynowa autopsja wywraca życie Balthazara do góry nogami.</desc>
+    <credits>
+      <actor>Tomer Sisley</actor>
+      <actor>Yannig Samot</actor>
+      <actor>Philypa Phoenix</actor>
+      <actor>Côme Levin</actor>
+      <actor>Pauline Cheviller</actor>
+      <actor>Hélene de Fougerolles</actor>
+      <actor>Leslie Medina</actor>
+      <actor>Constance Labbé</actor>
+      <actor>Aliocha Itovich</actor>
+      <actor>Caterina Murino</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260414221500 +0200" stop="20260414233000 +0200" channel="Antena">
+    <title lang="pl">Detektywi z Bordeaux</title>
+    <desc lang="pl">Serial opowiada o pracy elitarnej jednostki policji w Bordeaux, która mierzy się z brutalnymi i skomplikowanymi sprawami kryminalnymi. Każde śledztwo wymaga determinacji, odwagi i pełnego zaangażowania, a presja czasu nie pozwala na błędy. Równolegle poznajemy prywatne relacje funkcjonariuszy - ich konflikty, lojalności i rodzące się przyjaźnie. Zawodowe wyzwania splatają się z osobistymi problemami, wystawiając zespół na próbę i budując napięcie zarówno w pracy, jak i poza nią.</desc>
+    <credits>
+      <actor>Xavier Deluc</actor>
+      <actor>Chrystelle Labaude</actor>
+      <actor>Jean-Pascal Lacoste</actor>
+      <actor>Virginie Caliari</actor>
+      <actor>Kamel Belghazi</actor>
+      <actor>Olivia Lancelot</actor>
+      <actor>Vincent Primault</actor>
+      <actor>Bernard Montiel</actor>
+      <actor>Félicité Du Jeu</actor>
+      <actor>Linda Hardy</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja, Belgia</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260414233000 +0200" stop="20260415004500 +0200" channel="Antena">
+    <title lang="pl">Detektywi z Bordeaux</title>
+    <desc lang="pl">Serial opowiada o pracy elitarnej jednostki policji w Bordeaux, która mierzy się z brutalnymi i skomplikowanymi sprawami kryminalnymi. Każde śledztwo wymaga determinacji, odwagi i pełnego zaangażowania, a presja czasu nie pozwala na błędy. Równolegle poznajemy prywatne relacje funkcjonariuszy - ich konflikty, lojalności i rodzące się przyjaźnie. Zawodowe wyzwania splatają się z osobistymi problemami, wystawiając zespół na próbę i budując napięcie zarówno w pracy, jak i poza nią.</desc>
+    <credits>
+      <actor>Xavier Deluc</actor>
+      <actor>Chrystelle Labaude</actor>
+      <actor>Jean-Pascal Lacoste</actor>
+      <actor>Virginie Caliari</actor>
+      <actor>Kamel Belghazi</actor>
+      <actor>Olivia Lancelot</actor>
+      <actor>Vincent Primault</actor>
+      <actor>Bernard Montiel</actor>
+      <actor>Félicité Du Jeu</actor>
+      <actor>Linda Hardy</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pl">Serial Kryminalny</category>
+    <icon src="https://ocdn.eu/program-tv-transforms/1/ScDktkpTURBXy8wYTNlMGVjNDc2ZDU1YWUxZDI4MGYzZDdlNTI5MDgwOS5wbmeRlALNASwAwg" />
+    <country lang="pl">Francja, Belgia</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
     <rating>
       <value>12+</value>
     </rating>
